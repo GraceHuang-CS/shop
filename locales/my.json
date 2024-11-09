@@ -1,0 +1,3174 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "shopify": {
+    "sentence": {
+      "words_connector": "၊ ",
+      "two_words_connector": " နှင့် ",
+      "last_word_connector": ", နှင့် "
+    },
+    "checkout": {
+      "address_management": {
+        "confirm_address_deletion": "လိပ်စာ {{address}} ကို ဖျက်လိုသည်မှာ သေချာပါသလား။"
+      },
+      "general": {
+        "page_title": "ထွက်ခွာသည်",
+        "error_page_title": "အမှား",
+        "skip_to_content": "အကြောင်းအရာသို့ ကျော်သွားပါ။",
+        "continue_button_label": "ဆက်ရန်",
+        "complete_purchase_button_label": "ပြီးအောင်လုပ်ပါ။",
+        "pay_now_button_label": "ယခုပေးချေပါ။",
+        "authenticate_purchase_button_label": "ငွေပေးချေမှုကို အထောက်အထားပြပါ။",
+        "edit_link_label": "တည်းဖြတ်ပါ။",
+        "all_rights_reserved": "မူပိုင်ခွင့်အားလုံးကို %{shop_name} မှ သိမ်းဆည်းထားသည်",
+        "print_policies_link_label": "ညောင်ပင်",
+        "cart": "လှည်း",
+        "close_modal_label": "ပိတ်လိုက်",
+        "close_notice_label": "ပိတ်လိုက်",
+        "expand_notice_label": "ပိုမိုကြည့်ရှုပါ။",
+        "continue_to_shipping_method": "ဆက်လက်ပို့ဆောင်ပါ။",
+        "continue_to_payment_method": "ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်ပါ။",
+        "continue_to_review": "မှာယူမှုကို ပြန်လည်သုံးသပ်ပါ။",
+        "back_to_cart": "လှည်းသို့ ပြန်သွားရန်",
+        "back_to_contact_information": "အချက်အလက်သို့ ပြန်သွားရန်",
+        "back_to_shipping_method": "ပို့ဆောင်ခြင်းသို့ ပြန်သွားရန်",
+        "back_to_payment_method": "ငွေပေးချေမှုသို့ ပြန်သွားရန်",
+        "choose_shipping_method": "ပို့ဆောင်ရေးနည်းလမ်းကို ရွေးချယ်ပါ။",
+        "choose_payment_method": "ငွေပေးချေမှုနည်းလမ်းကို ရွေးချယ်ပါ။",
+        "choose_billing_address": "ငွေတောင်းခံလွှာလိပ်စာကို ရွေးပါ။",
+        "contact_us_html": "နောက်ထပ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ။",
+        "autocomplete_title": "အကြံပြုချက်များ",
+        "autocomplete_single_item": "ပစ္စည်း 1 ခု ရနိုင်ပါသည်။",
+        "autocomplete_multi_item": "ပစ္စည်း {{number}} ခု ရနိုင်ပါသည်။",
+        "autocomplete_close": "အကြံပြုချက်များကို ပိတ်ပါ။",
+        "forwarding_indicator": {
+          "new_window": "ဝင်းဒိုးအသစ်တွင် ဖွင့်သည်။",
+          "external": "ပြင်ပဝဘ်ဆိုဒ်ကို ဖွင့်ပါ။",
+          "external_and_new_window": "ဝင်းဒိုးအသစ်တွင် ပြင်ပဝဘ်ဆိုက်ကို ဖွင့်သည်။"
+        },
+        "checkout_context": {
+          "step_one": "%{shop_name} - ငွေရှင်းရန်"
+        },
+        "tooltip_accessibility_label": "အချက်အလက်ပို",
+        "qr_code": "QR ကုဒ်",
+        "errors": {
+          "only_empty_terms_accepted": "ဤမူဝါဒသည် အလွတ်သတ်မှတ်ချက်များကိုသာ လက်ခံသည်။",
+          "session_identifier_not_unique_error": "သင့်မှာယူမှုတွင် တစ်ခုခုမှားသွားသည်၊ ကျေးဇူးပြု၍ ထပ်မံစစ်ဆေးကြည့်ပါ။",
+          "line_item_limit_reached": "လိုင်းအကြောင်းအရာများ အများဆုံး အရေအတွက်သို့ ရောက်ရှိသွားပါပြီ။",
+          "session_is_already_finished": "ဤငွေပေးချေမှုအပိုင်းကို အပြီးသတ်ပြီးဖြစ်သည်။",
+          "merchandise": {
+            "only_value_constraint": "ကုန်ပစ္စည်းထည့်သွင်းမှုတွင် အတိအကျတန်ဖိုးများကိုသာ ခွင့်ပြုထားသည်။",
+            "merchandise_not_found": "ထုတ်ကုန်မတွေ့ပါ။",
+            "merchandise_variant_not_found": "ထုတ်ကုန်အမျိုးကွဲကို ရှာမတွေ့ပါ။",
+            "merchandise_not_applicable": "ထုတ်ကုန်အမျိုးကွဲကို ဝယ်ယူ၍မရပါ။",
+            "bundle_products_not_supported_for_b2b": "အစုလိုက်အစည်းလိုက်အရာများကို ဤတည်နေရာအတွက် B2B မှာယူမှုများတွင် ထည့်၍မရပါ။",
+            "gift_card_quantity_mismatch": "လက်ဆောင်ကတ်ကုဒ်များကို သတ်မှတ်သည့်အခါ၊ လိုင်းအကြောင်းအရာ အရေအတွက်နှင့် လက်ဆောင်ကတ်ကုဒ်နံပါတ်များ တူညီရပါမည်။",
+            "gift_card_not_supported": "ဤငွေပေးချေမှုတွင် လက်ဆောင်ကတ်များကို မပံ့ပိုးပါ။",
+            "gift_card_not_unique": "ဤငွေရှင်းမှုတွင် ကုဒ် {{code}} ပါသော လက်ဆောင်ကတ်သည် တစ်ကြိမ်ထက်ပိုပါသည်။ ကုဒ်များကို မနှိုင်းယှဉ်မီ ဖော်မတ်လုပ်ထားသည်။",
+            "gift_card_used": "လက်ဆောင်ကတ်ကုဒ် {{code}} ကို လက်ဆောင်ကတ်တစ်ခုတွင် သတ်မှတ်ထားပြီးဖြစ်သည်။ ကုဒ်များကို မနှိုင်းယှဉ်မီ ဖော်မတ်လုပ်ထားသည်။",
+            "gift_card_invalid": "လက်ဆောင်ကတ်ကုဒ် {{code}} သည် မမှန်ကန်ပါ။",
+            "gift_card_code_changed": "ဖော်မတ်ချခြင်းစည်းမျဉ်းများနှင့်အညီ လက်ဆောင်ကတ်ကုဒ် {{proposed_code}} {{formatted_code}} သို့ ပြောင်းထားသည်။",
+            "gift_card_with_attributes_not_supported": "ဤငွေပေးချေမှုတွင် စိတ်ကြိုက်အရည်အသွေးများပါသည့် လက်ဆောင်ကတ်များကို ပံ့ပိုးမထားပါ။",
+            "gift_card_with_components_not_supported": "ဤငွေပေးချေမှုတွင် အစိတ်အပိုင်းများပါသည့် လက်ဆောင်ကတ်များကို ပံ့ပိုးမထားပါ။",
+            "selling_plan_mismatch": "စာရင်းသွင်းမှုကို မွမ်းမံပြီးပါပြီ။",
+            "selling_plan_not_supported": "စာရင်းသွင်းမှုများကို မပံ့ပိုးပါ။",
+            "selling_plan_not_supported_b2b": "B2B ငွေရှင်းခြင်းအတွက် စာရင်းသွင်းမှုများကို မပံ့ပိုးပါ။",
+            "price_mismatch": "ဤကုန်သွယ်သူများအတွက် ယခင်က အဆိုပြုထားသောစျေးနှုန်းသည် မမှန်ဘဲ အပ်ဒိတ်လုပ်ထားသည်။",
+            "inventory_not_found": "ဤကုန်ပစ္စည်းအတွက် စာရင်းမတွေ့ရှိပါ။",
+            "product_not_published": "ထုတ်ကုန်ကို ထုတ်ဝေမထားပါ။",
+            "duplicated_stable_id": "ဤကုန်သွယ်လိုင်းတွင် အခြားလိုင်းတစ်ခုနှင့် တူညီသောတည်ငြိမ်သော ID ရှိသည်။",
+            "minimum_quantity_not_met": "အချို့သောပစ္စည်းများ၏ ပမာဏသည် အနည်းဆုံး လိုအပ်သည့်ပမာဏနှင့် မပြည့်မီပါ။",
+            "maximum_quantity_exceeded": "အချို့သောပစ္စည်းများ၏ ပမာဏသည် ခွင့်ပြုထားသော အများဆုံးပမာဏထက် ကျော်လွန်နေပါသည်။",
+            "quantity_increment_not_met": "အချို့သောပစ္စည်းများ၏ အရေအတွက်သည် မှာယူမှုကန့်သတ်ချက်များနှင့် မကိုက်ညီပါ။",
+            "quantity_rules_not_met": "အချို့သောပစ္စည်းများ၏ အရေအတွက်သည် အော်ဒါကန့်သတ်ချက်များနှင့် မကိုက်ညီပါ။",
+            "bundle_requires_components": "ဤကုန်သွယ်အတွဲတွင် အစိတ်အပိုင်းများမရှိပါ။",
+            "title_too_long": "ကုန်ပစ္စည်းခေါင်းစဉ်သည် ရှည်လွန်းသည်။",
+            "title_empty": "ကုန်ပစ္စည်းခေါင်းစဉ်သည် ဗလာဖြစ်နေသည်။"
+          },
+          "buyer_identity": {
+            "business_customer_does_not_match_company": "ကုမ္ပဏီအဆက်အသွယ်သည် ကုမ္ပဏီသို့ဝင်ရောက်ခွင့်မရှိပါ။",
+            "customer_account_required": "ဆက်လုပ်ရန် ဝယ်ယူသူသည် အကောင့်ဝင်ရပါမည်။",
+            "company_location_required": "ဆက်လုပ်ရန် သုံးစွဲသူသည် ကုမ္ပဏီတည်နေရာကို ရွေးချယ်ရပါမည်။",
+            "contact_info_does_not_match_customer_account": "သတ်မှတ်ထားသော ဖောက်သည်အချက်အလက်သည် အကောင့်ဝင်ထားသည့် ဖောက်သည်အကောင့်နှင့် ကိုက်ညီသင့်သည်။",
+            "phone_number_does_not_match_expected_pattern": "သတ်မှတ်ထားသော ဖုန်းနံပါတ်သည် မျှော်လင့်ထားသည့်ပုံစံနှင့် မကိုက်ညီပါ။",
+            "email_required": "စာရင်းသွင်းမှုကို အသုံးပြု၍ ကုန်ပစ္စည်းကို ဝယ်ယူသည့်အခါ အီးမေးလ်တစ်ခု လိုအပ်ပါသည်။",
+            "email_domain_is_invalid": "ဤသတ်မှတ်ထားသောဒိုမိန်းကို ဖြေရှင်း၍မရပါ။",
+            "missing_contact_method": "မှန်ကန်သော ဆက်သွယ်ရန်နည်းလမ်းတစ်ခု ပျောက်ဆုံးနေပါသည်။",
+            "checkout_completion_target_is_missing": "ငွေပေးချေမှု ပြီးမြောက်ရန် ပစ်မှတ် ပျောက်ဆုံးနေပါသည်။",
+            "invalid_customer_profile": "မမှန်ကန်သော ဖောက်သည်ပရိုဖိုင်ကို ပေးထားသည်။",
+            "customer_profile_access_restricted": "Checkout တွင် ဖောက်သည်ပရိုဖိုင်ကို ဝင်ရောက်ကြည့်ရှုခွင့်မရှိပါ။",
+            "checkout_completion_target_is_invalid_proc": "ငွေပေးချေမှု ပြီးမြောက်ရေး ပစ်မှတ် မမှန်ကန်ပါ။"
+          },
+          "delivery": {
+            "only_one_delivery_line_allowed": "လှည်းတစ်ကြောင်းတည်းသာ ပေးပို့ရပါမည်။",
+            "wrong_number_of_delivery_lines": "ကုန်ပစ္စည်းအုပ်စုတစ်ခုစီအတွက် ပို့ဆောင်မှုလိုင်းကို သတ်မှတ်ရပါမည်။",
+            "external_delivery_promise_error": "ပြင်ပပေးပို့မှု ကတိပေးမှု အမှားအယွင်း။",
+            "options_instructions_invalid": "သတ်မှတ်ထားသော ညွှန်ကြားချက်များသည် မျှော်လင့်ထားသည့်ပုံစံနှင့် မကိုက်ညီပါ။",
+            "destination_address_required": "ရှေ့ဆက်ရန်အတွက် ဦးတည်ရာလိပ်စာတစ်ခု လိုအပ်ပါသည်။",
+            "pickup_points_unavailable": "လာယူရန် အမှတ်များကို လောလောဆယ် မရနိုင်ပါ။",
+            "local_pickup_delivery_line_detail_changed": "ဆက်လုပ်ရန်အတွက် လက်ရှိ ပြည်တွင်း လာယူပို့ဆောင်မှု မဟာဗျူဟာကို ပြောင်းလဲရပါမည်။",
+            "local_pickup_no_delivery_strategy_available": "ရရှိနိုင်သော ဒေသန္တရ လာယူပို့ဆောင်မှု ဗျူဟာကို ရှာမတွေ့ပါ။",
+            "origin_location_id_required": "လက်လီပေးပို့မှုနည်းလမ်းကို တောင်းဆိုသောအခါ မူရင်းတည်နေရာ ID လိုအပ်ပါသည်။",
+            "invalid_origin_location_id": "မူလတည်နေရာ ID နှင့် ကိုက်ညီသော တည်နေရာကို ရှာမတွေ့ပါ။",
+            "origin_location_id_not_allowed": "တောင်းဆိုထားသော ပေးပို့မှုနည်းလမ်းများသည် မူရင်းတည်နေရာ ID ကို မပံ့ပိုးပါ။",
+            "auto_fulfill_not_allowed": "ဤစက်ရှင်သည် ပြည့်စုံမှုအပြုအမူကို အစားထိုးရန် အခွင့်အာဏာမရှိပါ။",
+            "auto_fulfill_required": "လက်လီပေးပို့မှုနည်းလမ်းကို တောင်းဆိုသောအခါ အလိုအလျောက်ဖြည့်ဆည်းရန် လိုအပ်သည်။",
+            "prefetch_shipping_rates_used": "ကြိုတင်မှာယူထားသော ပို့ဆောင်ခနှုန်းထားများမှာ ဘယ်တော့မှ ပြန်နှုန်းများ မဖြစ်သင့်ပါ။",
+            "fulfillment_constraints_not_satisfied": "တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော ကန့်သတ်ချက်များ ပြည့်စုံမှုကို မကျေနပ်ပါ။",
+            "must_fulfill_from_constraint_not_satisfied": "လိုအပ်သောနေရာများမှ အရာများကို မဖြည့်ဆည်းပေးနိုင်သောကြောင့် ဖြည့်ဆည်းမှုကန့်သတ်ချက်များကို မကျေနပ်ပါ။",
+            "must_fulfill_from_same_location_constraint_not_satisfied": "တစ်နေရာတည်းမှ အရာများကို ဖြည့်ဆည်း၍မရသောကြောင့် ဖြည့်ဆည်းမှုကန့်သတ်ချက်များကို မကျေနပ်ပါ။"
+          }
+        }
+      },
+      "order_summary": {
+        "original_price": "မူရင်းစျေးနှုန်း",
+        "sale_price": "ရောင်းဈေး",
+        "total_updated_label": "အပ်ဒိတ်စုစုပေါင်းစျေးနှုန်း-",
+        "order_total_updated_label": "စုစုပေါင်း အပ်ဒိတ်လုပ်ထားသည်။",
+        "total_already_paid_label": "အခကြေးငွေ",
+        "unit_price": {
+          "accessible_separator": "နှုန်း"
+        },
+        "gift_card_ending": "%{last_characters} ဖြင့်အဆုံးသတ်ထားသော လက်ဆောင်ကတ်",
+        "estimated_tax_label": "ခန့်မှန်းခွန်",
+        "multiple_shipping_lines_label": "ပို့ဆောင်မှုစုစုပေါင်း",
+        "recurring_subtotal_label": "ထပ်တလဲလဲ အစုစု",
+        "recurring_total_label": "ထပ်တလဲလဲ စုစုပေါင်း",
+        "recurring_total_tooltip": "ပို့ဆောင်မှု၊ အခွန်၊ တာဝန်များ သို့မဟုတ် သက်ဆိုင်ရာ လျှော့စျေးများ မပါဝင်ပါ။",
+        "confirmation_number_label": "အတည်ပြုချက် #%{confirmation_number}",
+        "higher_value_discount_applied": "သင့်လက်ရှိလျှော့စျေးများဖြင့် <strong style=\"text-transform:uppercase\">%{code} ကို</strong> အသုံးမပြုနိုင်ပါ။",
+        "percent_off_shipping": "ပို့ဆောင်ခ %{percent}% လျှော့စျေး",
+        "amount_off_shipping": "ပို့ဆောင်ခ %{amount} လျှော့စျေး",
+        "deferred_payment_info": {
+          "title": "ပေးချေမှု %{amount_due} ကို %{due_at} တွင် ပေးချေရမည်",
+          "description_html": "သင့်မှာယူမှုနှင့်ပတ်သက်၍ မေးခွန်းများအတွက် %{contact_us}။",
+          "paid_today": "ယနေ့ စုစုပေါင်း ပေးဆောင်ပါသည်။",
+          "due_on_fulfillment_title": "ပေးချေမှု %{amount_due} သည် ပြည့်စုံချိန်တွင် ပေးချေရမည်ဖြစ်ပါသည်။",
+          "due_on_receipt_title": "ငွေပေးချေမှု %{amount_due} ကို ပြေစာဖြင့် ပေးချေရသည်။"
+        },
+        "deferred_balance_info": {
+          "title": "{{amount_due}} ၏ လက်ကျန်ငွေသည် {{due_at}} တွင် ကျသင့်သည်",
+          "due_on_fulfillment_title": "{{amount_due}} ၏ လက်ကျန်ငွေသည် ပြည့်စုံသောကြောင့်ဖြစ်သည်။"
+        },
+        "payment_terms_totals": {
+          "due_today": "ယနေ့ စုစုပေါင်း ပေးဆောင်ရသည်။",
+          "due_later": "စုစုပေါင်းပေးချေရမည့် %{due_at}",
+          "due_on_fulfillment": "ပြည့်စုံမှုအပေါ် ပေးဆောင်ရမည့် စုစုပေါင်း",
+          "due_on_receipt": "ပြေစာတွင် ပေးရမည့် စုစုပေါင်း",
+          "due_later_checkout_to_draft": "နောက်မှ ပေးရမယ့် စုစုပေါင်း",
+          "total_paid": "စုစုပေါင်းပေးဆောင်ခဲ့သည်။"
+        },
+        "maximum_discount_code_limit_reached": "သင်သည် အများဆုံးလျှော့စျေးကုဒ်နံပါတ်သို့ ရောက်ရှိသွားပါပြီ။ <strong style=\"text-transform:uppercase\">%{code} ကို</strong> အသုံးပြုရန် ရှိပြီးသားကုဒ်တစ်ခုကို ဖယ်ရှားပါ။",
+        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code} သည်</strong> ယခု အလုပ်မလုပ်ပါ။ အကူအညီအတွက် ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ။",
+        "due_on_fulfillment": "ဖြည့်ဆည်းပေးရသည်။",
+        "subscriptions": "စာရင်းသွင်းမှုများ",
+        "duties_label": "တာဝန်များ",
+        "duties_and_taxes_label": "တာဝန်နှင့် အခွန်များ",
+        "error_duties_tooltip": "ဤအမှာစာသည် အခြားနိုင်ငံမှ တင်ပို့နေသောကြောင့် ပို့ဆောင်မှုတွင် အခွန်နှင့် အခွန်များ ကောက်ခံနိုင်ပါသည်။",
+        "may_be_charged_on_delivery": "ပို့ဆောင်ခပေးဆောင်နိုင်ပါသည်။",
+        "total_updated_label_with_price": "အပ်ဒိတ်လုပ်ထားသော စုစုပေါင်းစျေးနှုန်း- %{totalPrice}",
+        "updated_shipping_method": "အပ်ဒိတ်လုပ်ထားသော ပို့ဆောင်ရေးနည်းလမ်း- %{shipping_method}",
+        "recurring_payments": "ထပ်တလဲလဲ ငွေပေးချေမှုများ",
+        "recurring_total_multiple_label": "ဤမှာယူမှုတွင် ပစ္စည်းအများအပြားအတွက် ထပ်တလဲလဲ ကျသင့်ငွေရှိပါသည်။",
+        "deferred_total_due_date_label": "စုစုပေါင်းပေးချေရမည့်ရက် {{date}}",
+        "full_price": "စျေးနှုန်းအပြည့်အစုံ- %{price}",
+        "custom_discount": "စိတ်ကြိုက်လျှော့စျေး",
+        "expand_component_information": {
+          "one": "%{count} ခုကို ပြပါ။",
+          "other": "%{count} ခုကို ပြပါ။"
+        },
+        "collapse_component_information": {
+          "one": "%{count} ခုကို ဝှက်ထားပါ။",
+          "other": "%{count} ခုကို ဝှက်ထားပါ။"
+        },
+        "discount_discovery": {
+          "add_code": "လျှော့စျေးထည့်ပါ။",
+          "merchandise_quantity_label": {
+            "one": "%{count} ခု",
+            "other": "%{count} ခု"
+          }
+        },
+        "alternative_payment_currency_total": "%{amount_due} အဖြစ် ကောက်ခံသည်",
+        "title": "အမိန့်အကျဉ်းချုပ်",
+        "group_title_label": "\"%{group_title}\" ၏ တစ်စိတ်တစ်ပိုင်း",
+        "order_name_label": "မှာယူရန် %{name}",
+        "shopping_cart_label": "စျေးဝယ်လှည်း",
+        "discount_title": "လျှော့စျေး",
+        "discount_title_stacking": {
+          "one": "လျှော့စျေး",
+          "other": "လျှော့စျေးများ"
+        },
+        "discount_order_stacking": {
+          "one": "အော်ဒါလျှော့",
+          "other": "လျှော့စျေးများ မှာယူပါ။"
+        },
+        "discount_label": "လျှော့စျေးကုဒ်",
+        "discount_not_found": "ထည့်သွင်းထားသောကုဒ်နှင့် ကိုက်ညီသော မှန်ကန်သောလျှော့စျေးကို ရှာမတွေ့ပါ။",
+        "discount_placeholder": "လျှော့စျေးကုဒ်",
+        "discount_code_applied": "လျှော့စျေးကုဒ်ကို အသုံးပြုထားသည်။",
+        "gift_card_applied": "လက်ဆောင်ကတ်ကို အသုံးပြုထားသည်။",
+        "enter_shipping_address": "ပို့ဆောင်ရေးလိပ်စာကို ထည့်ပါ။",
+        "gift_card_title": "လက်ဆောင်ကတ်",
+        "gift_card_label": "လက်ဆောင်ကတ်",
+        "gift_card_placeholder": "လက်ဆောင်ကတ်",
+        "gift_card_and_discount_title": "လျှော့စျေးကုဒ် သို့မဟုတ် လက်ဆောင်ကတ်",
+        "gift_card_and_discount_label": "လျှော့စျေးကုဒ် သို့မဟုတ် လက်ဆောင်ကတ်",
+        "gift_card_and_discount_placeholder": "လျှော့စျေးကုဒ် သို့မဟုတ် လက်ဆောင်ကတ်",
+        "remove_gift_card_label": "လက်ဆောင်ကတ်ကို ရှင်းလင်းပါ။",
+        "remove_discount_label": "လျှော့စျေးကိုဖယ်ရှားပါ။",
+        "return_restocking_fee_label": "ပြန်လည်ကောက်ခံခြင်း။",
+        "return_shipping_fee_label": "ပြန်လည်ပို့ဆောင်ခြင်း။",
+        "free_shipping_discount_label": "အခမဲ့ပို့ဆောင်ပေးခြင်း",
+        "applied_free_shipping_discount_label": "အသုံးချပါ။",
+        "apply_discount_button_label": "လျှောက်ထားပါ။",
+        "applied_discount_message": "စုစုပေါင်းမှာယူမှုစျေးနှုန်း %{amount}",
+        "discount_has_been_applied": "လျှော့စျေးကို အသုံးပြုထားသည်။",
+        "discount_has_been_removed": "လျှော့စျေးကို ဖယ်ရှားလိုက်ပါပြီ။",
+        "gift_card_has_been_applied": "လက်ဆောင်ကတ်ကို အသုံးပြုပြီးပါပြီ။",
+        "gift_card_has_been_removed": "လက်ဆောင်ကတ်ကို ဖယ်ရှားလိုက်ပါပြီ။",
+        "gift_card_subscriptions_notice": "လက်ဆောင်ကတ်များသည် သင်၏ပထမဆုံးငွေပေးချေမှုတွင်သာ သက်ရောက်မည်ဖြစ်သည်။",
+        "discount_already_applied": "ဤအမှာစာအတွက် လျှော့စျေးတစ်ခု ထည့်သွင်းထားပါသည်။ အခြားလျှော့စျေးကို သင်ထည့်၍မရပါ။",
+        "cart_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်သည် သင့်စျေးဝယ်လှည်းရှိပစ္စည်းများအတွက် အကျုံးမဝင်ပါ။",
+        "discount_requires_customer_notice": "<strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်ကို အသုံးပြုရန် သင်၏ပို့ဆောင်မှုအချက်အလက်ကို ထည့်သွင်းပါ။",
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်ကို သင့်အတွက် ယခုမရနိုင်ပါ။",
+        "eligible_customer_missing_notice": "<strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်သည် အရည်အချင်းပြည့်မီသော သုံးစွဲသူ လိုအပ်သည်။",
+        "shipping_information_does_not_meet_discount_requirements_notice": "သင့်ပို့ဆောင်ရေးလိပ်စာအတွက် <strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်ကို မရနိုင်ပါ။",
+        "customer_already_used_once_per_customer_discount_notice": "<strong style=\"text-transform:uppercase\">%{code}</strong> လျှော့စျေးကုဒ်ကို အသုံးပြုပြီးဖြစ်သည်။",
+        "subtotal_label": "စုစုပေါင်း",
+        "subtotal_label_with_quantity": {
+          "one": "စုစုပေါင်း • %{count} ခု",
+          "other": "စုစုပေါင်း • %{count} ခု"
+        },
+        "shipping_label": "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း",
+        "pickup_label": "ဆိုင်တွင်လာယူပါ။",
+        "no_pickup_location": "လာယူမည့်နေရာများ မရှိပါ။",
+        "tip_label": "ထိပ်ဖျား",
+        "calculating_shipping": "တွက်ချက်နေသည်...",
+        "calculating": "တွက်ချက်နေသည်...",
+        "shipping_default_value": "နောက်တစ်ဆင့်မှာ တွက်တယ်။",
+        "shipping_discount_title": "ပို့ဆောင်ခလျှော့စျေး",
+        "shipping_pending_message": "မရရှိနိုင်သေးပါ။",
+        "shipping_policy_link": "ပို့ဆောင်ခ",
+        "taxes_label": "အခွန်အခများ",
+        "estimated_taxes_label": "ခန့်မှန်းခွန်",
+        "information_estimated_taxes_label": "အခွန်များ (ခန့်မှန်း)",
+        "estimated_taxes_finalization_tooltip_content": "သင်မှာယူပြီးနောက် နောက်ဆုံးအခွန်နှင့် စုစုပေါင်းအား အီးမေးလ် သို့မဟုတ် စာတိုဖြင့် အတည်ပြုပါမည်။",
+        "order_total_label": "အော်ဒါစုစုပေါင်း",
+        "total_savings": "စုစုပေါင်းစုဆောင်းငွေ",
+        "total_label": "စုစုပေါင်း",
+        "total_outstanding_label": "ပေးဆောင်ရမည့်ပမာဏ",
+        "partial_total_label": "စုစုပေါင်း",
+        "free_total_label": "အခမဲ့",
+        "paid_label": "အခကြေးငွေ",
+        "payment_due_label": "ပေးချေရမည့်အချိန်",
+        "vat_label_html": "အခွန်များတွင် %{amount} ပါဝင်သည်။",
+        "duties_included_label": "စုစုပေါင်း အခွန်နှင့် အခွန်များ ပါဝင်သည်။ ပို့ဆောင်မှုတွင် အပိုအခကြေးငွေ မရှိပါ။",
+        "discount_and_gift_card_savings_notice": "လျှော့စျေးများတွင် %{discount_amount} နှင့် လက်ဆောင်ကတ်များတွင် %{gift_card_amount} ပြီးနောက်",
+        "discount_savings_notice": "လျှော့စျေး %{discount_amount} ပြီးနောက်",
+        "gift_card_savings_notice": "လက်ဆောင်ကတ်များတွင် %{gift_card_amount} ပြီးနောက်",
+        "cost_table_title": "ကုန်ကျစရိတ်အကျဉ်းချုပ်",
+        "cost_table_item_column_header": "ကုသိုလ်ကံ",
+        "cost_table_value_column_header": "တန်ဖိုး",
+        "description_label": "ဖော်ပြချက်",
+        "price_label": "စျေးနှုန်း",
+        "price_per_item": {
+          "accessibility_label": "ပစ္စည်းတစ်ခုလျှင် %{price}"
+        },
+        "quantity_label": "ပမာဏ",
+        "product_change_label": "ပြောင်းလဲပါ။",
+        "product_image_label": "ထုတ်ကုန်ပုံ",
+        "scroll_order_summary": "နောက်ထပ်အရာများအတွက် ရွှေ့ပါ။",
+        "expand_order_summary_short": "ရှိုး",
+        "collapse_order_summary_short": "ဖွက်ပါ။",
+        "expand_order_summary": "မှာယူမှု အနှစ်ချုပ်ကို ပြပါ။",
+        "collapse_order_summary": "မှာယူမှုအကျဉ်းချုပ်ကို ဝှက်ပါ။"
+      },
+      "shipping": {
+        "title": "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း",
+        "delivery_title": "ပေးပို့ခြင်း။",
+        "shipping_method_title": "ပို့ဆောင်ရေးနည်းလမ်း",
+        "shipping_method_one_time_purchase_group_title": "တစ်ကြိမ်ဝယ်ယူခြင်း။",
+        "shipping_method_first_shipment_group_title": {
+          "one": "ပထမဆုံး တင်ပို့မှု",
+          "other": "ပထမဆုံးတင်ပို့မှု"
+        },
+        "shipping_method_subscription_group_title": "စာရင်းသွင်းခြင်း။",
+        "shipping_method_recurring_shipments_group_title": {
+          "one": "ထပ်တလဲလဲ ပို့ဆောင်ခြင်း။",
+          "other": "ထပ်တလဲလဲ တင်ပို့မှုများ"
+        },
+        "subscription_shipping": "စာရင်းသွင်း ပို့ဆောင်ခြင်း။",
+        "subscription_local_delivery": "စာရင်းသွင်းမှု ဒေသအလိုက် ပေးပို့ခြင်း။",
+        "subscription_pickup": "စာရင်းသွင်းမှု ထုတ်ယူခြင်း။",
+        "waiting_on_rate_notice": "ရရှိနိုင်သော ပို့ဆောင်ခနှုန်းထားများကို ရယူနေသည်...",
+        "waiting_on_pickup_location_notice": "မှာယူနိုင်သည့်နေရာများကို ရယူနေသည်...",
+        "no_rates_for_cart_or_destination_notice": "သင့်လှည်း သို့မဟုတ် လိပ်စာအတွက် ပို့ဆောင်ရေးနည်းလမ်းများ မရှိပါ။",
+        "no_pickup_location_notice": "သင့်ထုတ်ကုန်များထဲမှ အနည်းဆုံးတစ်ခု လာယူရန် မရရှိနိုင်ပါ။",
+        "no_rates_for_country_notice": "ဤလိပ်စာအတွက် ပို့ဆောင်ခနှုန်းထားများ မတွေ့ပါ။",
+        "no_rates_contact_notice": "နောက်ထပ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "free_rate_label": "အခမဲ့",
+        "cheapest_rate_label": "စျေးအသက်သာဆုံး",
+        "please_enter_your_shipping_information_notice": "ကျေးဇူးပြု၍ သင်၏ပို့ဆောင်မှုအချက်အလက်ကို ထည့်သွင်းပါ။",
+        "estimated_delivery_date": {
+          "one": "အလုပ် %{count} ရက်",
+          "other": "အလုပ် %{count} ရက်"
+        },
+        "estimated_delivery_date_range": "%{minum} မှ %{maximum} လုပ်ငန်းရက်များ",
+        "estimated_delivery_time": "ခန့်မှန်းခြေ ပေးပို့မှု %{time}",
+        "estimated_delivery_time_range": "ခန့်မှန်းခြေ ပေးပို့မှု %{min_time}–%{max_time}",
+        "delivery_today": "နေ့ချင်းပြီး ပို့ဆောင်မှု %{time}",
+        "delivery_tomorrow": "နောက်ရက် ပို့ဆောင်မှု %{time}",
+        "two_day_delivery": "2 ရက်အတွင်း ပို့ဆောင်မှု %{time}",
+        "delivery": "ပို့ဆောင်ချိန်}",
+        "arrives_time": "%{time} ရောက်သည်",
+        "arrives_time_range": "%{min_time}–%{max_time} ရောက်သည်",
+        "estimated_time": "ခန့်မှန်းခြေ %{time}",
+        "estimated_time_range": "ခန့်မှန်းခြေ %{min_time}–%{max_time}",
+        "default_description": "လုပ်ငန်း 1 ရက်အတွင်း ပို့ဆောင်ပေးပါသည်။",
+        "shipping_line_phone_label": "မိုဘိုင်းဖုန်းနံပါတ် (လိုအပ်သည်)",
+        "shipping_line_phone": "သင့်အား ဆက်သွယ်ရန် ဤနံပါတ်ကို အသုံးပြုနိုင်ပါသည်။",
+        "shipping_line_delivery_phone_label": "မိုဘိုင်းဖုန်းနံပါတ်",
+        "shipping_line_delivery_phone": "သင်၏ ပေးပို့မှုဆိုင်ရာ အပ်ဒိတ်များဖြင့် သင့်ထံ ဆက်သွယ်နိုင်ပါသည်။",
+        "optional_shipping_line_delivery_instructions_label": "ပို့ဆောင်မှုလမ်းညွှန်ချက်များ (ချန်လှပ်ထားနိုင်သည်)",
+        "shipping_line_delivery_instructions": "တံခါးကုဒ်များ (သို့) drop-off ညွှန်ကြားချက်များကဲ့သို့ လိုအပ်သော အချက်အလက်များကို ထည့်သွင်းပါ။",
+        "other_method": {
+          "zero": "အခြားနည်းလမ်းများ မရရှိနိုင်ပါ။",
+          "one": "အခြားနည်းလမ်း %{count} ခုတွင် ရနိုင်ပါသည်။",
+          "other": "%{count} မှစတင်၍ ရရှိနိုင်သော အခြားနည်းလမ်းများ"
+        },
+        "shipping_rate_discounted_amount": "ဖြစ်ခဲ့သည်- %{original_amount}။ ယခု- %{amount}",
+        "local_delivery": "ဒေသအလိုက်ပေးပို့ခြင်း။",
+        "subscription_delivery_description": {
+          "free_shipping_cycles": {
+            "one": "နောက်ထပ် %{count} ပေးပို့မှုအတွက် အခမဲ့ ပို့ဆောင်ခ",
+            "other": "နောက်ထပ် %{count} ပို့ဆောင်မှုအတွက် အခမဲ့ ပို့ဆောင်ခ"
+          },
+          "free_shipping_cycles_delivery_not_included": {
+            "one": "%{count} ပို့ဆောင်မှုအတွက် အခမဲ့ ပို့ဆောင်ခ",
+            "other": "%{count} ပို့ဆောင်မှုအတွက် အခမဲ့ ပို့ဆောင်မှု"
+          },
+          "first_n_order_free_with_cycle": {
+            "one": "နောက်ထပ် %{count} ပေးပို့မှုအတွက် အခမဲ့ ပို့ဆောင်ခ၊ ထို့နောက် %{recurring_order_shipping_price}",
+            "other": "နောက်ထပ် ပို့ဆောင်မှု %{count} ခုအတွက် အခမဲ့ ပို့ဆောင်ခ၊ ထို့နောက် %{recurring_order_shipping_price}"
+          },
+          "first_n_order_free_with_cycle_delivery_not_included": {
+            "one": "%{count} ပေးပို့မှုအတွက် အခမဲ့ ပို့ဆောင်ခ၊ ထို့နောက် %{recurring_order_shipping_price}",
+            "other": "%{count} ပို့ဆောင်မှုအတွက် အခမဲ့ ပို့ဆောင်ခ၊ ထို့နောက် %{recurring_order_shipping_price}"
+          },
+          "max_cycles_base_shipping": {
+            "one": "%{shipping_price} အတွက် နောက်ထပ် ပေးပို့မှု %{count} ခု",
+            "other": "%{shipping_price} တစ်ခုစီအတွက် နောက်ထပ် %{count} ပို့ဆောင်မှု"
+          },
+          "max_cycles_base_shipping_delivery_not_included": {
+            "one": "%{shipping_price} အတွက် ပေးပို့မှု %{count}",
+            "other": "%{shipping_price} တစ်ခုစီအတွက် နောက်ထပ် %{count} ပို့ဆောင်မှု"
+          },
+          "prepaid_free_shipping_with_cycles": {
+            "one": "ပထမ %{cycle} အတွက် အခမဲ့ ပို့ဆောင်ပေးပြီး၊ နောက်တွင် %{recurring_order_shipping_price}",
+            "other": "ပထမ %{cycle} အတွက် အခမဲ့ ပို့ဆောင်ပေးပြီး၊ နောက်တွင် %{recurring_order_shipping_price}"
+          },
+          "prepaid_order_one_cycle": {
+            "one": "နောက်ထပ် %{count} ပေးပို့မှုအတွက် %{shipping_price}",
+            "other": "နောက်ထပ် ပို့ဆောင်မှု %{count} အတွက် %{shipping_price} (%{per_delivery_cost})"
+          },
+          "prepaid_order_one_cycle_delivery_not_included": {
+            "one": "%{count} ပေးပို့မှုအတွက် %{shipping_price}",
+            "other": "ပို့ဆောင်မှု %{count} အတွက် %{shipping_price} (%{per_delivery_cost})"
+          },
+          "prepaid_order_no_cycle": {
+            "one": "နောက်ထပ် %{count} ပေးပို့မှုအတွက် %{shipping_price}၊ နောက်တွင် %{recurring_order_shipping_price}",
+            "other": "နောက်ထပ် %{count} ပို့ဆောင်မှုအတွက် %{shipping_price} (%{per_delivery_cost})၊ ထို့နောက် %{recurring_order_shipping_price} ဖြင့်"
+          },
+          "prepaid_order_no_cycle_delivery_not_included": {
+            "one": "%{count} ပေးပို့မှုအတွက် %{shipping_price}၊ နောက်တွင် %{recurring_order_shipping_price}",
+            "other": "%{count} ပို့ဆောင်မှုအတွက် %{shipping_price} (%{per_delivery_cost})၊ နောက်တွင် %{recurring_order_shipping_price}"
+          },
+          "subscription_free_with_frequency_label": "အခမဲ့ ပို့ဆောင်ခ %{delivery_frequency}",
+          "prepaid_delivery_frequency": {
+            "one": "%{count} ပေးပို့မှုအတွက်",
+            "other": "%{count} ပေးပို့မှုအတွက်"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "one": "နေ့တိုင်း",
+              "other": "%{count} ရက်တိုင်း"
+            },
+            "week": {
+              "one": "အပတ်တိုင်း",
+              "other": "%{count} ပတ်တိုင်း"
+            },
+            "month": {
+              "one": "လတိုင်း",
+              "other": "%{count} လတိုင်း"
+            },
+            "year": {
+              "one": "နှစ်တိုင်း",
+              "other": "%{count} နှစ်တိုင်း"
+            }
+          },
+          "multiple_subscriptions_shipping_price_label": "ပို့ဆောင်မှုတစ်ခုလျှင် %{shipping_price}",
+          "prepaid_shipping_price_label": "ပို့ဆောင်မှုတစ်ခုလျှင် %{shipping_price} x %{delivery_interval_count}",
+          "initial_order_discounted": "ပထမဆုံး ပို့ဆောင်ခ %{discounted_shipping_cost}၊ ထို့နောက် %{frequency_description}",
+          "prepaid_initial_order_discounted": "ပထမဆုံး ပို့ဆောင်ခ %{discounted_shipping_price} %{prepaid_delivery_frequency}",
+          "prepaid_initial_order_discounted_with_per_delivery_price": "ပထမဆုံး ပို့ဆောင်ခ %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
+          "prepaid_initial_order_discounted_with_renewal": "ပထမဆုံး ပို့ဆောင်ခ %{discounted_shipping_price} %{prepaid_delivery_frequency}၊ ထို့နောက် %{shipping_price} %{billing_cycle}",
+          "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "ပထမဆုံး ပို့ဆောင်ခ %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})၊ ထို့နောက် %{shipping_price} %{billing_cycle}",
+          "shipping_price_included": "ပါဝင်ပါတယ်။",
+          "recurring_order_shipping_price": "နောက်တွင် %{recurring_order_shipping_price}",
+          "first_order_shipping_price_included": "ပထမအမှာစာ ပါ၀င်ပြီး၊ နောက်တွင် %{recurring_order_shipping_price}",
+          "first_order_different_shipping_price": "ပို့ဆောင်မှုတစ်ခုလျှင် %{first_order_shipping_price} (%{per_delivery_price})၊ နောက်တွင် %{recurring_order_shipping_price}",
+          "first_n_order_free": {
+            "one": "ပထမဆုံး အော်ဒါအခမဲ့ပါ။",
+            "other": "ပထမဆုံး %{count} အော်ဒါ အခမဲ့"
+          },
+          "free_for_first_n_order": {
+            "one": "ပထမအမိန့်အတွက်",
+            "other": "ပထမဆုံး %{count} မှာယူမှုများအတွက်"
+          }
+        },
+        "one_time_purchase_shipping": "တစ်ကြိမ်တည်း ပို့ဆောင်ခြင်း။",
+        "duties_and_taxes_title": "တာဝန်နှင့် အခွန်များ",
+        "shipping_information_required_notice": "ပို့ဆောင်မှု အချက်အလက် လိုအပ်ပါသည်။ {{link}} ။",
+        "shipping_information_redirect_link": "သင့်အချက်အလက်ကို ဤနေရာတွင် ထည့်သွင်းပါ။",
+        "loading_progressive_rates": "နောက်ထပ်နှုန်းထားများကို ရှာဖွေနေသည်...",
+        "no_other_methods_available": "အခြားနည်းလမ်းများ မရရှိနိုင်ပါ။",
+        "duties_and_taxes_options": {
+          "ddu_title": "ပို့ဆောင်မှုတွင် ငွေပေးချေပါ။",
+          "ddu_caption": "အပိုအခကြေးငွေများ ပေးဆောင်နိုင်ပါသည်။",
+          "ddp_title": "ယခုပေးချေပါ။",
+          "ddp_caption": "ပို့ဆောင်မှုတွင် အပိုအခကြေးငွေ မရှိပါ။"
+        },
+        "shipping_method_combinations": {
+          "without_separator": "%{firstMethod}၊ %{secondMethod}",
+          "with_separator": "%{rest}၊ %{current}၊",
+          "combination": "%{rest} နှင့် %{current}"
+        },
+        "shipping_used_as_billing_notice": "ဤအမှာစာအတွက် ၎င်းကို သင်၏ ငွေတောင်းခံလွှာလိပ်စာအဖြစ်လည်း အသုံးပြုပါမည်။",
+        "address_update": "လိပ်စာကို အပ်ဒိတ်လုပ်ပါ။",
+        "shipping_address_title": "သို့တင်ပို့သည်",
+        "add_address": "မတူညီသောလိပ်စာကို အသုံးပြုပါ။",
+        "add_delivery_instructions": "ပေးပို့မှု ညွှန်ကြားချက်များ ထည့်ပါ။",
+        "edit": "တည်းဖြတ်ပါ။",
+        "delete": "ဖျက်ပါ။",
+        "address_more": "ဤလိပ်စာအတွက် နောက်ထပ်လုပ်ဆောင်မှုများ",
+        "address_edit": "လိပ်စာကို တည်းဖြတ်ပါ။",
+        "address_delete": "လိပ်စာကို ဖျက်ပါ။",
+        "address_confirm": "ဤလိပ်စာကို သင့်အကောင့်မှ ဖျက်လိုသည်မှာ သေချာပါသလား။",
+        "address_default": "ပုံသေအဖြစ် သတ်မှတ်ပါ။",
+        "address_form": {
+          "add_address": "လိပ်စာထည့်ပါ။",
+          "save": "သိမ်းဆည်းပါ။",
+          "cancel": "မလုပ်တော့",
+          "generic_error": "သင့်လိပ်စာကို သိမ်းဆည်းရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ။",
+          "one_time_address_subtitle": "ဤအမှာစာအတွက် တစ်ကြိမ်သုံးလိပ်စာကို အသုံးပြုပါ။"
+        },
+        "different_shipping_method_summary": "ရရှိနိုင်သော ပို့ဆောင်မှုနည်းလမ်းများကို ကြည့်ရှုရန် မတူညီသော ပို့ဆောင်ရေးလိပ်စာကို ထည့်သွင်းပါ။",
+        "invalid_shipping_method_summary": "ရရှိနိုင်သော ပို့ဆောင်မှုနည်းလမ်းများကို ကြည့်ရှုရန် မှန်ကန်သော ပို့ဆောင်ရေးလိပ်စာကို ထည့်သွင်းပါ။",
+        "method_summary": {
+          "incomplete_address_entered": "ရရှိနိုင်သော ပို့ဆောင်မှုနည်းလမ်းများကို ကြည့်ရှုရန် ပြီးပြည့်စုံသော ပို့ဆောင်ရေးလိပ်စာကို ထည့်သွင်းပါ။",
+          "incomplete_address_selected": "ရရှိနိုင်သော ပို့ဆောင်မှုနည်းလမ်းများကို ကြည့်ရှုရန် ပြီးပြည့်စုံသော ပို့ဆောင်ရေးလိပ်စာကို ရွေးချယ်ပါ။"
+        },
+        "local_pickup": {
+          "search_address": "လိပ်စာရှာပါ။",
+          "rollup_title": "ဆိုင်တည်နေရာ"
+        },
+        "missing_shipping_address": "ပို့ဆောင်ရေးလိပ်စာ ပျောက်ဆုံးနေပါသည်။",
+        "split_shipping_merchandise_quantity_label_standard": "%{quantity} ခု",
+        "split_shipping_merchandise_quantity_label_additional": "+%{quantity} နောက်ထပ်",
+        "split_shipping_merchandise_shipment_number": "ပို့ဆောင်မှု %{total} ၏ %{number}",
+        "pre_order_ships_now": "အခုပဲ ပို့တယ်။",
+        "pre_order_ships_later": "နောက်မှ လိုက်ပို့တယ်။",
+        "pre_order_ships_date": "သင်္ဘော %{date}",
+        "split_shipping_shipped_by_shop": "%{shop_name} မှ ပေးပို့သည်",
+        "split_shipping_multiple_shipment_label": "အများအပြားတင်ပို့မှု",
+        "split_shipping_shipping_label": "နည်းလမ်း",
+        "split_shipping_multiple_shipment_quantity_label": "တင်ပို့မှု %{quantity}",
+        "split_shipping_multiple_shipment_notice": "သင့်မှာယူမှုသည် ပို့ဆောင်မှုများစွာဖြင့် ရောက်ရှိမည်ဖြစ်သည်။",
+        "split_shipping_multiple_shipment_notice_one_time_purchase": "သင့်မှာယူမှုသည် %{quantity} ပို့ဆောင်မှုအတွင်း ရောက်ရှိပါမည်။",
+        "split_shipping_more_shipping_options": "နောက်ထပ် ပို့ဆောင်မှု ရွေးချယ်စရာများ",
+        "split_shipping_shipment_number": "ပို့ဆောင်မှု %{number}",
+        "split_shipping_merchandise_quantity_label_inline_primary": "အရေအတွက်- %{quantity}",
+        "split_shipping_option_free": "အခမဲ့ပို့ဆောင်ပေးခြင်း",
+        "split_shipping_option_lowest_price": "အနိမ့်ဆုံးစျေးနှုန်း",
+        "split_shipping_option_fastest": "အမြန်ဆုံး",
+        "split_shipping_option_recommended": "အကြံပြုသည်။",
+        "split_shipping_option_custom": "စိတ်ကြိုက်"
+      },
+      "payment": {
+        "edit_credit_card_modal": {
+          "done": "ပြီးပြီ။",
+          "cancel": "မလုပ်တော့",
+          "description": "သင့်ကတ်၏ ငွေပေးချေမှုလိပ်စာကိုသာ ပြင်ဆင်နိုင်သည်။",
+          "fields": {
+            "default": "ပုံသေအဖြစ် သတ်မှတ်ပါ။",
+            "card_number": "ကတ်နံပါတ်",
+            "expiry": "သက်တမ်းကုန်ဆုံးရက်",
+            "security_code": "လုံခြုံရေးကုဒ်နံပါတ်",
+            "name": "ကဒ်ပေါ်တွင်အမည်",
+            "billing": "ထံငွေတောင်းခံသည်"
+          },
+          "title": "ကတ်ကို တည်းဖြတ်ပါ။"
+        },
+        "expired_cards_info": {
+          "one": "သင့်အကောင့်တွင် ကြည့်ရှုပြီး တည်းဖြတ်နိုင်သော %{count} သက်တမ်းကုန်ဆုံးသွားသောကတ် ရှိပါသည်။",
+          "other": "သင့်အကောင့်တွင် ကြည့်ရှုပြင်ဆင်နိုင်သည့် သက်တမ်းလွန်ကတ် %{count} ခုရှိပါသည်။"
+        },
+        "local_payment_method_receiver_notice": "သင်၏အမှာစာတင်ပြီးနောက်၊ ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို သင်လက်ခံရရှိမည်ဖြစ်သည်။ ငွေပေးချေမှုကို ATM တွင် သို့မဟုတ် {{dueDays}} ရက်အတွင်း အွန်လိုင်းတွင် ပြုလုပ်ပါ။",
+        "order_edit_banner_title": "{{amount_owed}} ကို ပေးချေရန် လိုအပ်ပါသည်။",
+        "order_edit_banner_subtitle": "သင်၏ မှာယူမှု {{order_number}} ကို အပ်ဒိတ်လုပ်ထားပါသည်။ ဤအပြောင်းအလဲများကို ပြန်လည်သုံးသပ်ပြီးနောက် သင့်မှာယူမှုကို အတည်ပြုရန် ငွေပေးချေပါ။",
+        "order_edit_banner_items_added": {
+          "one": "ထပ်ပြောပါသည်။",
+          "other": "%{count} ကို ထည့်ထားသည်"
+        },
+        "order_edit_banner_items_removed": {
+          "in_full": "ဖယ်ရှားခဲ့သည်။",
+          "with_quantities": "{{quantity}} ၏ {{delta}} ကို ဖယ်ရှားခဲ့သည်"
+        },
+        "order_edit_banner_items_returned": {
+          "in_full": "{{quantity}} ကို ပြန်ပေးသည်",
+          "with_quantities": "{{quantity}} ၏ {{delta}} ကို ပြန်ပေးသည်"
+        },
+        "order_edit_banner_items_return_line_item_removed": {
+          "in_full": "ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။",
+          "with_quantities": "{{delta}} ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။"
+        },
+        "order_edit_banner_single_item_added": "ထပ်ပြောပါသည်။",
+        "order_edit_banner_multiple_items_added": "ထည့်ထားသည် {{amount}}",
+        "order_edit_banner_single_item_removed": "ဖယ်ရှားခဲ့သည်။",
+        "order_edit_banner_multiple_items_removed": "{{amount}} ကို ဖယ်ရှားခဲ့သည်",
+        "order_edit_banner_single_item_returned": "ပြန်လာခဲ့သည်။",
+        "order_edit_banner_multiple_items_returned": "ပြန်ပေးလိုက်သည် {{amount}}",
+        "order_edit_banner_single_item_return_line_item_removed": "ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။",
+        "order_edit_banner_multiple_items_return_line_item_removed": "{{amount}} ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။",
+        "order_edit_banner_updated_order_label": "အပ်ဒိတ်လုပ်ထားသည်။",
+        "gift_card_wrapper": {
+          "heading": "လက်ဆောင်ကတ်",
+          "apply_gift_card_label": "လက်ဆောင်ကတ်ကို လျှောက်ထားပါ။",
+          "apply_another_gift_card_label": "အခြားလက်ဆောင်ကတ်ကို အသုံးပြုပါ။",
+          "gift_card_label": "လက်ဆောင်ကတ် %{identifier}",
+          "payment_tag": "လက်ဆောင်ကတ်",
+          "add_label": "လက်ဆောင်ကတ်ထည့်ပါ။",
+          "manage_label": "လက်ဆောင်ကတ်များကို စီမံပါ။"
+        },
+        "gift_card_store_credit": {
+          "add_label": "လက်ဆောင်ကတ်တစ်ခု ထည့်ပါ သို့မဟုတ် ခရက်ဒစ်ကို သိမ်းဆည်းပါ။",
+          "manage_label": "လက်ဆောင်ကတ်များကို စီမံပါ သို့မဟုတ် ခရက်ဒစ်ကို သိမ်းဆည်းပါ။"
+        },
+        "gift_card_checkbox_label": "လက်ဆောင်ကတ်ကို လျှောက်ထားပါ။",
+        "custom_onsite_payment_method_modal": {
+          "title": "စိတ်ကြိုက် Onsite ငွေပေးချေမှု အတည်ပြုချက်"
+        },
+        "markets_pro_disclaimer_label": "အောက်တွင် နှိပ်ပြီး သင့်မှာယူမှုကို ပြီးမြောက်ခြင်းဖြင့်၊ Global-e ၏ %{markets_pro_terms} နှင့် %{privacy_policy} တွင် Global-e ၏ အရောင်းအ၀ယ်စံချိန်တင်ရောင်းချသူအနေဖြင့် သင့်ပစ္စည်းများကို ဝယ်ယူရန် သဘောတူပါသည်။ Global-e သည် %{shop_name} အတွက် နိုင်ငံတကာ ပြည့်စုံသော ဝန်ဆောင်မှုပေးသူဖြစ်သည်",
+        "markets_pro_disclaimer_terms_and_conditions": "စည်းကမ်းနှင့်သတ်မှတ်ချက်များ",
+        "markets_pro_disclaimer_privacy_policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+        "markets_pro_disclaimer_terms_and_conditions_title": "ကုန်သည်များ၏ စည်းမျဥ်းစည်းကမ်းသတ်မှတ်ချက်များ",
+        "markets_pro_disclaimer_privacy_policy_title": "ကုန်သည်များ၏ ကိုယ်ရေးကိုယ်တာမူဝါဒ",
+        "purchase_order_number": {
+          "title": "စာတိုက်နံပါတ်",
+          "label": "စာတိုက်နံပါတ် (ချန်လှပ်ထားနိုင်သည်)"
+        },
+        "alternative_payment_currency_total_notice": "မှတ်ချက်- သင့်အား %{amount_due} ကောက်ခံပါမည်။",
+        "alternative_payment_currency_total_manual_payment_notice": "မှတ်ချက်- ပြောင်းထားသော စုစုပေါင်းသည် %{amount_due} ဖြစ်သည်။",
+        "waiting_on_taxes_message": "သင့်အခွန်အခများကို လာမည့်စက္ကန့်အနည်းငယ်အတွင်း မတွက်ချက်ပါက စာမျက်နှာကို ပြန်လည်စတင်ပါ။",
+        "waiting_on_taxes_notice": "အခွန်တွက်ချက်ခြင်း။",
+        "payment_method": "ငွေပေးချေစနစ်",
+        "expired_payment_method": "ရွေးချယ်ထားသော ငွေပေးချေမှုနည်းလမ်း သက်တမ်းကုန်သွားပါပြီ။",
+        "payment_method_update_failed": "ငွေပေးချေနည်းလမ်း အပ်ဒိတ် မအောင်မြင်ပါ။",
+        "proposed_gateway_unavailable": "အဆိုပြုထားသည့် ငွေပေးချေမှုတံခါးပေါက်ကို မရရှိနိုင်ပါ။",
+        "pay_in_installments_split_pay_short": "%{amount} ၏ ပေးချေမှု 4 ခု",
+        "gift_cards_unavailable": "သင့်လက်ဆောင်ကတ်ကို ဤအမှာစာတွင် အသုံးပြု၍မရတော့ဘဲ ဖယ်ရှားလိုက်ပါပြီ။",
+        "payment_flexibility_terms_id_mismatch": "ငွေပေးချေမှု လိုက်လျောညီထွေမှု သတ်မှတ်ချက် ID မကိုက်ညီပါ။",
+        "paypal_wallet_label": "PayPal ပိုက်ဆံအိတ်",
+        "shop_pay_installments_label": "ဆိုင်တွင် အရစ်ကျပေးချေခြင်း။",
+        "paypal_modal": {
+          "order_contains_subscriptions": "စာရင်းသွင်းခြင်း။",
+          "order_contains_fixed_selling_plans": "စုစုပေါင်း အခွန်များ၊ ပို့ဆောင်မှု၊ ရွှေ့ဆိုင်းထားသော အခကြေးငွေများနှင့် လျှော့စျေးအချို့ မပါဝင်ပါ။ ယနေ့ ပေးရမည့် ပမာဏအတွက် ဆက်လက် ငွေရှင်းပါ။"
+        },
+        "klarna_pay_later_label": "Klarna ဖြင့် နောက်ပိုင်းတွင် ငွေပေးချေပါ။",
+        "klarna_pay_now_label": "ယခု Klarna ဖြင့် ငွေပေးချေပါ။",
+        "bancontact_label": "ဆက်သွယ်ရန်",
+        "klarna_slice_it_label": "Klarna နှင့်ဘဏ္ဍာရေး",
+        "bank_picker_label": "ဘဏ်",
+        "afterpay_label": "ငွေပေးချေမှု",
+        "cashapppay_label": "ငွေသား App Pay",
+        "przelewy24_label": "Pzelewy24",
+        "twint_label": "အမြွှာ",
+        "purchase_options_card_update_agreement_label_html": "သင့်ငွေပေးချေနည်းလမ်းကို အပ်ဒိတ်လုပ်ခြင်းဖြင့်၊ သင်သည် ဤစတိုး၏ <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">ပယ်ဖျက်ခြင်းမူဝါဒ</a> အရ ထပ်တလဲလဲ သို့မဟုတ် ရွှေ့ဆိုင်းထားသော ဝယ်ယူမှုများအတွက် ငွေပေးချေမှုများကို သင်ခွင့်ပြုပါသည်။",
+        "subscription_card_update_agreement_label": "ငွေပေးချေမှုနည်းလမ်းကို ပြောင်းလဲခြင်းဖြင့် သင်၏စာရင်းသွင်းမှုနှင့် အနာဂတ်တွင် ထပ်တလဲလဲ ငွေပေးချေမှုများကို အပ်ဒိတ်လုပ်ပါမည်။",
+        "subscription_agreement_label": "သင့်စျေးဝယ်လှည်းရှိ ပစ္စည်းတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အရာများသည် ရွှေ့ဆိုင်းထားသော သို့မဟုတ် စာရင်းသွင်းဝယ်ယူမှုဖြစ်သည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ သင့်ငွေပေးချေမှုနည်းလမ်းကို ၎င်းမပြီးဆုံးမချင်း သို့မဟုတ် သင်ပယ်ဖျက်သည်အထိ ဤစာမျက်နှာတွင်ဖော်ပြထားသည့် စျေးနှုန်းနှင့် အကြိမ်ရေအလိုက် အလိုအလျောက်ကောက်ခံသွားမည်ဖြစ်ကြောင်း သင်သဘောတူပါသည်။ ပယ်ဖျက်မှုအားလုံးသည် %{cancelled} တွင် အကျုံးဝင်ပါသည်။",
+        "subscription_agreement_cancelled": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+        "subscription_heading": "စာရင်းသွင်းခြင်းသဘောတူညီချက်",
+        "subscription_agreement_label_html": "စာရင်းသွင်းမှုကို သဘောတူကြောင်း ကျွန်ုပ်နားလည်ပါသည်။ ၎င်းသည် သက်တမ်းကုန်ဆုံးသည်အထိ သို့မဟုတ် သက်တမ်းမတိုးမချင်း ဖော်ပြထားသော စျေးနှုန်းနှင့် ကြိမ်နှုန်းဖြင့် သက်တမ်းတိုးမည်ဖြစ်သည်။\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">ပယ်ဖျက်ခဲ့သည်</a> ။\n",
+        "purchase_options_agreement_label": "သင့်လှည်းရှိ ပစ္စည်းတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အရာများသည် ရွှေ့ဆိုင်းထားသော သို့မဟုတ် ထပ်တလဲလဲ ဝယ်ယူမှုဖြစ်သည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ သင့်ငွေပေးချေမှုနည်းလမ်းကို ၎င်းမပြီးမချင်း သို့မဟုတ် သင်ပယ်ဖျက်သည်အထိ ဤစာမျက်နှာတွင်ဖော်ပြထားသည့် စျေးနှုန်းနှင့် အကြိမ်ရေအလိုက် အလိုအလျောက်ကောက်ခံသွားမည်ဖြစ်ကြောင်း သင်သဘောတူပါသည်။ ပယ်ဖျက်ခြင်းအားလုံးသည် %{cancellation_policy_label} တွင် အကျုံးဝင်ပါသည်။",
+        "purchase_options_agreement_label_html": "ကျွန်ုပ်၏တွန်းလှည်းရှိ ပစ္စည်းတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသောပစ္စည်းများသည် ရွှေ့ဆိုင်းခြင်း သို့မဟုတ် ထပ်တလဲလဲဝယ်ယူမှုဖြစ်ကြောင်း ကျွန်ုပ်နားလည်ပါသည်။ ဆက်လုပ်ခြင်းဖြင့်၊ ကျွန်ုပ်သဘောတူသည်။\n <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">ပယ်ဖျက်ခြင်းမူဝါဒ</a>\n ကျွန်ုပ်၏ ငွေပေးချေမှုနည်းလမ်းအား ဤစာမျက်နှာတွင် ဖော်ပြထားသော စျေးနှုန်းများ၊ အကြိမ်ရေနှင့် ရက်စွဲများအထိ ကျွန်ုပ်၏ငွေပေးချေမှုနည်းလမ်းကို သင့်အား ကောက်ခံရန် ခွင့်ပြုပါ။\n မှာယူမှု ပြည့်စုံပါက သို့မဟုတ် ခွင့်ပြုပါက ပယ်ဖျက်ပါသည်။\n",
+        "purchase_options_agreement_label_wallets": "သင်၏ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ သင်သည် ဤစာမျက်နှာတွင်ဖော်ပြထားသော အနာဂတ်ကုန်ကျစရိတ်များနှင့် ပယ်ဖျက်ခြင်းမူဝါဒကို သဘောတူပါသည်။",
+        "change_currency_section_description": "ငွေကြေးရွေးချယ်မှုတစ်ခုကို ရွေးချယ်ပါ။",
+        "no_real_orders_dev_store": "ဤဆိုင်သည် စစ်မှန်သော အမှာစာများ သို့မဟုတ် အမှန်တကယ် ငွေပေးချေမှုများကို လက်မခံနိုင်ပါ။",
+        "waiting_on_payment_methods": "ရရှိနိုင်သော ငွေပေးချေနည်းလမ်းများကို ရယူနေသည်...",
+        "apple_pay_payment_error": "သင့်ငွေပေးချေမှုကို မပြီးမြောက်နိုင်ခဲ့ပါ။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် အခြားငွေပေးချေမှုနည်းလမ်းကို အသုံးပြုပါ။",
+        "taxes_not_included": "အခွန်မပါဝင်ပါ။",
+        "no_taxes_banner_content": "ဤအမှာစာအတွက် အခွန်ကောက်ခံမည်မဟုတ်ပါ။ ငွေပေးချေမှု ကောက်ခံပြီးသည်နှင့် အခွန်များ ထပ်ထည့်၍ မရတော့ပါ။",
+        "paypal": {
+          "connect": "သင်၏ PayPal အကောင့်ကို ချိတ်ဆက်ရန် နှိပ်ပါ။"
+        },
+        "apple": {
+          "connect": "သင်၏ Apple Pay အကောင့်ကို ချိတ်ဆက်ရန် နှိပ်ပါ။",
+          "not_available": "Apple Pay ကို ဤဘရောက်ဆာတွင် မရရှိနိုင်ပါ။ သင်၏ Apple Pay အကောင့်ကို ချိတ်ဆက်ရန် သင်သည် Apple စက်တွင် Safari ကို အသုံးပြုရန် လိုအပ်ပါသည်။"
+        },
+        "google": {
+          "connect": "သင့် Google Pay အကောင့်နှင့် ချိတ်ဆက်ရန် နှိပ်ပါ။",
+          "error_authorizing": "ငွေပေးချေမှုကို ခွင့်ပြုရာတွင် အမှားအယွင်းရှိသည်။"
+        },
+        "account_connected": "အကောင့်ချိတ်ဆက်ထားသည်။",
+        "mor_disclaimer_html": "အောက်တွင် နှိပ်ပြီး သင့်မှာယူမှုကို ပြီးမြောက်ခြင်းဖြင့်၊ သင်သည် Global-e မှ စံချိန်တင်ရောင်းချသူအဖြစ် သင့်ပစ္စည်းများကို ဝယ်ယူရန် သဘောတူပါသည်။\n ဤငွေပေးငွေယူအတွက်၊ Global-e ၏ <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">စည်းမျဥ်းစည်းကမ်းများ</a> \nနှင့် <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">ကိုယ်ရေးကိုယ်တာမူဝါဒ</a> ။ Global-e သည် နိုင်ငံတကာဖြစ်သည်။\n %{shop_name} သို့ ပြည့်စုံသောဝန်ဆောင်မှုပေးသူ\n",
+        "pending_payment": {
+          "due_notice": "သင်၏ပေးချေမှု %{amount_due} သည် %{due_date} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။",
+          "multibanco": {
+            "buyer_action_info": "သင်၏ ပေးချေမှု %{amount_due} သည် ကုန်ဆုံးသွားပါပြီ။",
+            "instruction_html": "အောက်ပါအသေးစိတ်အချက်အလက်များကို အသုံးပြု၍ Multibanco သို့မဟုတ် အွန်လိုင်းတွင် သင်၏ငွေပေးချေမှုကို ပြုလုပ်ပါ။ မေးခွန်းများ သို့မဟုတ် ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို အပ်ဒိတ်လုပ်ရန် %{contact_us}။",
+            "entity": "ဘဘ",
+            "reference": "အကိုးအကား",
+            "amount": "ပမာဏ",
+            "find_nearest_atm": "အနီးဆုံး ATM ကိုရှာပါ။"
+          }
+        },
+        "update_payment_method": "ငွေပေးချေမှုနည်းလမ်းကို အပ်ဒိတ်လုပ်ပါ။",
+        "order_covered_by_store_credit_notice": "သင့်မှာယူမှုကို သင့်စတိုးဆိုင်ခရက်ဒစ်ဖြင့် အကျုံးဝင်ပါသည်။",
+        "order_covered_by_redeemables_notice": "သင့်အမိန့်ကို အကျုံးဝင်ပါသည်။",
+        "store_credit": {
+          "label": "အကြွေးဝယ်",
+          "apply_label": "စတိုးဆိုင်ခရက်ဒစ်လျှောက်ထားပါ။",
+          "add_label": "စတိုးဆိုင်ခရက်ဒစ်ထည့်ပါ။",
+          "manage_label": "စတိုးဆိုင်ခရက်ဒစ်ကိုစီမံခန့်ခွဲ",
+          "buying_gift_card": "လက်ဆောင်ကတ်ဝယ်ရန် စတိုးဆိုင်ခရက်ဒစ်ကို သုံး၍မရပါ။",
+          "no_fixed_selling_plans": "ရွှေ့ဆိုင်းထားသော ဝယ်ယူမှုရွေးချယ်စရာများဖြင့် စတိုးဆိုင်ခရက်ဒစ်ကို အသုံးမပြုနိုင်ပါ။"
+        },
+        "clear": "ရှင်းပါတယ်။",
+        "billing_must_match_shipping_notice": "သင့်ငွေပေးချေမှုနည်းလမ်း၏ ငွေပေးချေမှုလိပ်စာသည် ပို့ဆောင်ရေးလိပ်စာနှင့် ကိုက်ညီရပါမည်။",
+        "same_billing_address_checkbox_label": "ငွေပေးချေသည့်လိပ်စာအဖြစ် ပို့ဆောင်ရေးလိပ်စာကို အသုံးပြုပါ။",
+        "location_billing_address_label": "တည်နေရာ ငွေတောင်းခံလွှာလိပ်စာ",
+        "fact_billing_address_label": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "location_shipping_address_label": "တည်နေရာပို့ဆောင်ရေးလိပ်စာ",
+        "use_order_billing_address_label": "မှာယူမှုငွေတောင်းခံလွှာလိပ်စာကို အသုံးပြုပါ။",
+        "use_location_billing_address_label": "တည်နေရာ ငွေတောင်းခံလွှာလိပ်စာကို အသုံးပြုပါ။",
+        "use_location_shipping_address_label": "တည်နေရာပို့ဆောင်ရေးလိပ်စာကို အသုံးပြုပါ။",
+        "no_working_method_error": "ဤဆိုင်သည် ငွေပေးချေမှုများကို ယခုလက်မခံနိုင်ပါ။ ဤစာမျက်နှာကို ပြန်လည်စတင်ပါ သို့မဟုတ် နောက်မှပြန်လာပါ။",
+        "brand_not_available": "ဤဆိုင်သည် {{brand}} လက်မခံပါ။ ကျေးဇူးပြု၍ ငွေပေးချေရန် အခြားကတ်ကို အသုံးပြုပါ။",
+        "shipping_rate_updated": "ရနိုင်သော ပို့ဆောင်ရေးနည်းလမ်းများကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။ ငွေမထုတ်မီ သင့်ရွေးချယ်မှုကို အတည်ပြုပါ။",
+        "billing_address_invalid_phone": "ရှေ့ဆက်ရန် {{label}} {{last_digits}} အတွက် သင့်ငွေပေးချေသည့်လိပ်စာရှိ ဖုန်းနံပါတ်ကို အပ်ဒိတ်လုပ်ပါ။",
+        "billing_address_invalid_phone_no_card": "ဆက်လက်ဆောင်ရွက်ရန် သင့်ငွေပေးချေမှုလိပ်စာရှိ ဖုန်းနံပါတ်ကို အပ်ဒိတ်လုပ်ပါ။",
+        "preview_not_available": {
+          "title": "အစမ်းကြည့်ရှုခြင်း မရနိုင်ပါ။",
+          "content": "စိတ်မပူပါနှင့်၊ ဤအမြန်ငွေရှင်းခြင်းသည် သင့်ဖောက်သည်များအတွက် အဆင်ပြေပါသည်။",
+          "button": "အိုကေ"
+        },
+        "card_fields": {
+          "errors": {
+            "required": {
+              "issue_date": "မှန်ကန်သော ထုတ်ပေးသည့်ရက်စွဲကို ထည့်ပါ။",
+              "issue_number": "မှန်ကန်သော ပြဿနာနံပါတ်ကို ထည့်ပါ။"
+            },
+            "invalid": {
+              "verification_value": "တရားဝင် CVV သို့မဟုတ် လုံခြုံရေးကုဒ်ကို ထည့်ပါ။"
+            }
+          }
+        },
+        "simulated_checkout": "မကြာမီ အကြိုကြည့်ရှုပါမည်။",
+        "vaulting_agreement_label": "ပိုမိုမြန်ဆန်စွာငွေရှင်းရန်အတွက် ကျွန်ုပ်၏ငွေပေးချေမှုအချက်အလက်ကို %{company} ဖြင့် သိမ်းဆည်းပါ။",
+        "business_customer_vaulting_payment_label": "ငွေရှင်းချိန်တွင် ဤကတ်ကို သိမ်းဆည်းပြီး ဤတည်နေရာအတွက် နောင်ဝယ်ယူမှုများအတွက် ၎င်းကို %{company} အား ငွေကောက်ခံရန် ခွင့်ပြုပါ။ ဤတည်နေရာအတွက် သတ်မှတ်ထားသော အဆက်အသွယ်များအားလုံးသည် ကတ်ကို အသုံးပြုနိုင်ပါသည်။",
+        "purchase_options_and_vaulting_agreement_label": "သင့်စျေးဝယ်လှည်းရှိ ပစ္စည်းတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အရာများသည် ရွှေ့ဆိုင်းထားသော သို့မဟုတ် စာရင်းသွင်းဝယ်ယူမှုဖြစ်သည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ သင့်ငွေပေးချေမှုနည်းလမ်းကို ၎င်းမပြီးမချင်း သို့မဟုတ် သင်ပယ်ဖျက်သည်အထိ ဤစာမျက်နှာတွင်ဖော်ပြထားသည့် စျေးနှုန်းနှင့် အကြိမ်ရေအလိုက် အလိုအလျောက်ကောက်ခံသွားမည်ဖြစ်ကြောင်း သင်သဘောတူပါသည်။ ပယ်ဖျက်ခြင်းအားလုံးသည် %{cancellation_policy_label} တွင် အကျုံးဝင်ပါသည်။",
+        "purchase_options_cancellation_policy_label": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+        "use_different_credit_card_label": "မတူညီသောကတ်ကို အသုံးပြုပါ။",
+        "saved_credit_card": "သင်၏သိမ်းဆည်းထားသော ခရက်ဒစ်ကတ်",
+        "saved_credit_card_info": "နောက်ဆုံးဂဏန်းလေးလုံး",
+        "saved_credit_card_cvv_verification": "အတည်ပြုရန် ရည်ရွယ်ချက်အတွက်၊ ကျေးဇူးပြု၍ သင့်ကတ်၏ လုံခြုံရေးကုဒ်ကို ထည့်ပါ။",
+        "saved_credit_card_actions": {
+          "edit": "တည်းဖြတ်ပါ။",
+          "delete": "ဖျက်ပါ။"
+        },
+        "saved_credit_cards_modal": {
+          "view_all_label": "သိမ်းဆည်းထားသော ကတ်များအားလုံးကို ကြည့်ရှုပါ။",
+          "done": "ပြီးပြီ။",
+          "cancel": "မလုပ်တော့"
+        },
+        "add_credit_card_modal": {
+          "title": "ကတ်ထည့်ပါ။",
+          "save": "သိမ်းဆည်းပါ။",
+          "cancel": "မလုပ်တော့"
+        },
+        "delete_credit_card_modal": {
+          "title": "ကတ်ကိုဖျက်ပါ။",
+          "confirmation": "{{lastDigits}} ဖြင့်အဆုံးသတ်ထားသော {{brandName}} ကို ဖျက်လိုသည်မှာ သေချာပါသလား။",
+          "cancel": "မလုပ်တော့",
+          "delete": "ဖျက်ပါ။"
+        },
+        "network_card_payment_options": "ကတ်ကွန်ရက်ကို ရွေးပါ။",
+        "amazon_payments_login_hint": "Amazon နဲ့ အကောင့်ဝင်ခိုင်းပါလိမ့်မယ်။",
+        "amazon_payments_logout": "Amazon Pay မှ ထွက်ပါ။",
+        "amazon_payments_failed_mfa_challenge": "ရွေးချယ်ထားသော ငွေပေးချေမှုနည်းလမ်းကို အသုံးမပြုနိုင်ပါ။ အခြားနည်းလမ်းကို ရွေးချယ်ပါ သို့မဟုတ် သင့်ဘဏ် သို့မဟုတ် ကတ်ထုတ်ပေးသူထံ ဆက်သွယ်ပါ။",
+        "amazon_payments_abandoned_mfa_challenge": "သင့်ငွေပေးချေမှုကို မပြီးမြောက်နိုင်ခဲ့ပါ။ အခြားငွေပေးချေမှုနည်းလမ်းကို စမ်းကြည့်ပါ သို့မဟုတ် သင့်ဘဏ် သို့မဟုတ် ကတ်ထုတ်ပေးသူထံ ဆက်သွယ်ပါ။",
+        "amazon_payments_could_not_enqueue_authorize": "သင့်ငွေပေးချေမှုကို လုပ်ဆောင်ရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် အခြားငွေပေးချေမှုနည်းလမ်းကို အသုံးပြုပါ။",
+        "title": "ငွေပေးချေမှု",
+        "amount_left_to_pay_label": "ပေးချေရမည့်အချိန်-",
+        "discount_button_action_label": "လျှော့စျေးကုဒ်ကို အသုံးပြုပါ။",
+        "gift_card_code_label": "လက်ဆောင်ကတ်ကုဒ်",
+        "apply_gift_card_button_label": "လျှောက်ထားပါ။",
+        "gift_card_balance_label": "လက်ကျန်-",
+        "supported_card_brands_more_label": "နှင့် နောက်ထပ်...",
+        "detected_card_brand": "တွေ့ရှိထားသော ကတ်အမှတ်တံဆိပ်- {brand}",
+        "credit_card_vaulting_sign_in_banner_title": "သင့်ခရက်ဒစ်ကတ်ကို သိမ်းဆည်းပါ။",
+        "credit_card_vaulting_sign_in_banner_info": "နောင်ဝယ်ယူမှုများအတွက် သင့်ခရက်ဒစ်ကတ်ကို သိမ်းဆည်းရန် အကောင့်ဝင်ပါ သို့မဟုတ် ဖန်တီးပါ။",
+        "credit_card_vaulting_sign_in_banner_button_label": "လော့ဂ်အင်",
+        "ftd_vault_credit_card_label": "ပိုမိုမြန်ဆန်စွာ ငွေရှင်းရန်အတွက် ဤခရက်ဒစ်ကတ်ကို ကျွန်ုပ်၏အကောင့်တွင် သိမ်းဆည်းပါ။",
+        "card_number_label": "ကတ်နံပါတ်",
+        "card_number_placeholder": "ကတ်နံပါတ်",
+        "card_pay_with": "ဖြင့် ပေးချေပါ-",
+        "card_security_notice": "ငွေပေးငွေယူအားလုံးသည် လုံခြုံပြီး ကုဒ်ဝှက်ထားသည်။",
+        "card_security_vault_notice": "အနာဂတ် ငွေပေးချေမှုများအတွက် သင်၏အသေးစိတ်အချက်အလက်များကို ကျွန်ုပ်တို့ လိုအပ်ပါသည်။ ငွေပေးငွေယူအားလုံးသည် လုံခြုံပြီး ကုဒ်ဝှက်ထားသည်။",
+        "card_information_notice": "ငွေပေးငွေယူအားလုံးသည် လုံခြုံပြီး ကုဒ်ဝှက်ထားသည်။ အကြွေးဝယ်ကတ်အချက်အလက်ကို ဘယ်တော့မှ သိမ်းဆည်းမထားပါဘူး။",
+        "name_on_card_label": "ကဒ်ပေါ်တွင်အမည်",
+        "name_on_card_placeholder": "ကဒ်ပေါ်တွင်အမည်",
+        "card_nickname_label": "နာမည်ပြောင် (ချန်လှပ်ထားနိုင်သည်)",
+        "card_expired": "သက်တမ်းကုန်သွားပြီ",
+        "card_expiry_label": "သက်တမ်းကုန်ဆုံးရက် (MM / YY)",
+        "card_expiry_placeholder": "သက်တမ်းကုန်ဆုံးရက် (MM / YY)",
+        "credit_card_start_month": "စတင်လ",
+        "credit_card_start_year": "စတင်သည့်နှစ်",
+        "delete_customer_mandate_modal_title": "ဤငွေပေးချေမှုကတ်ကို ဖယ်ရှားမလား။",
+        "delete_customer_mandate_modal_body": "ဤကတ်ကို ဖယ်ရှားပါက၊ ငွေပေးချေမှုများအတွက် ၎င်းကို အသုံးမပြုမီ ၎င်းကို ထပ်မံထည့်သွင်းရန် လိုအပ်ပါသည်။",
+        "delete_customer_mandate_modal_confirm": "ကတ်ကို ဖယ်ရှားပါ။",
+        "delete_customer_mandate_modal_cancel": "မလုပ်တော့",
+        "card_verification_value_label": "လုံခြုံရေးကုဒ်နံပါတ်",
+        "card_verification_value_placeholder": "လုံခြုံရေးကုဒ်နံပါတ်",
+        "card_verification_confirm": "အတည်ပြုခြင်းအတွက်၊ သင့်ကတ်၏ လုံခြုံရေးကုဒ်ကို ထည့်ပါ။",
+        "card_expiry_date_explanation": "ကတ်သက်တမ်းကုန်ဆုံးရက်စွဲ- လ၊ လ၊ နှစ်၊ နှစ်",
+        "card_expiration_month_label": "သက်တမ်းကုန်ဆုံးလ",
+        "card_expiration_year_label": "သက်တမ်းကုန်ဆုံးသည့်နှစ်",
+        "card_verification_value_explanation": "ဂဏန်း ၃ လုံး လုံခြုံရေးကုဒ်ကို သင့်ကတ်၏နောက်ကျောတွင် အများအားဖြင့် တွေ့ရပါသည်။ American Express ကတ်များတွင် ရှေ့တွင် ဂဏန်း 4 လုံးပါသော ကုဒ်ရှိသည်။",
+        "card_verification_value_explanation_amex": "သင့်ကတ်ရှေ့တွင် ဂဏန်း 4 လုံး လုံခြုံရေးကုဒ်",
+        "card_verification_value_explanation_other": "သင့်ကတ်နောက်ကျောတွင် ဂဏန်း ၃ လုံး လုံခြုံရေးကုဒ်",
+        "card_start_label": "ထုတ်ဝေသည့်ရက်စွဲ (MM / YY)",
+        "card_start_placeholder": "ထုတ်ဝေသည့်ရက်စွဲ (MM / YY)",
+        "card_issue_number_label": "ထုတ်ပြန်နံပါတ်",
+        "card_issue_number_placeholder": "ထုတ်ပြန်နံပါတ်",
+        "card_change_label": "ပြောင်းလဲပါ။",
+        "card_update_label": "အပ်ဒိတ်ကတ်",
+        "paypal_disconnect": "အဆက်အသွယ်ဖြတ်ပါ။",
+        "ends_with_label": "%{last_digits} ဖြင့် အဆုံးသတ်သည်",
+        "payment_method_saved": "ငွေပေးချေနည်းလမ်းကို သိမ်းဆည်းထားသည်။",
+        "card_vaulted_company_location": "ကတ်ကို ဤနေရာအတွက် သိမ်းဆည်းထားသည်။",
+        "expiry_long": "(သက်တမ်း %{month}/%{year})",
+        "expiry_short": "(သက်တမ်း %{month}/%{year})",
+        "saved_by_payment_method": "%{payment_method} ဖြင့် သိမ်းဆည်းထားသည်",
+        "pay_with_payment_method": "%{payment_method} ဖြင့် ပေးချေပါ",
+        "different_credit_card_label": "မတူညီသော ခရက်ဒစ်ကတ်ကို အသုံးပြုပါ။",
+        "same_billing_address_label": "ပို့ဆောင်ရေးလိပ်စာအတိုင်းပါပဲ။",
+        "different_billing_address_label": "မတူညီသော ငွေပေးချေမှုလိပ်စာကို အသုံးပြုပါ။",
+        "billing_address_associated_with_mandate": "ငွေပေးချေမှုနည်းလမ်းနှင့် ဆက်စပ်နေသော လိပ်စာကို အသုံးပြုပါ။",
+        "billing_address_associated_with_mandate_info": "သင့်ငွေပေးချေသည့်လိပ်စာကို ပြောင်းလဲလိုပါက ကျေးဇူးပြု၍ ဖယ်ရှားပြီး သင့်ခရက်ဒစ်ကတ်အသေးစိတ်အချက်အလက်များကို ပြန်လည်ထည့်သွင်းပါ။",
+        "free_order_notice_html": "သင့်မှာယူမှုသည် <strong>အခမဲ့</strong> ဖြစ်သည်။ ငွေပေးချေရန်မလိုအပ်ပါ။",
+        "express_checkout_free_order": "အခမဲ့ မှာယူမှုအတွက် သင့်အား ကောက်ခံမည်မဟုတ်ပါ။",
+        "order_covered_by_gift_cards_notice": {
+          "one": "သင့်မှာယူမှုကို သင့်လက်ဆောင်ကတ်ဖြင့် အကျုံးဝင်ပါသည်။",
+          "other": "သင့်မှာယူမှုကို သင့်လက်ဆောင်ကတ်များဖြင့် အကျုံးဝင်ပါသည်။"
+        },
+        "offsite_gateway_redirect_hint": "“%{button_label}” ကို နှိပ်ပြီးနောက်၊ သင့်ဝယ်ယူမှုကို လုံခြုံစွာ အပြီးသတ်ရန် %{gateway_label} သို့ ပြန်ညွှန်းပါမည်။",
+        "offsite_gateway_review_page_redirect_hint": "သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီးနောက်၊ သင့်ဝယ်ယူမှုကို လုံခြုံစွာ အပြီးသတ်ရန် %{gateway_label} သို့ ပြန်ညွှန်းပါမည်။",
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} စုစုပေါင်း %{total_shop_price}",
+        "receiver_payment_experience_hint": "သင်၏အမှာစာတင်ပြီးနောက်၊ ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို သင်လက်ခံရရှိမည်ဖြစ်သည်။ Multibanco တွင် သို့မဟုတ် %{due_days} ရက်အတွင်း ငွေပေးချေမှုပြုလုပ်ပါ။",
+        "billing_address_title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "billing_address_description": "သင့်ကတ် သို့မဟုတ် ငွေပေးချေမှုနည်းလမ်းနှင့် ကိုက်ညီသော လိပ်စာကို ရွေးချယ်ပါ။",
+        "billing_address_description_no_shipping_address": "သင့်ကတ် သို့မဟုတ် ငွေပေးချေမှုနည်းလမ်းနှင့် ကိုက်ညီသော လိပ်စာကို ထည့်ပါ။",
+        "no_js_credit_card_fields_redirect_hint": "သင့်ငွေပေးချေမှုအချက်အလက်ကို ထည့်သွင်းရန် သင့်အား ပြန်လည်လမ်းညွှန်ပါမည်။",
+        "card_fields_container_prefix": "ကွက်လပ်ကွန်တိန်နာ-",
+        "card_fields_unavailable_html": {
+          "one": "ခရက်ဒစ်နှင့် ဒက်ဘစ်ကတ် ငွေပေးချေမှုများကို ယခု မရနိုင်ပါ။<br> <a href=\"%{current_url}\">ဤစာမျက်နှာကို ပြန်လည်စတင်ပါ</a> သို့မဟုတ် နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+          "other": "ခရက်ဒစ်နှင့် ဒက်ဘစ်ကတ် ငွေပေးချေမှုများကို ယခု မရနိုင်ပါ။<br> <a href=\"%{current_url}\">ဤစာမျက်နှာကို ပြန်လည်စတင်ပါ</a> သို့မဟုတ် အခြားငွေပေးချေမှုနည်းလမ်းကို စမ်းကြည့်ပါ။"
+        },
+        "card_fields_processing_error": "ငွေပေးချေမှုကို လုပ်ဆောင်ရာတွင် ပြဿနာရှိနေသည်။ ဤစာမျက်နှာကို ပြန်လည်စတင်ကြည့်ပါ သို့မဟုတ် သင်၏အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးကြည့်ပါ။",
+        "technical_error": "နည်းပညာပိုင်းဆိုင်ရာ ပြဿနာကြောင့် ငွေပေးချေမှုများကို ယခုလုပ်ဆောင်၍မရပါ။ မိနစ်အနည်းငယ်အကြာတွင် ထပ်စမ်းကြည့်ပါ။",
+        "no_method_error": "ဤဆိုင်သည် ငွေပေးချေမှုများကို ယခုလက်မခံနိုင်ပါ။",
+        "not_configured_error": "ဤဆိုင်သည် ငွေပေးချေမှုများကို ယခုလက်မခံနိုင်ပါ။",
+        "missing_credit_card_error": "ငွေပေးချေမှုကို အပြီးသတ်ရန် သင့်ကတ်အသေးစိတ်အချက်အလက်များကို ထည့်သွင်းပါ။",
+        "shop_pay_ideal_unavailable_error": "iDEAL သည် ဤအမှာစာအတွက် မရရှိနိုင်ပါ။ အခြားငွေပေးချေမှုနည်းလမ်းကို ရွေးပါ။",
+        "payment_method_not_available_for_shipping_address_error": "ရွေးချယ်ထားသော ပို့ဆောင်ရေးလိပ်စာအတွက် ငွေပေးချေမှုနည်းလမ်းကို မရရှိနိုင်ပါ။ အခြားငွေပေးချေမှုနည်းလမ်းကို ရွေးချယ်ပါ။",
+        "billing_address_not_supported_for_payment_method_error": "ဤငွေပေးချေမှုနည်းလမ်းသည် သင့်ငွေပေးချေသည့်လိပ်စာနှင့် ငွေကြေးအတွက် မရနိုင်ပါ။ အခြားငွေပေးချေမှုနည်းလမ်းကို စမ်းကြည့်ပါ။",
+        "generic_incorrect_card_info": "သင့်ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို အတည်မပြုနိုင်ပါ။ သင့်ကတ်အသေးစိတ်အချက်အလက်များကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+        "sofort_label": "ဘဏ်ငွေလွှဲမှု အဆင်ပြေပါစေ။"
+      },
+      "billing": {
+        "billing_address_title": "ထံငွေတောင်းခံသည်",
+        "same_as_shipping": "ပို့ဆောင်ရေးလိပ်စာအတိုင်းပါပဲ။",
+        "add_address": "မတူညီသောလိပ်စာကို အသုံးပြုပါ။",
+        "edit": "တည်းဖြတ်ပါ။",
+        "delete": "ဖျက်ပါ။",
+        "address_more": "ဤလိပ်စာအတွက် နောက်ထပ်လုပ်ဆောင်မှုများ",
+        "address_edit": "လိပ်စာကို တည်းဖြတ်ပါ။",
+        "address_delete": "လိပ်စာကို ဖျက်ပါ။",
+        "address_confirm": "ဤလိပ်စာကို သင့်အကောင့်မှ ဖျက်လိုသည်မှာ သေချာပါသလား။",
+        "address_form": {
+          "add_address": "လိပ်စာထည့်ပါ။",
+          "save": "သိမ်းဆည်းပါ။",
+          "cancel": "မလုပ်တော့"
+        }
+      },
+      "company_location": {
+        "location_title": "တည်နေရာ"
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "လက်ရှိလက်ကျန်ငွေ %{amount}",
+        "credit_card_expires_on_notice": "%{month}/%{year} တွင် သက်တမ်းကုန်မည်",
+        "express_payment_gateway_label": "အမြန်",
+        "manual_payment_gateway_label": "လူကိုယ်တိုင်",
+        "billing_address_title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "free_label": "အခမဲ့"
+      },
+      "field_errors": {
+        "handle_phone_invalid": "တရားဝင်ဖုန်းနံပါတ်တစ်ခု ထည့်ပါ။",
+        "handle_email_invalid": "မှန်ကန်သောအီးမေးလ်ကို ထည့်ပါ။",
+        "email_invalid": "မှန်ကန်သောအီးမေးလ်ကို ထည့်ပါ။",
+        "email_or_phone_blank": "အီးမေးလ် သို့မဟုတ် ဖုန်းနံပါတ်ကို ထည့်ပါ။",
+        "email_or_phone_invalid": "တရားဝင်အီးမေးလ် သို့မဟုတ် မိုဘိုင်းဖုန်းနံပါတ်ကို ထည့်ပါ။",
+        "address_first_name_blank": "ပထမအမည်တစ်ခုထည့်ပါ။",
+        "address_first_name_too_long": "ပထမအမည်သည် ရှည်လွန်းသည် (အများဆုံး စာလုံး 255 လုံး)",
+        "address_first_name_contains_emojis": "နာမည်တွင် အီမိုဂျီများ မပါဝင်နိုင်ပါ။",
+        "address_first_name_contains_html_tags": "ပထမအမည်တွင် HTML တဂ်များ မပါဝင်နိုင်ပါ။",
+        "address_first_name_contains_url": "ပထမအမည် URL မပါဝင်နိုင်ပါ။",
+        "address_first_name_contains_mathematical_symbols": "ပထမအမည်တွင် သင်္ချာသင်္ကေတများ မပါဝင်နိုင်ပါ။",
+        "address_last_name_blank": "နောက်ဆုံးအမည်ထည့်ပါ။",
+        "address_last_name_too_long": "နောက်ဆုံးအမည်သည် ရှည်လွန်းသည် (အများဆုံး စာလုံး 255 လုံး)",
+        "address_last_name_contains_emojis": "နောက်ဆုံးအမည်တွင် အီမိုဂျီများ မပါဝင်နိုင်ပါ။",
+        "address_last_name_contains_html_tags": "နောက်ဆုံးအမည် HTML တဂ်များ မပါဝင်နိုင်ပါ။",
+        "address_last_name_contains_url": "နောက်ဆုံးအမည် URL မပါဝင်နိုင်ပါ။",
+        "address_last_name_contains_mathematical_symbols": "နောက်ဆုံးအမည်တွင် သင်္ချာသင်္ကေတများ မပါဝင်နိုင်ပါ။",
+        "address_address1_blank": "လိပ်စာတစ်ခုထည့်ပါ။",
+        "address_address1_too_long": "ပထမလိပ်စာ စာကြောင်းသည် ရှည်လွန်းသည် (အများဆုံး စာလုံး 255 လုံး)",
+        "address_address1_contains_emojis": "လိပ်စာ 1 တွင် အီမိုဂျီများ မပါဝင်နိုင်ပါ။",
+        "address_address1_contains_html_tags": "လိပ်စာ 1 တွင် HTML တဂ်များ မပါဝင်နိုင်ပါ။"
+      },
+      "wallets": {
+        "errors": {
+          "unsupported": {
+            "wallet_is_unavailable": "{{walletName}} ဤလိပ်စာဖြင့် အသုံးမပြုနိုင်ပါ။ သင့်ဝယ်ယူမှုကို အပြီးသတ်ရန် အခြားလိပ်စာတစ်ခုကို ရွေးပါ သို့မဟုတ် {{walletName}} ကို ပိတ်ပါ။",
+            "postal_code": "ဤတည်နေရာကို မပံ့ပိုးပါ။"
+          },
+          "outdated": {
+            "shipping_method": "သင့်မှာယူမှုအတွက် ပို့ဆောင်မှုရွေးချယ်စရာများ ပြောင်းလဲသွားပါပြီ။ သင်၏ရွေးချယ်မှုကို ပြန်လည်သုံးသပ်ပါ။",
+            "payment_terms": "ငွေပေးချေမှု စည်းမျဉ်းများ ပြောင်းလဲသွားပါပြီ။ သင့်အမိန့်ကို ပြန်လည်သုံးသပ်ပါ။"
+          },
+          "invalid": {
+            "shipping_address": "မှန်ကန်သော ပို့ဆောင်ရေးလိပ်စာကို ထည့်သွင်းပါ။",
+            "billing_address": "မှန်ကန်သော ငွေပေးချေမှုလိပ်စာကို ထည့်သွင်းပါ။",
+            "shipping_option": "မှန်ကန်သော ပို့ဆောင်မှုရွေးချယ်မှုကို ရွေးချယ်ပါ။",
+            "email": "မှန်ကန်သောအီးမေးလ်ကို ထည့်ပါ။",
+            "zone": "မှန်ကန်သော ပြည်နယ်/ပြည်နယ်တစ်ခု ထည့်သွင်းပါ။",
+            "emirate": "တရားဝင် emirate ကိုထည့်ပါ။",
+            "postal_code": "မှန်ကန်သော စာတိုက်/စာတိုက်ကုဒ်ကို ထည့်ပါ။",
+            "phone": "တရားဝင်ဖုန်းနံပါတ်တစ်ခု ထည့်ပါ။",
+            "reduction_code": "တရားဝင်လျှော့စျေးကုဒ် သို့မဟုတ် လက်ဆောင်ကတ်ကို ထည့်ပါ။",
+            "billing_must_match_shipping": "ပို့ဆောင်ရေးလိပ်စာနှင့် ကိုက်ညီရမည်။"
+          },
+          "missing": {
+            "first_name": "ပထမအမည်တစ်ခုထည့်ပါ။",
+            "last_name": "နောက်ဆုံးအမည်ထည့်ပါ။",
+            "address1": "လိပ်စာတစ်ခုထည့်ပါ။",
+            "address2": "တိုက်ခန်း၊ အစုံ၊ စသည်ဖြင့် ဝင်ပါ။",
+            "city": "မြို့ကိုဝင်ပါ။",
+            "province": "ပြည်နယ်/ပြည်နယ်ကို ရွေးပါ။",
+            "country": "နိုင်ငံ/ဒေသကို ရွေးပါ။",
+            "zip": "စာတိုက်/စာတိုက်ကုဒ်ကို ထည့်ပါ။",
+            "phone": "ဖုန်းနံပါတ်တစ်ခုထည့်ပါ။"
+          },
+          "formatting": {
+            "name_contains_emojis": "သင့်အမည်မှ အီမိုဂျီကို ဖျက်ပါ။",
+            "postal_code_contains_emoji": "သင့်စာတိုက်ကုဒ်မှ အီမိုဂျီကို ဖျက်ပါ။",
+            "first_name_too_long": "ပထမအမည်တွင် စာလုံးများစွာပါရှိသည်။",
+            "last_name_too_long": "နောက်ဆုံးအမည်တွင် စာလုံးများစွာပါရှိသည်။"
+          },
+          "select_different_shipping_address_to_resolve_errors": "သင့်ပို့ဆောင်ရေးလိပ်စာသည် မမှန်ကန်ပါ။ မတူညီသောလိပ်စာကို ရွေးပါ သို့မဟုတ် အသစ်တစ်ခုအသုံးပြုပါ။"
+        }
+      },
+      "note": {
+        "length_exceeds_maximum": "မှတ်စု၏ အရွယ်အစားကို စာလုံးရေ 5000 သို့မဟုတ် ဤနည်းဖြင့် လျှော့ချပါ။"
+      },
+      "one": {
+        "errors": {
+          "merchandise": {
+            "gift_card_price_must_be_greater_than_zero": "လက်ဆောင်ကတ်စျေးနှုန်းသည် 0 ထက်ကြီးရပါမည်။",
+            "gift_card_price_must_not_exceed_limit": "လက်ဆောင်ကတ်စျေးနှုန်းသည် %{gift_card_limit} ထက် မကျော်လွန်ရပါ။",
+            "subtotal_limit_reached": "လိုင်းအကြောင်းအရာများ၏ အမြင့်ဆုံးတန်ဖိုးကို ရောက်ရှိသွားပါပြီ။"
+          }
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "ပြန်အမ်းငွေမူဝါဒ",
+        "privacy_policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+        "terms_of_service": "ဝန်ဆောင်မှုစည်းမျဉ်းများ",
+        "legal_notice": "ဥပဒေသတိပေးချက်",
+        "shipping_policy": "သင်္ဘောမူဝါဒ",
+        "terms_of_sale": "ရောင်းချခြင်းဆိုင်ရာ စည်းကမ်းချက်များ",
+        "subscription_policy": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+        "purchase_options_policy": "ဝယ်ယူမှုရွေးချယ်ခွင့်မူဝါဒ",
+        "contact_information": "ဆက်သွယ်ရန်အချက်အလက်များ",
+        "purchase_options_cancellation_policy": "ပယ်ဖျက်ခြင်းမူဝါဒ"
+      },
+      "mor_policies": {
+        "terms_and_conditions": "ကုန်သည်များ၏ စည်းမျဥ်းစည်းကမ်းသတ်မှတ်ချက်များ",
+        "privacy_policy": "ကုန်သည်များ၏ ကိုယ်ရေးကိုယ်တာမူဝါဒ"
+      },
+      "markets": {
+        "invalid_market_manager_error": "ငွေပေးချေမှုမပြီးမီ သင်၏ဆက်သွယ်ရန်အချက်အလက်ကို ပြန်လည်သုံးသပ်ပါ။"
+      },
+      "notifications": {
+        "title": "အသိပေးချက်များ"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "မှာယူမှု %{order_name} အတွက် ပေးဆောင်ရမည့် ပမာဏ",
+        "changes_summary": {
+          "added": {
+            "one": "ထပ်ပြောပါသည်။",
+            "other": "%{count} ကို ထည့်ထားသည်"
+          },
+          "removed": "ဖယ်ရှားခဲ့သည်။",
+          "subtracted": "%{count} ကို ဖယ်ရှားလိုက်သည်",
+          "returned": "%{count} ကို ပြန်ပေးသည်",
+          "return_line_item_removed": "ပြန်ပို့ခြင်းမှ %{count} ကို ဖယ်ရှားခဲ့သည်။"
+        },
+        "additional_payment_requested": "ပေးချေမှု %{total_outstanding} လိုအပ်ပါသည်။",
+        "checkout_review_and_pay": "သင့်မှာယူမှု %{order_name} ကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။ ဤအပြောင်းအလဲများကို ပြန်လည်သုံးသပ်ပြီးနောက် သင့်မှာယူမှုကို အတည်ပြုရန် ငွေပေးချေပါ။",
+        "order_updated_on": "သင့်မှာယူမှုကို %{last_edited_at} တွင် အပ်ဒိတ်လုပ်ထားပါသည်။",
+        "order_review_and_pay": "သင့်မှာယူမှုကို အပ်ဒိတ်လုပ်ထားသည်။ သင့်မှာယူမှုကို အတည်ပြုရန် ပြန်လည်သုံးသပ်ပြီး ပေးချေပါ။",
+        "pay_now": "ယခုပေးချေပါ။"
+      },
+      "change_currency": {
+        "credit_card_will_be_charged_html": "သင့်ခရက်ဒစ်ကတ်ကို %{amount} ကောက်ခံပါမည်",
+        "payment_total_label": "ပေးချေမှု စုစုပေါင်း",
+        "change_currency_link": "%{currency_name} သို့ပြောင်းပါ",
+        "card_provider_fx_charges_warning": "သင့်ကတ်ဝန်ဆောင်မှုပေးသူက %{currency_code} လွှဲပြောင်းမှုများအတွက် အခကြေးငွေကို ကောက်ခံနိုင်ပါသည်။",
+        "currency_not_supported_by_shop": "သင်ရွေးချယ်ထားသော ငွေကြေးကို မရနိုင်တော့ပါ။ စျေးနှုန်းအားလုံးသည် %{currency_code} တွင် ယခုဖြစ်သည်။"
+      },
+      "change_country": {
+        "cart_updated_based_on_country": "သင်၏ ပို့ဆောင်ရေးနိုင်ငံအပေါ် အခြေခံ၍ သင့်လှည်းကို အပ်ဒိတ်လုပ်ထားပါသည်။",
+        "cart_and_currency_updated_based_on_country": "သင်၏ ပို့ဆောင်ရေးနိုင်ငံအပေါ် အခြေခံ၍ သင့်စျေးဝယ်လှည်းနှင့် ငွေကြေးကို အပ်ဒိတ်လုပ်ထားပါသည်။"
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "သင့်နိုင်ငံ/ဒေသကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။ ငွေရှင်းခြင်းကို ဆက်လက်လုပ်ဆောင်ရန် သင့်ပို့ဆောင်ရေးလိပ်စာကို ထည့်သွင်းပါ။"
+      },
+      "tips": {
+        "title": "ထိပ်ဖျားထည့်ပါ။",
+        "description": "%{shop_name} တွင် အဖွဲ့အတွက် သင်၏ပံ့ပိုးမှုကို ပြသပါ",
+        "presets_description": "အကြံပြုချက်ရာခိုင်နှုန်းကို ရွေးပါ။",
+        "custom_label": "စိတ်ကြိုက်အကြံပြုချက်",
+        "add_tip": "ထိပ်ဖျားထည့်ပါ။",
+        "message": "ကျေးဇူးတင်ပါတယ်၊ ကျွန်ုပ်တို့ ကျေးဇူးတင်ပါသည်။",
+        "no_tip_label": "တစ်ခုမှ"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "zero": "%{product_name} ကို ဝယ်ယူပါ",
+          "one": "%{product_name} နှင့် အခြားပစ္စည်း %{count} ခုကို ဝယ်ယူပါ။",
+          "other": "%{product_name} နှင့် အခြားပစ္စည်း %{count} ခုကို ဝယ်ယူပါ။"
+        }
+      },
+      "subscriptions": {
+        "recurring_total_intervals": {
+          "day": {
+            "one": "နေ့",
+            "other": "%{count} ရက်"
+          },
+          "week": {
+            "one": "တစ်ပတ်",
+            "other": "%{count} ပတ်"
+          },
+          "month": {
+            "one": "လ",
+            "other": "%{count} လ"
+          },
+          "year": {
+            "one": "တစ်နှစ်",
+            "other": "%{count} နှစ်"
+          }
+        },
+        "recurring_totals": "%{interval}တိုင်း %{total_price}",
+        "recurring_totals_with_initial_order_shipping_discount": "ပထမအကြိမ်ပေးချေမှု %{total_price_with_discount}၊ ထို့နောက် %{recurring_total}",
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "ပထမဆုံး ငွေပေးချေမှု %{total_price}",
+            "other": "ပထမအကြိမ် %{count} ပေးချေမှု %{total_price} တစ်ခုစီ"
+          },
+          "following_cycles": "ထို့နောက် %{interval}တိုင်း %{total_price}"
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": "ထို့နောက် %{total_price} ဖြင့် %{count} ပေးချေမှု",
+            "other": "ထို့နောက် %{total_price} တစ်ခုစီဖြင့် %{count} ပေးချေမှု"
+          }
+        }
+      },
+      "customer_payment_methods": {
+        "page_title": "ငွေပေးချေမှုနည်းလမ်းများ",
+        "title": "ငွေပေးချေမှုနည်းလမ်းများ",
+        "update_card_button_label": "အပ်ဒိတ်ကတ်",
+        "delete_customer_mandate": {
+          "generic_error": "သင့်တောင်းဆိုမှုကို လုပ်ဆောင်ရာတွင် ပြဿနာရှိနေသည်။",
+          "success_message": "သင့်ငွေပေးချေမှုနည်းလမ်းကို အောင်မြင်စွာ ဖျက်လိုက်ပါပြီ။"
+        }
+      },
+      "throttle": {
+        "too_many_attempts": {
+          "message": "ကြိုးစားမှု များလွန်းတယ်။",
+          "description": "မိနစ်အနည်းငယ်အကြာတွင် ထပ်စမ်းကြည့်ပါ။"
+        },
+        "line_to_check_out": "သင်ထွက်စစ်ဆေးရန် တန်းစီနေပါသည်။",
+        "cart_summary_heading": "သင့်လှည်း",
+        "merchandise": {
+          "available": "ရရှိနိုင်ပါသည်။",
+          "sold_out": "ရောင်းကုန်ပြီ"
+        },
+        "inventory": {
+          "partial_inventory_banner": "သင့်လှည်း၏တစ်စိတ်တစ်ပိုင်းကို ကုန်သွားပါပြီ၊ ငွေရှင်းချိန်တွင် ဝယ်ယူရရှိနိုင်မည်မဟုတ်ပါ။",
+          "sold_out": {
+            "heading": "မင်းရဲ့လှည်းက ရောင်းကုန်သွားပြီ",
+            "storefront_body": "ဆက်လက်၍ စျေးဝယ်ရန် စတိုးဆိုင်သို့ ပြန်သွားပါ။",
+            "no_storefront_body": "ကံမကောင်းစွာဖြင့် သင်ဝယ်ယူလိုသောပစ္စည်းကို မရနိုင်တော့ပါ။",
+            "link": "ဆိုင်သို့ ပြန်သွားရန်"
+          }
+        },
+        "title": "တန်းစီ",
+        "time_to_checkout_title": "ငွေရှင်းရန်အချိန် - {{shopName}}",
+        "estimated_wait_time": {
+          "calculating": "စောင့်ဆိုင်းချိန်ကို ခန့်မှန်းတွက်ချက်ခြင်း။",
+          "less_than_one": "ခန့်မှန်းခြေစောင့်ဆိုင်းချိန်- တစ်မိနစ်အောက်",
+          "one": "ခန့်မှန်းခြေစောင့်ဆိုင်းချိန်- {{count}} မိနစ်",
+          "other": "ခန့်မှန်းခြေစောင့်ဆိုင်းချိန်- {{count}} မိနစ်"
+        },
+        "last_checked": "(နောက်ဆုံးစစ်ဆေးထားသည်- {{time}} )",
+        "footer": {
+          "heading": "ဤစာမျက်နှာကို ပြန်လည်စတင်ခြင်းမပြုပါနှင့်၊ ၎င်းသည် အလိုအလျောက် အပ်ဒိတ်လုပ်မည်ဖြစ်သည်။",
+          "body": "ငွေရှင်းခြင်းပြီးမြောက်သည်အထိ သင့်လှည်းရှိပစ္စည်းများကို လက်ဝယ်ထားရှိမည်မဟုတ်ပါ။"
+        }
+      },
+      "cart_checkout_validation": {
+        "runtime_error": "သင့်တောင်းဆိုချက်အား လုပ်ဆောင်ရာတွင် ပြဿနာရှိနေသည်၊ ကျေးဇူးပြု၍ စတိုးဆိုင်ပိုင်ရှင်ထံ ဆက်သွယ်ပါ။"
+      },
+      "no_address_location": {
+        "title": "လိပ်စာမပါသောတည်နေရာ",
+        "header": "သင့်တွင် ဤတည်နေရာအတွက် ပို့ဆောင်ရန်လိပ်စာမရှိပါ။",
+        "alt_header": "ပေးပို့ရမည့်လိပ်စာ ပျောက်ဆုံးနေပါသည်။",
+        "message": "ငွေရှင်းခြင်း အပြီးသတ်ရန် ဤတည်နေရာအတွက် လိပ်စာတစ်ခုထည့်ရန် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "email_us_button_label": "ကျွန်တော်တို့ကို အီးမေးလ်ပို့ပါ။"
+      },
+      "order_errors": {
+        "creation_failure": "သင့်မှာယူမှုကို ဖန်တီးရာတွင် ပြဿနာတစ်ခုရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "network_failure": "ကွန်ရက်အမှားအယွင်းတစ်ခုကြောင့် သင့်မှာယူမှုကို မတင်သွင်းနိုင်ပါ။ သင့်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+        "inventory_reservation_failure": "အချို့သောအရာများကို မရနိုင်တော့ပါ။"
+      },
+      "session_errors": {
+        "session_not_unique": "သင့်မှာယူမှုကို လုပ်ဆောင်ရာတွင် ပြဿနာရှိနေသည်။ စတိုးသို့ပြန်သွားရန် ဤစာမျက်နှာကို ပြန်လည်စတင်ပါ။",
+        "session_already_finished": "ဤအမိန့်ကို တင်သွင်းပြီးဖြစ်သည်။ မှာယူမှုအသစ်တစ်ခုစတင်ရန် စတိုးဆိုင်သို့ ပြန်သွားနိုင်ပါသည်။"
+      },
+      "pickup_point": {
+        "location_is_currently_closed": "ပိတ်ထားသည်။"
+      },
+      "contact": {
+        "phone_tooltip": "သင့်မှာယူမှုနှင့်ပတ်သက်ပြီး သင့်အား ဆက်သွယ်ရန် လိုအပ်ပါက၊",
+        "zip_code_label": "စာတိုက်သင်္ကေတ",
+        "optional_zip_code_label": "စာတိုက်ကုဒ် (ချန်လှပ်ထားနိုင်သည်)",
+        "zip_code_placeholder": "စာတိုက်သင်္ကေတ",
+        "postal_code_label": "စာတိုက်သင်္ကေတ",
+        "optional_postal_code_label": "စာတိုက်ကုဒ် (ချန်လှပ်ထားနိုင်သည်)",
+        "postal_code_placeholder": "စာတိုက်သင်္ကေတ",
+        "postcode_label": "စာပို့ကုဒ်",
+        "optional_postcode_label": "စာပို့သင်္ကေတ (ချန်လှပ်ထားနိုင်သည်)",
+        "postcode_placeholder": "စာပို့ကုဒ်",
+        "pincode_label": "ပင်နံပါတ်ကုဒ်",
+        "optional_pincode_label": "ပင်နံပါတ်ကုဒ် (ချန်လှပ်ထားနိုင်သည်)",
+        "pincode_placeholder": "ပင်နံပါတ်ကုဒ်",
+        "civic_number_warning": "အိမ်နံပါတ်တစ်ခုရှိရင် ထည့်ပါ။",
+        "optional_last_name_label": "နောက်ဆုံးအမည် (ချန်လှပ်ထားနိုင်သည်)",
+        "different_shipping_address_label": "အခြားလိပ်စာသို့ ပို့ဆောင်ပါ။",
+        "different_shipping_address_text": "ဤအမှာစာအတွက် တစ်ကြိမ်သုံးလိပ်စာကို အသုံးပြုပါ။",
+        "change_company_location_link_label": "ကုမ္ပဏီတည်နေရာပြောင်းပါ။",
+        "change_location_link_label": "တည်နေရာပြောင်းပါ။",
+        "ship_to_company": "{{companyName}} သို့ ပို့ဆောင်ပါ"
+      },
+      "delivery_options": {
+        "free_total_label": "အခမဲ့",
+        "ship": "သင်္ဘော",
+        "ship_to_address": "လိပ်စာသို့ ပို့ဆောင်ပေးပါသည်။",
+        "shipping_address": "ကုန်ပစ္စည်းပို့ဆောင်ရမည့်လိပ်စာ",
+        "pick_up": "ကောက်ကိုင်လိုက်သည်",
+        "pick_up_from_store": "ဆိုင်တွင်လာယူပါ။",
+        "pick_up_locations": "ဆိုင်တည်နေရာများ",
+        "pick_up_in_one_hour": "များသောအားဖြင့် 1 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "pick_up_in_two_hours": "များသောအားဖြင့် 2 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "pick_up_in_four_hours": "အများအားဖြင့် 4 နာရီအတွင်းအဆင်သင့်",
+        "pick_up_in_twenty_four_hours": "အများအားဖြင့် 24 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "pick_up_in_two_to_four_days": "များသောအားဖြင့် 2-4 ရက်အတွင်းအဆင်သင့်ဖြစ်နိုင်သည်။",
+        "pick_up_in_five_or_more_days": "များသောအားဖြင့် 5+ ရက်အတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "pick_up_in_zero_to_two_hours": "၂ နာရီအတွင်း လာယူရန် အဆင်သင့်ဖြစ်ပါပြီ။",
+        "pick_up_in_two_to_four_hours": "4 နာရီအတွင်း လာယူရန် အသင့်ဖြစ်နေပါပြီ။",
+        "pick_up_immediately": "လာယူရန် အဆင်သင့်ဖြစ်နေပါပြီ။",
+        "pick_up_next_day": "နောက်နေ့ လာယူဖို့ အဆင်သင့်ဖြစ်နေပြီ။",
+        "pickup_point_method_definition": "လာယူမည့်နေရာသို့ ပို့ဆောင်ပါ။",
+        "retail_method_definition": "လက်လီ ပို့ဆောင်ခြင်း။",
+        "none_method_definition": "ပို့ဆောင်ခြင်းမရှိပါ။",
+        "subscription_pickup_information": "ဤပေးပို့မှုနည်းလမ်းသည် ဤအမှာစာရှိ ပစ္စည်းအားလုံးနှင့် ဤစာရင်းသွင်းမှုအတွက် နောင်လာမည့် အမှာစာများအားလုံးတွင် သက်ရောက်မှုရှိပါမည်။"
+      },
+      "customer_account": {
+        "not_user_label": "%{first_name} မဟုတ်ဘူးလား?",
+        "have_an_account_label": "အကောင့်ရှိလား။",
+        "sign_in_link_label": "လော့ဂ်အင်",
+        "sign_out_link_label": "ထွက်လိုက်ပါ။",
+        "save_my_information_label": "ဤအချက်အလက်ကို နောက်တစ်ကြိမ်အတွက် သိမ်းဆည်းပါ။",
+        "invalid_address": "ရွေးထားသောလိပ်စာသည် မမှန်ကန်ပါ။ %{update_address_link} သို့မဟုတ် အခြားလိပ်စာတစ်ခုကို ရွေးပါ။",
+        "incomplete_address": "ရွေးထားသည့်လိပ်စာ မပြည့်စုံပါ။ %{update_address_link} သို့မဟုတ် အခြားလိပ်စာတစ်ခုကို ရွေးပါ။",
+        "rollup_label": "အကောင့်",
+        "invalid_shipping_method_summary": "ရရှိနိုင်သော ပို့ဆောင်မှုနည်းလမ်းများကို ကြည့်ရှုရန် မှန်ကန်သော ပို့ဆောင်ရေးလိပ်စာကို ရွေးချယ်ပါ။",
+        "saved_address_option_description": {
+          "one": "သင့်တွင် သိမ်းဆည်းထားသော လိပ်စာ {{count}} ရှိသည်။",
+          "other": "သင့်တွင် သိမ်းဆည်းထားသည့် လိပ်စာ {{count}} ရှိသည်။"
+        },
+        "saved_address_option_link": "သိမ်းဆည်းထားသောလိပ်စာကို အသုံးပြုပါ။",
+        "saved_address_modal_title": "ကျွန်ုပ်သိမ်းဆည်းထားသောလိပ်စာကို အသုံးပြုပါ။"
+      },
+      "stock": {
+        "page_title": "စာရင်းကိစ္စများ",
+        "title": "ပစ္စည်းပြတ်တောက်နေသည်",
+        "items_unavailable_notice": "အချို့သောအရာများကို မရနိုင်တော့ပါ။",
+        "product_column_header": "ထုတ်ကုန်များ",
+        "quantity_column_header": "ပမာဏ",
+        "price_column_header": "စျေးနှုန်း",
+        "status_column_header": "အဆင့်အတန်း",
+        "removed_from_cart_notice": "လှည်းပေါ်မှ ဖယ်ရှားခဲ့သည်။",
+        "sold_out_label": "ရောင်းကုန်ပြီ",
+        "reduced_label": "လျှော့ပေးတယ်။",
+        "reduced_with_quantity_label": "%{quantity_available} သာ ကျန်တော့သည်။",
+        "remove_from_cart_button_label": "လှည်းမှ ဖယ်ရှားပါ။",
+        "continue_shopping_button_label": "ဆက်ရန်",
+        "go_back_to_cart_button_label": "ငါ့လှည်းကို ပြန်သွားပါ။",
+        "remove": "ဖယ်ရှားပါ။",
+        "return_to_store_label": "ဆိုင်သို့ ပြန်သွားရန်",
+        "continue_cta_label": "ငွေရှင်းခြင်းကို ဆက်လက်လုပ်ဆောင်ပါ။",
+        "item_label": {
+          "one": "ပစ္စည်း {{count}} ခု",
+          "other": "ပစ္စည်း {{count}} ခု"
+        },
+        "empty_cart_label": "သင့်လှည်းသည် ဗလာဖြစ်နေသည်။",
+        "quantity_update": {
+          "page_title": "အရေအတွက် အပ်ဒိတ်",
+          "title": "အရေအတွက် အပ်ဒိတ်",
+          "description": "ဤပစ္စည်းများအတွက် ရနိုင်သော ပမာဏများ ပြောင်းလဲသွားပြီး သင့်လှည်းတွင် အပ်ဒိတ်လုပ်ထားသည်။"
+        },
+        "unpurchasable_product": {
+          "title": "ဝယ်မရသောထုတ်ကုန်",
+          "header": "အချို့သောပစ္စည်းများကို သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားခဲ့သည်။",
+          "message": "ဤပစ္စည်းများသည် B2B မှာယူမှုများအတွက် မရနိုင်ပါ။",
+          "status_column_header": "မရရှိနိုင်ပါ"
+        },
+        "unpurchasable_product_generic": {
+          "title": "ဝယ်မရသောထုတ်ကုန်",
+          "header": "အချို့သောပစ္စည်းများကို သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားခဲ့သည်။",
+          "message": "ဤအရာများကို မရရှိနိုင်ပါ။",
+          "status_column_header": "မရရှိနိုင်ပါ"
+        },
+        "unfulfillable_product": {
+          "title": "ပို့ဆောင်မှု မရရှိနိုင်ပါ။",
+          "message": {
+            "one": "ဤပစ္စည်းအတွက် %{delivery_method} ကို မရနိုင်တော့ပါ။",
+            "other": "ဤအရာများအတွက် %{delivery_method} ကို မရနိုင်တော့ပါ။"
+          },
+          "default_message": {
+            "one": "ရွေးချယ်ထားသော ပေးပို့မှုနည်းလမ်းကို ဤပစ္စည်းအတွက် မရနိုင်တော့ပါ။",
+            "other": "ဤအရာများအတွက် ရွေးချယ်ထားသော ပို့ဆောင်မှုနည်းလမ်းကို မရနိုင်တော့ပါ။"
+          }
+        },
+        "unshippable_product": {
+          "title": "ပို့ဆောင်မှု မရရှိနိုင်ပါ။",
+          "header": {
+            "one": "ပစ္စည်း %{count} ခုအတွက် ပေးပို့မှု မရရှိနိုင်ပါ။",
+            "other": "ပစ္စည်း %{count} ခုအတွက် ပေးပို့မှု မရရှိနိုင်ပါ။"
+          },
+          "message": {
+            "one": "သင့်လိပ်စာအတွက် ပေးပို့မှုနည်းလမ်းများ မရှိသဖြင့် ဤအရာကို သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားလိုက်ပါမည်။",
+            "other": "သင့်လိပ်စာအတွက် ပေးပို့မှုနည်းလမ်းများ မရှိသဖြင့် ဤပစ္စည်းများကို သင့်လှည်းမှ ဖယ်ရှားပါမည်။"
+          },
+          "status_column_header": "ပေးပို့ခြင်းမရှိပါ။"
+        },
+        "price_update": {
+          "title": "စျေးနှုန်းအပ်ဒိတ်",
+          "description": "ဤပစ္စည်းများအတွက် စျေးနှုန်းများ ပြောင်းလဲပြီး သင့်လှည်းတွင် အပ်ဒိတ်လုပ်ထားပါသည်။"
+        },
+        "price_and_quantity_update": {
+          "title": "စျေးနှုန်းနှင့် အရေအတွက် အပ်ဒိတ်",
+          "description": "ဤပစ္စည်းများအတွက် စျေးနှုန်းများနှင့် ရနိုင်သောပမာဏများ ပြောင်းလဲသွားပြီး သင့်လှည်းတွင် အပ်ဒိတ်လုပ်ထားသည်။"
+        },
+        "out_of_stock": {
+          "description": "ဤပစ္စည်းများကို မရနိုင်တော့ဘဲ သင့်တွန်းလှည်းမှ ဖယ်ရှားလိုက်ပါပြီ။",
+          "items_unavailable": "အချို့သော ပစ္စည်းများကို မရနိုင်တော့ဘဲ သင့်လှည်းမှ ဖယ်ရှားလိုက်ပါပြီ။"
+        }
+      },
+      "payment_gateway": {
+        "generic_payment_terms": "သင်သည် {{translatedName}} စည်းမျဉ်းများပေါ်တွင် ရှိပါသည်။ သင့်ငွေပေးချေမှုသည် {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။",
+        "login_prompt": {
+          "no_access": {
+            "message": "သိမ်းဆည်းထားသော ငွေပေးချေမှုနည်းလမ်းများကို ပေါင်းထည့်ရန် သို့မဟုတ် အသုံးပြုရန် ဤတည်နေရာသို့ ဝင်ရောက်နိုင်သော အကောင့်တစ်ခုသို့ {{logIn}} ။",
+            "link": "လော့ဂ်အင်"
+          }
+        },
+        "direct_payment_terms": "သင်သည် {{translatedName}} စည်းမျဉ်းများပေါ်တွင် ရှိပါသည်။ သင့်ကတ်ကို {{dueDate}} တွင် ကောက်ခံပါမည်။",
+        "fixed_direct_payment_terms": "သင့်ကတ်ကို {{dueDate}} တွင် ကောက်ခံပါမည်။",
+        "order_due_on_fulfillment_choose_later": "သင်၏ မှာယူမှု ပြီးသည်နှင့် သင့်ငွေပေးချေမှု ကုန်ဆုံးပါမည်။",
+        "order_due_on_fulfillment_payment": "သင့်မှာယူမှု ပြီးသည်နှင့် သင့်ကတ်ကို ကောက်ခံပါမည်။",
+        "order_due_on_receipt_choose_later": "သင့်ငွေပေးချေမှုကို ပြေစာတွင် ကုန်ဆုံးပါမည်။",
+        "order_deposit_due_now": "{{depositAmount}} ယနေ့ အကျုံးဝင်ပါသည်။ လက်ကျန်ငွေသည် {{translatedName}} စည်းမျဉ်းများအတိုင်းဖြစ်ပြီး {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။",
+        "order_deposit_due_on_fulfillment": "{{depositAmount}} ယနေ့ အကျုံးဝင်ပါသည်။ သင့်မှာယူမှု ပြီးသည်နှင့် လက်ကျန်ငွေကို ပေးဆောင်ရပါမည်။",
+        "order_deposit_due_on_receipt": "{{depositAmount}} ယနေ့ အကျုံးဝင်ပါသည်။ လက်ကျန်ငွေသည် နောက်ပိုင်းတွင် ပေးချေမည်ဖြစ်သည်။",
+        "order_deposit_due_on_fixed_date": "{{depositAmount}} ယနေ့ အကျုံးဝင်ပါသည်။ လက်ကျန်ငွေသည် {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။",
+        "draft_order_payment_due_later_no_terms": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသည်နှင့် သင့်ငွေပေးချေမှု ကုန်ဆုံးပါမည်။",
+        "draft_order_payment_due_later_no_terms_payment_selected": "သင်၏မှာယူမှုကို အတည်ပြုပြီးသည်နှင့် သင့်ကတ်ကို ကောက်ခံပါမည်။",
+        "draft_order_payment_due_later_terms": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသည်နှင့် သင်သည် {{translatedName}} စည်းကမ်းချက်များတွင် ရှိနေပါမည်။",
+        "draft_order_payment_due_on_fulfillment": "သင်၏ မှာယူမှုကို အတည်ပြုပြီး ပြီးသည်နှင့် သင့်ငွေပေးချေမှု ကုန်ဆုံးပါမည်။",
+        "draft_order_deposit_due_later": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ လက်ကျန်ငွေသည် {{translatedName}} စည်းမျဉ်းများအတိုင်း ဖြစ်လိမ့်မည်။",
+        "draft_order_deposit_due_on_fulfillment": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ သင့်မှာယူမှု ပြီးသည်နှင့် လက်ကျန်ငွေဖြစ်ပါမည်။"
+      },
+      "thank_you": {
+        "title": "သင့်ဝယ်ယူမှုအတွက် ကျေးဇူးတင်ပါသည်။",
+        "confirmation_email_sent_text": "အတည်ပြုအီးမေးလ်ကို %{email} သို့ ပို့လိုက်ပါပြီ",
+        "return_to_store_link_label": "ဆက်လက်စျေးဝယ်ပါ။",
+        "print_link_label": "ဖြတ်ပိုင်းကို ရိုက်နှိပ်ပါ။",
+        "payment_information_title": "ငွေပေးချေမှုအချက်အလက်",
+        "shipping_information_title": "သင်္ဘောအချက်အလက်",
+        "page_title": "ကျေးဇူးတင်ပါတယ်၊ %{display_name}။",
+        "page_title_no_name": "ကျေးဇူးတင်ပါသည်!",
+        "purchase_order_number_title": "စာတိုက်နံပါတ် #%{purchase_order_number}",
+        "cancelled_page_title": "မှာယူမှုကို ပယ်ဖျက်လိုက်ပါပြီ။",
+        "failed_pending_payment_page_title": "သင့်ငွေပေးချေမှုတွင် ပြဿနာရှိနေသည်။",
+        "customer_information_title": "အော်ဒါအသေးစိတ်",
+        "contact_information_title": "ဆက်သွယ်ရန်အချက်အလက်များ",
+        "billing_address_title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "company_location_title": "တည်နေရာ",
+        "shipping_address_title": "ကုန်ပစ္စည်းပို့ဆောင်ရမည့်လိပ်စာ",
+        "shipping_address_map_title": "ပို့ဆောင်ရေးလိပ်စာ၏ ပင်နံပါတ်ညွှန်ပြသည့် Google မြေပုံ- %{address}",
+        "payment_method_title": "ငွေပေးချေစနစ်",
+        "shipping_method_title": "ပို့ဆောင်ရေးနည်းလမ်း",
+        "tracking_number": "ခြေရာကောက်နိုင်မည့်နံပါတ်:",
+        "company_tracking_number": "%{company} ခြေရာခံ နံပါတ်-",
+        "estimated_arrival": "ခန့်မှန်းခြေ ပေးပို့သည့်ရက်စွဲ-",
+        "estimated_delivery": "လက်ရှိပေးပို့မှု ခန့်မှန်းချက်-",
+        "re-order": "တူညီသောပစ္စည်းများကို ပြန်လည်မှာယူပါ။",
+        "confirmed": "အတည်ပြုခဲ့သည်။",
+        "gift_card_confirmation_by_text": "မရရှိခဲ့ပါက စာတိုပေးပို့ပါ သို့မဟုတ် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "gift_card_confirmation_by_email": "မရရှိခဲ့ပါက အီးမေးလ်ပြန်ပို့ပါ သို့မဟုတ် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "gift_card_title": "လက်ဆောင်ကတ်များ",
+        "resend_gift_cards": "လက်ဆောင်ကတ်များ ပြန်ပို့ပါ။",
+        "thank_you_title": "သင်၏အမိန့်ကို အတည်ပြုပြီးဖြစ်သည်။",
+        "thank_you_title_payment": "သင့်ငွေပေးချေမှုကို အတည်ပြုပါသည်။",
+        "thank_you_title_review": "သင့်အမှာစာကို ပြန်လည်သုံးသပ်ရန်အတွက် ပေးပို့ထားပါသည်။",
+        "thank_you_title_payments_app_pending_default": "သင့်ငွေပေးချေမှုကို လုပ်ဆောင်နေပါသည်။",
+        "thank_you_title_payments_app_pending_buyer_action_required": "သင့်မှာယူမှုကို လက်ခံရရှိခဲ့သည်။",
+        "thank_you_title_payments_app_failed_pending_payment": "သင့်ငွေပေးချေမှုကို လုပ်ဆောင်၍မရပါ။",
+        "thank_you_confirmed_order_with_email": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_confirmed_order_with_phone": "မကြာမီ သင့်မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို သင်ရရှိပါမည်။",
+        "thank_you_confirmed_order_with_email_and_phone": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_confirmed_order_with_email_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "thank_you_confirmed_order_with_phone_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "thank_you_confirmed_order_with_email_and_phone_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "thank_you_confirmed_order_with_email_pick_up": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သည့်အခါ အီးမေးလ်တစ်စောင် လက်ခံရရှိပါမည်။",
+        "thank_you_confirmed_order_with_phone_pick_up": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သောအခါတွင် စာတိုတစ်စောင် လက်ခံရရှိပါမည်။",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သည့်အခါ အီးမေးလ်တစ်စောင် လက်ခံရရှိပါမည်။",
+        "thank_you_confirmed_order_with_missing": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_confirmed_order_with_missing_payment": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_confirmed_order_with_missing_pick_up": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_confirmed_order_with_draft": "ကျွန်ုပ်တို့ နောက်ထပ်အချက်အလက်များ လိုအပ်ပါက သို့မဟုတ် သင့်မှာယူမှုကို အတည်ပြုသည့်အခါတွင် သင့်အား အသိပေးပါမည်။",
+        "thank_you_confirmed_order_with_draft_payment": "ကျွန်ုပ်တို့ နောက်ထပ်အချက်အလက်များ လိုအပ်ပါက သို့မဟုတ် သင့်မှာယူမှုကို အတည်ပြုသည့်အခါတွင် သင့်အား အသိပေးပါမည်။",
+        "thank_you_confirmed_order_with_draft_pick_up": "ကျွန်ုပ်တို့ နောက်ထပ်အချက်အလက်များ လိုအပ်ပါက သို့မဟုတ် သင့်မှာယူမှုကို အတည်ပြုသည့်အခါတွင် သင့်အား အသိပေးပါမည်။",
+        "thank_you_payments_app_failed_pending_payment": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "thank_you_payments_app_failed_pending_payment_payment": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "thank_you_payments_app_failed_pending_payment_pick_up": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "thank_you_payments_app_pending_payment_description_default_with_missing": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_payment": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_email": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_email_payment": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_email_pick_up": "သင့်မှာယူမှုနံပါတ်နှင့်အတူ မကြာမီ အတည်ပြုအီးမေးလ်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_phone": "မကြာမီ သင့်မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_payment": "မကြာမီ သင့်မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_default_with_phone_pick_up": "မကြာမီ သင့်မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို လက်ခံရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုအီးမေးလ်ကို သင်လက်ခံရရှိမည်ဖြစ်သည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone": "သင့်ငွေပေးချေမှုပြီးပါက၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို သင်ရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "သင့်ငွေပေးချေမှုပြီးပါက၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို သင်ရရှိပါမည်။",
+        "thank_you_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "သင့်ငွေပေးချေမှုပြီးပါက၊ သင်၏မှာယူမှုနံပါတ်နှင့်အတူ အတည်ပြုစာတိုတစ်စောင်ကို သင်ရရှိပါမည်။",
+        "order_status_confirmed_order_with_email": "သင့်မှာယူမှုအဆင်သင့်ဖြစ်သောအခါတွင် အီးမေးလ်တစ်စောင်လက်ခံရရှိပါမည်။",
+        "order_status_confirmed_order_with_phone": "သင့်မှာယူမှုအဆင်သင့်ဖြစ်သောအခါတွင် စာတိုတစ်စောင်ကို သင်လက်ခံရရှိနိုင်ပါသည်။",
+        "order_status_confirmed_order_with_email_and_phone": "သင့်မှာယူမှုအဆင်သင့်ဖြစ်သောအခါတွင် အီးမေးလ်တစ်စောင်လက်ခံရရှိပါမည်။",
+        "order_status_confirmed_order_with_email_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "order_status_confirmed_order_with_phone_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "order_status_confirmed_order_with_email_and_phone_payment": "သင့်မှာယူမှု %{date} တွင် ငွေပေးချေမှုတစ်ခု ပြုလုပ်ခဲ့သည်။",
+        "order_status_confirmed_order_with_email_pick_up": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သောအခါ အီးမေးလ်တစ်စောင် လက်ခံရရှိပါမည်။",
+        "order_status_confirmed_order_with_phone_pick_up": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သောအခါတွင် စာတိုတစ်စောင် လက်ခံရရှိပါမည်။",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "မှာယူမှု အဆင်သင့်ဖြစ်သောအခါတွင် အီးမေးလ်နှင့် စာတိုတစ်စောင် လက်ခံရရှိပါမည်။",
+        "order_status_payments_app_pending_payment_description_default_with_missing": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_missing_payment": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_missing_pick_up": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone_payment": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email_payment": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_email_pick_up": "မကြာမီ အတည်ပြုချက်အီးမေးလ်ကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_phone": "မကြာမီ အတည်ပြုချက် စာသားကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_phone_payment": "မကြာမီ အတည်ပြုချက် စာသားကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_default_with_phone_pick_up": "မကြာမီ အတည်ပြုချက် စာသားကို ရရှိပါမည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_payment": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_missing_pick_up": "မှာယူမှုအတည်ပြုချက်ကို လက်ခံရရှိရန် အီးမေးလ် သို့မဟုတ် ဖုန်းဖြင့် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_payment": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_and_phone_pick_up": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_payment": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_email_pick_up": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုအီးမေးလ်ကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုစာသားကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_payment": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ အတည်ပြုစာသားကို သင်ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_pending_payment_description_buyer_action_required_with_phone_pick_up": "သင့်ငွေပေးချေမှုကို ပြီးမြောက်ပြီးနောက်၊ သင်သည် အတည်ပြုချက်စာသားကို ရရှိမည်ဖြစ်သည်။ Shop အက်ပ်ကို အသုံးပြု၍ သင့်မှာယူမှုကို ခြေရာခံပါ။",
+        "order_status_payments_app_failed_pending_payment": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "order_status_payments_app_failed_pending_payment_payment": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "order_status_payments_app_failed_pending_payment_pick_up": "သင့်မှာယူမှုအတွက် သင့်အား ကောက်ခံခြင်းမရှိပါ။ သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်ပြီး ထပ်မံပေးချေရန် သင့်စျေးဝယ်လှည်းသို့ ပြန်သွားပါ။",
+        "order_status_confirmed_order_local": "ကျွန်ုပ်တို့သည် သင့်မှာယူမှုကို ပို့ဆောင်ရန်အတွက် အဆင်သင့်ဖြစ်နေပါသည်။",
+        "order_status_confirmed_order_local_pick_up": "သင့်မှာယူမှုကို ကျွန်ုပ်တို့ ပြင်ဆင်နေပါသည်။",
+        "order_status_confirmed_order_local_payment": "သင့်မှာယူမှုကို ကျွန်ုပ်တို့ ပြင်ဆင်နေပါသည်။",
+        "order_status_updates_with_email": "အီးမေးလ်ဖြင့် ပို့ဆောင်ခြင်းနှင့် ပေးပို့ခြင်းဆိုင်ရာ အပ်ဒိတ်များကို သင်ရရှိပါမည်။",
+        "order_status_updates_with_phone": "စာသားဖြင့် ပို့ဆောင်ခြင်းနှင့် ပေးပို့ခြင်းဆိုင်ရာ အပ်ဒိတ်များကို သင်ရရှိနိုင်ပါသည်။",
+        "order_status_updates_with_email_and_phone": "အီးမေးလ်ဖြင့် ပို့ဆောင်ခြင်းနှင့် ပေးပို့ခြင်းဆိုင်ရာ အပ်ဒိတ်များကို သင်ရရှိပါမည်။",
+        "order_status_updates_with_missing": "ပို့ဆောင်မှုအပ်ဒိတ်များကို သင်ရယူလိုပုံကို ရွေးချယ်ပါ။",
+        "order_status_confirmed_with_installments_payment_return": "ကျေးဇူးပြု၍ သင့်အာရုံကို အရောင်းတွဲဖက်ထံ ပြန်ပေးပါ။",
+        "order_status_confirmed_with_installments_payment_confirm": "သင်၏အမှာစာနံပါတ်နှင့် သင်၏အရစ်ကျအချိန်ဇယားအသေးစိတ်အချက်အလက်များပါရှိသော အတည်ပြုအီးမေးလ်တစ်စောင်ကို မကြာမီ လက်ခံရရှိမည်ဖြစ်ပါသည်။",
+        "confirmed_title": "သင်၏အမိန့်ကို အတည်ပြုပြီးဖြစ်သည်။",
+        "confirmed_description": "သင့်မှာယူမှုကို ကျွန်ုပ်တို့လက်ခံပြီး အဆင်သင့်ဖြစ်နေပါပြီ။ သင်၏ ပို့ဆောင်မှု အခြေအနေ အပ်ဒိတ်များအတွက် ဤစာမျက်နှာသို့ ပြန်လာပါ။",
+        "ready_for_pickup_title": "သင့်မှာယူမှုကို လာယူရန် အသင့်ဖြစ်နေပါပြီ။",
+        "ready_for_pickup_description": "သင့်မှာယူမှုကို လာယူရန် အသင့်ဖြစ်နေပါပြီ။ ကျေးဇူးပြု၍ သင်၏မှာယူမှုကို လက်ခံသောအခါတွင် သင်၏အမိန့်အတည်ပြုချက်ကို ယူဆောင်လာပါ။",
+        "ready_for_delivery_title": "သင့်မှာယူမှုသည် ပေးပို့ရန် အသင့်ဖြစ်နေပါပြီ။",
+        "ready_for_delivery_description": "သင့်မှာယူမှုကို ကျွန်ုပ်တို့ ပြင်ဆင်ပြီးပါပြီ။",
+        "order_updates_title": "အမိန့်အပ်ဒိတ်များ",
+        "shop_phone_description": "သင့်မှာယူမှုကို ခြေရာခံရာတွင် ကူညီရန် Shop အက်ပ်သို့ လင့်ခ်တစ်ခုပါသော စာတိုတစ်စောင်ကို လက်ခံရရှိပါမည်။",
+        "order_updates_description_html": "အပ်ဒိတ်များကို %{customer_contact} သို့ ပို့ပါမည်",
+        "order_updates_current_step_prefix": "လက်ရှိ အဆင့်-",
+        "order_updates_past_step_prefix": "ယခင်ခြေလှမ်း-",
+        "order_updates_upcoming_step_prefix": "လာမည့်အဆင့်-",
+        "in_transit": "လာနေပြီ။",
+        "in_transit_title": "သင့်မှာယူမှု လာနေပြီဖြစ်သည်။",
+        "in_transit_description": "၎င်း၏တိုးတက်မှုအတွက် အပ်ဒိတ်များကို သင်လက်ခံရရှိပါမည်။",
+        "in_transit_description_days": "လာမည့် %{number} ရက်အတွင်း သင့်မှာယူမှုကို လက်ခံရရှိသင့်ပါသည်။",
+        "in_transit_description_today": "ဒီနေ့ မင်းရဲ့အမှာစာလက်ခံရမယ်။",
+        "in_transit_description_tomorrow": "သင်၏အမှာစာကို နောက်နေ့တွင် လက်ခံရပါမည်။",
+        "no_tracking_number": "ဤအမှာစာအတွက် ခြေရာခံနံပါတ်မရှိပါ။",
+        "out_for_delivery": "ပေးပို့ရန် ထွက်လာသည်။",
+        "out_for_delivery_title": "သင့်မှာယူမှုကို ပို့ဆောင်ရန် ကုန်သွားပါပြီ။",
+        "out_for_delivery_description_html": "သင့်မှာယူမှု လမ်းကြောင်းပေါ်ရောက်နေပြီဖြစ်ပြီး ယနေ့တွင် ရောက်ရှိလာမည်ဖြစ်ပါသည်။ နောက် 2 ရက်အတွင်း မပို့ပါက %{contact_us}။",
+        "out_for_delivery_local_title": "သင့်အမှာစာသည် ပေးပို့ရန် ကုန်သွားပါပြီ။",
+        "out_for_delivery_local_description_html": "သင့်မှာယူမှု မကြာမီရောက်ရှိလာပါမည်။",
+        "attempted_delivery": "ပေးပို့ရန် ကြိုးစားခဲ့သည်။",
+        "attempted_delivery_title": "သင့်မှာယူမှုကို ပေးပို့ရန် ကြိုးပမ်းခဲ့သည်။",
+        "attempted_delivery_description_html": "သင့်မှာယူမှုကို ပေးပို့ရန် ကြိုးပမ်းခဲ့သော်လည်း မအောင်မြင်ခဲ့ပါ။ နောက်ထပ် ပေးပို့ရန် ကြိုးစားမှုကို စီစဉ်ရန် %{contact_us}။",
+        "attempted_delivery_local_title": "ပေးပို့မှု လွတ်သွားပါသည်။",
+        "attempted_delivery_local_description_html": "သင့်မှာယူမှုကို ကျွန်ုပ်တို့ မပေးပို့နိုင်ပါ။ အခြားပေးပို့မှုကို စီစဉ်ရန်၊ %{contact_us}။",
+        "delivered": "ပေးပို့ခဲ့သည်။",
+        "delivered_title": "သင့်မှာယူမှုကို ပေးပို့ပြီးပါပြီ။",
+        "delivered_description_html": "သင့်မှာယူမှုကို သင်ပေးထားသည့်လိပ်စာသို့ ပေးပို့ပြီးဖြစ်သည်။ အကယ်၍ သင့်တွင် ၎င်းကို မရရှိသေးပါက သို့မဟုတ် အခြားပြဿနာများရှိပါက %{contact_us}။",
+        "delivered_local_title": "သင့်မှာယူမှုကို ပေးပို့ပြီးပါပြီ။",
+        "delivered_local_description_html": "မင်းရဲ့ မှာယူမှုကို မရရှိခဲ့ဘူးလား။ %{let_us_know}။",
+        "choose_payment_method_later": "နောက်မှ ငွေပေးချေနည်းလမ်းကို ရွေးပါ။",
+        "picked_up_title": "သင့်မှာယူမှုကို ကောက်ယူပြီးပါပြီ။",
+        "picked_up_description_html": "သင့်မှာယူမှုကို %{location_name} တွင် %{date} တွင် လက်ခံရရှိခဲ့ပါသည်။",
+        "contact_us": "ကြှနျုပျတို့ကိုဆကျသှယျရနျ",
+        "contact_us_lowercase": "ကြှနျုပျတို့ကိုဆကျသှယျရနျ",
+        "contact_us_html": "အကူအညီလိုပါသလား။ %{ကြှနျုပျတို့ကိုဆကျသှယျရနျ}",
+        "updated_time": "လွန်ခဲ့သော %{time_ago} က အပ်ဒိတ်လုပ်ခဲ့သည်။",
+        "failure": "မပို့ပေးပါ။",
+        "failed_title": "သင့်မှာယူမှုကို ပေးပို့၍မရပါ။",
+        "failed_contact_merchant": "ပေးပို့ရန် စီစဉ်ရန် %{company} သို့ ဆက်သွယ်ပါ။",
+        "failed_contact_merchant_no_company": "Delivery စီစဉ်ရန် ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ။",
+        "non_shippable_title": "သင့်မှာယူမှု ပြီးပါပြီ။",
+        "let_us_know": "ငါတို့ကို သိပါစေ။",
+        "login_title": "မှာယူမှုအသေးစိတ်အားလုံးကို ကြည့်ရှုရန် အကောင့်ဝင်ပါ။",
+        "login_description": "အီးမေးလ်မှတစ်ဆင့် သင်လက်ခံရရှိသည့်ပြေစာတွင် သင့်မှာယူမှုနံပါတ်ကို ရှာတွေ့နိုင်ပါသည်။",
+        "login_description_phone": "သင်လက်ခံရရှိသည့်ပြေစာတွင် သင့်မှာယူမှုနံပါတ်ကို စာသားမက်ဆေ့ခ်ျဖြင့် ရှာဖွေနိုင်သည်။",
+        "login_not_customer_html": "%{name} မဟုတ်ဘူးလား? သင်သည် %{link} လုပ်နိုင်သည်",
+        "login_reorder_link_text": {
+          "one": "ဒီထုတ်ကုန်ကိုလည်းဝယ်ပါ။",
+          "other": "ဒီထုတ်ကုန်တွေကိုလည်း ဝယ်ပါ။"
+        },
+        "customer_information_hidden_fields_message": "ဖောက်သည် အချက်အလက်အားလုံးကို ကြည့်ရှုရန် အကောင့်ဝင်ပါ။",
+        "cancelled_title": "သင့်မှာယူမှုကို ပယ်ဖျက်လိုက်ပါပြီ။",
+        "cancelled_description": "သင့်မှာယူမှုကို %{date} တွင် ပယ်ဖျက်ခဲ့သည်။ သင်သည်မည်သည့်မေးခွန်းများရှိပါကကျွန်တော်တို့ကိုဆက်သွယ်ပါ။",
+        "order_number_label": "အော်ဒါနံပါတ်",
+        "customer_validation_error": "တရားဝင်အီးမေးလ် သို့မဟုတ် မှာယူမှုနံပါတ်ကို ထည့်ပါ။",
+        "customer_validation_error_phone": "တရားဝင်ဖုန်း သို့မဟုတ် မှာယူမှုနံပါတ်ကို ထည့်ပါ။",
+        "login": "လော့ဂ်အင်"
+      },
+      "localized_fields": {
+        "additional_information": {
+          "title": "နောက်ထပ်အချက်အလက်များ"
+        }
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "မရရှိနိုင်သောထုတ်ကုန်",
+          "other": "မရရှိနိုင်သောထုတ်ကုန်များ"
+        },
+        "products_not_available": {
+          "one": "သင့်နိုင်ငံ/ဒေသတွင် မရရှိနိုင်သောကြောင့် ဤထုတ်ကုန်ကို သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားလိုက်ပါမည်။",
+          "other": "ဤထုတ်ကုန်များကို သင့်နိုင်ငံ/ဒေသတွင် မရရှိနိုင်သောကြောင့် သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားလိုက်ပါမည်။"
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "ဤထုတ်ကုန်ကို သင့်နိုင်ငံ/ဒေသတွင် မရရှိနိုင်ပါ။",
+          "other": "ဤထုတ်ကုန်များကို သင့်နိုင်ငံ/ဒေသတွင် မရရှိနိုင်ပါ။"
+        },
+        "unavailable_label": "မရနိုင်ပါ။"
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "one": "ပစ္စည်း %{count} ခုအတွက် ပေးပို့မှု မရရှိနိုင်ပါ။",
+            "other": "ပစ္စည်း %{count} ခုအတွက် ပေးပို့မှု မရရှိနိုင်ပါ။"
+          },
+          "message": {
+            "one": "သင့်လိပ်စာအတွက် ပေးပို့မှုနည်းလမ်းများ မရှိသဖြင့် ဤအရာကို သင့်စျေးဝယ်လှည်းမှ ဖယ်ရှားလိုက်ပါမည်။",
+            "other": "သင့်လိပ်စာအတွက် ပေးပို့မှုနည်းလမ်းများ မရှိသဖြင့် ဤပစ္စည်းများကို သင့်လှည်းမှ ဖယ်ရှားပါမည်။"
+          },
+          "label": "ပေးပို့ခြင်းမရှိပါ။"
+        }
+      }
+    },
+    "pagination": {
+      "previous": "အရင်",
+      "next": "နောက်တစ်ခု"
+    },
+    "links": {
+      "powered_by_shopify": "Shopify မှလုပ်ဆောင်သည်။",
+      "learn_more": "ပိုမိုသိရှိရန်"
+    },
+    "feed": {
+      "more": "နောက်ထပ်"
+    },
+    "attributes": {
+      "email": "အီးမေးလ်",
+      "password": "စကားဝှက်",
+      "password_confirmation": "စကားဝှက်အတည်ပြုခြင်း။",
+      "first_name": "နာမည်",
+      "last_name": "မျိုးနွယ်အမည်",
+      "body": "ခန္ဓာကိုယ်",
+      "signature": "လိပ်စာ"
+    },
+    "addresses": {
+      "zip_code": "စာတိုက်သင်္ကေတ",
+      "postal_code": "စာတိုက်သင်္ကေတ",
+      "postcode": "စာပို့ကုဒ်",
+      "pincode": "ပင်ကုတ်",
+      "region": "တိုင်းဒေသကြီး",
+      "prefecture": "စီရင်စု",
+      "province": "ပြည်နယ်",
+      "state": "ပြည်နယ်",
+      "state_and_territory": "ပြည်နယ်/နယ်မြေ",
+      "county": "ခရိုင်",
+      "emirate": "စော်ဘွားကြီး",
+      "governorate": "အုပ်ချုပ်ရေးမှူးရုံး",
+      "confirm": "ဤလိပ်စာကို ဖျက်လိုသည်မှာ သေချာပါသလား။"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "အသားပေး",
+        "best_selling": "ရောင်းအားအကောင်းဆုံး",
+        "az": "အက္ခရာစဉ်အရ၊ AZ",
+        "za": "အက္ခရာစဉ်အရ ZA",
+        "price_ascending": "စျေးနှုန်း၊ အနိမ့်မှအမြင့်",
+        "price_descending": "စျေးနှုန်း၊ အမြင့်မှအနိမ့်",
+        "date_ascending": "ရက်စွဲ၊ အဟောင်းမှအသစ်",
+        "date_descending": "ရက်စွဲ၊ အသစ်မှ အဟောင်း"
+      }
+    },
+    "errors": {
+      "blank": "အလွတ်မရနိုင်ပါ။",
+      "blocked_address": "ဤတည်နေရာကို မပံ့ပိုးပါ။",
+      "credit_card_session_expired": "ခရက်ဒစ်ကတ် ခွင့်ပြုချက် သက်တမ်းကုန်သွားပါပြီ၊ ကျေးဇူးပြု၍ သင်၏ ငွေပေးချေမှု အချက်အလက်ကို ထပ်ဖြည့်ပါ။ သင့်ကတ်ကို ငွေမကောက်ခံပါ။",
+      "empty": "အလွတ်မရနိုင်ပါ။",
+      "invalid_email": "တရားဝင်အီးမေးလ်လိပ်စာဖြစ်ရမည်။",
+      "discount_disabled": "ဤလျှော့စျေးကို ပိတ်ထားသည်။",
+      "discount_expired": "ဤလျှော့စျေးသည် မမှန်တော့ပါ။",
+      "discount_limit_reached": "ဤလျှော့စျေးသည် ၎င်း၏အသုံးပြုမှုကန့်သတ်ချက်သို့ ရောက်ရှိသွားပါပြီ။",
+      "discount_not_found": "ထည့်သွင်းထားသောကုဒ်နှင့် ကိုက်ညီသော မှန်ကန်သောလျှော့စျေးကို ရှာမတွေ့ပါ။",
+      "customer_already_used_once_per_customer_discount_notice": "ဤလျှော့စျေးသည် ၎င်း၏အသုံးပြုမှုကန့်သတ်ချက်သို့ ရောက်ရှိသွားပါပြီ။",
+      "gift_card_already_applied": "သင့်ငွေပေးချေမှုတွင် ကုဒ်ကို အသုံးပြုပြီးဖြစ်သည်။",
+      "gift_card_code_invalid": "ကုဒ်သည် မမှန်ကန်ပါ။",
+      "gift_card_currency_mismatch": "သင့်လက်ဆောင်ကတ်သည် %{gift_card_currency} ဖြစ်သည်။ ၎င်းကို %{checkout_currency} ဖြင့် ပြန်လည်ထုတ်ပေးရန် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+      "gift_card_depleted": "ဤလက်ဆောင်ကတ်တွင် ရန်ပုံငွေမကျန်တော့ပါ။",
+      "gift_card_disabled": "လက်ဆောင်ကတ်ကို ပိတ်ထားသည်။",
+      "gift_card_expired": "လက်ဆောင်ကတ် သက်တမ်းကုန်သွားပါပြီ။",
+      "invalid": "မမှန်ပါ။",
+      "bad_domain": "မမှန်ကန်သော ဒိုမိန်းအမည်တစ်ခု ပါရှိသည်။",
+      "taken": "ကိုယူပြီးနေပြီပါပြီ",
+      "contains_html_tags": "HTML တဂ်များ မပါဝင်နိုင်ပါ။",
+      "too_short": "တိုလွန်းသည် (အနည်းဆုံး စာလုံး %{count} လုံး)",
+      "too_long": "ရှည်လွန်းသည် (အများဆုံးမှာ %{count} စာလုံးဖြစ်သည်)",
+      "password_mismatch": "ပေးထားသော စကားဝှက်နှင့် ကိုက်ညီရမည်။",
+      "contains_spaces": "နေရာလွတ်များဖြင့် စတင်သည် သို့မဟုတ် အဆုံးသတ်သည်။",
+      "email_domain_invalid": "ဝန်ဆောင်မှုပေးသူကို မပံ့ပိုးပါ။",
+      "invalid_for_country": "%{country} အတွက် မမှန်ကန်ပါ",
+      "invalid_for_country_and_province": "%{province} နှင့် %{country} အတွက် မမှန်ကန်ပါ",
+      "invalid_province_in_country": "%{country} တွင် တရားဝင်ပြည်နယ်မဟုတ်ပါ",
+      "invalid_state_in_country": "%{country} တွင် တရားဝင်ပြည်နယ်မဟုတ်ပါ",
+      "invalid_region_in_country": "%{country} တွင် တရားဝင်ဒေသမဟုတ်ပါ",
+      "less_than_or_equal_to": "%{count} ထက် နည်းရမည်",
+      "not_supported": "မထောက်ခံပါ။",
+      "full_name_required": "ပထမအမည်နှင့် နောက်ဆုံးအမည်ကို ထည့်သွင်းပါ။",
+      "invalid_for_card_type": "မမှန်ပါ။",
+      "invalid_type": "ဝမ်းနည်းပါတယ်၊ ဤအမျိုးအစားကတ်များကို ကျွန်ုပ်တို့ လက်မခံပါ။",
+      "invalid_format": "ဖော်မတ် မမှန်ပါ။",
+      "expired": "သက်တမ်းကုန်သွားပြီ",
+      "invalid_start_date_or_issue_number_for_debit": "တရားဝင်စတင်သည့်ရက်စွဲ သို့မဟုတ် ထုတ်ပေးသည့်နံပါတ် လိုအပ်သည်။",
+      "invalid_expiry_year": "တရားဝင်သက်တမ်းကုန်ဆုံးသည့်နှစ်မဟုတ်ပါ။",
+      "reset_password_html": "ဤအီးမေးလ်လိပ်စာသည် အကောင့်တစ်ခုနှင့် ချိတ်ဆက်ထားပြီးဖြစ်သည်။ ဤအကောင့်သည် သင့်အကောင့်ဖြစ်ပါက <a href=\"/account/login#recover\">သင့်စကားဝှက်ကို ပြန်လည်သတ်မှတ်</a> နိုင်ပါသည်။",
+      "verify_email": "ကျွန်ုပ်တို့သည် %{customer_email} သို့ အီးမေးလ်တစ်စောင် ပေးပို့ထားပြီး၊ သင့်အီးမေးလ်လိပ်စာကို အတည်ပြုရန် ပါဝင်သော လင့်ခ်ကို နှိပ်ပါ။",
+      "product_not_available": "ထုတ်ကုန်ကို ဤဖောက်သည်အတွက် ထုတ်ဝေမထားပါ။",
+      "shop_404": {
+        "title": "အီလက်ထရွန်းနစ် ဝဘ်ဆိုဒ်တစ်ခုကို ဖန်တီးပြီး အွန်လိုင်းတွင် ရောင်းချပါ။ Shopify မှ အီလက်ထရွန်းနစ်ဆော့ဖ်ဝဲ",
+        "heros": {
+          "store_unavailable": "ဝမ်းနည်းပါသည်၊ ဤဆိုင်သည် လောလောဆယ် မရရှိနိုင်ပါ။",
+          "store_not_exist": "ဤဆိုင် မရှိပါ။",
+          "no_storefront": "ဤဆိုင်တွင် ဝဘ်ဆိုဒ်မရှိသေးပါ။"
+        },
+        "links": {
+          "explore_other_stores": "အခြားစတိုးဆိုင်များကိုစူးစမ်းပါ။",
+          "start_free_trial": "အခမဲ့ အစမ်းသုံးကြည့်ပါ။"
+        },
+        "owner_ctas": {
+          "header": "မင်းက စတိုးဆိုင်ပိုင်ရှင်လား။",
+          "fix_domain": "သင့်ဝဘ်လိပ်စာအသစ်ကို စနစ်ထည့်သွင်းခြင်း အပြီးသတ်ပါ၊ %{domain_settings_link} သို့သွားပါ။ “Connect domain” ကိုနှိပ်ပြီး %{domain} ကို ရိုက်ထည့်ပါ။<br> သင့်စတိုးဆိုင်သို့ ဝင်ရန် အခက်အခဲရှိနေပါက %{forgot_your_store_link} စာမျက်နှာကို စမ်းကြည့်ပါ။",
+          "fix_domain_link_text": "သင်၏ဒိုမိန်းဆက်တင်များ",
+          "forgot_your_store_link_text": "မင်းရဲ့ဆိုင်ကို မေ့သွားတယ်။",
+          "add_storefront": "သင်၏ %{admin_link} တွင် အွန်လိုင်းစတိုးချန်နယ်ကို ပေါင်းထည့်ခြင်းဖြင့် သင့်ဝဘ်ဆိုဒ်ကို စနစ်ထည့်သွင်းနိုင်ပါသည်။ သင့်စတိုးဆိုင်သို့ ဝင်ရန် အခက်အခဲရှိနေပါက %{forgot_your_store_link} စာမျက်နှာကို စမ်းကြည့်ပါ။"
+        },
+        "ctas": {
+          "sell_in_person": {
+            "header": "လူကိုယ်တိုင်ရောင်းပါ။",
+            "caption": "စတိုးလုပ်သည်ဖြစ်စေ သင့်လက်လီစတိုးကိုဖွင့်ရန် လိုအပ်သောအင်္ဂါရပ်များကို ရယူပါ။",
+            "link_text": "အခမဲ့ အစမ်းသုံးကြည့်ပါ။"
+          },
+          "open_a_store": {
+            "header": "Shopify စတိုးအသစ်တစ်ခုဖွင့်ပါ။",
+            "caption": "၃ ရက် အခမဲ့ အစမ်းသုံးခြင်းကို စတင်ပါ၊ ထို့နောက် နောက်ထပ် ၃ လအတွက် $1/လ ဖြင့် ဆက်လက်လုပ်ဆောင်ပါ။",
+            "link_text": "ယခု စာရင်းသွင်းပါ။"
+          },
+          "editions": {
+            "header": "Shopify Editions ကိုစစ်ဆေးပါ။",
+            "caption": "100+ ထုတ်ကုန်အပ်ဒိတ်များဖြင့် သင်သည် သင်ထင်ထားသည်ထက် ပိုမိုထုတ်လုပ်နိုင်ပြီး တီထွင်ဖန်တီးနိုင်ကာ ကူးသန်းရောင်းဝယ်ရေးတွင် အားကောင်းလာနိုင်သည်။",
+            "link_text": "နောက်ဆုံးထွက်ဗားရှင်းများကို စူးစမ်းပါ။"
+          },
+          "store_owner": {
+            "header": "မင်းက စတိုးဆိုင်ပိုင်ရှင်လား။",
+            "caption": "သင့်ဆိုင်သို့ ဝင်ရန် အခက်အခဲရှိပါသလား။ %{forgot_your_store_link} ဝန်ဆောင်မှုကို စမ်းသုံးကြည့်ပါ။ သင့်စတိုးကို ပြန်လည်အသက်သွင်းလိုပါက %{shopify_support_link} သို့ ဆက်သွယ်ပါ။",
+            "shopify_support_link_text": "Shopify ပံ့ပိုးမှု"
+          }
+        }
+      }
+    },
+    "notices": {
+      "cart": {
+        "view_lines_limit_reached": "လိုင်းများသည် %{limit} ထက်နည်းရမည်",
+        "merchandise_line_transformers": {
+          "run_error": "သင့်လှည်းတွင် အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။"
+        },
+        "only_n_items_available": "သင်သည် လှည်းထဲသို့ %{count} %{name} ကိုသာ ထည့်နိုင်သည်။",
+        "too_many_items_in_cart": "စျေးဝယ်လှည်းသို့ %{name} နောက်ထပ်ထည့်၍မရပါ။",
+        "less_than_minimum": "ဤအရာသည် အနည်းဆုံး %{min} ရှိသည်။",
+        "more_than_maximum": "ဤအရာသည် အများဆုံး %{max} ရှိသည်။",
+        "not_respect_step": "သင်သည် ဤအရာကို %{step} တိုး၍သာထည့်နိုင်သည်။",
+        "all_items_in_cart": "%{count} %{name} အားလုံးသည် သင့်လှည်းထဲတွင် ရှိပါသည်။",
+        "empty_update": "လှည်းအလွတ်ကို အပ်ဒိတ်လုပ်၍မရပါ။",
+        "missing_parameters": "မှန်ကန်သော ID သို့မဟုတ် လိုင်းကန့်သတ်ချက်မရှိပါ။",
+        "generic_error": "လှည်းအမှား",
+        "product_not_available": "ထုတ်ကုန်မရနိုင်ပါ။",
+        "too_many_line_items_error": "သင့်စျေးဝယ်လှည်းတွင် ပစ္စည်း %{max} ထက်ပို၍ မပါဝင်နိုင်ပါ။",
+        "link_expired": "လင့်ခ်သက်တမ်းကုန်သွားပါပြီ။",
+        "link_no_longer_exists": "လင့်ခ်မရှိတော့ပါ။",
+        "stock_problems_html": "တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသောအရာများကို မရနိုင်တော့ပါ။ <a href=\"%{link}\">မွမ်းမံပြင်ဆင်ထားသော တွန်းလှည်းကို</a> ကျွန်ုပ်တို့ ပေးဆောင်ထားပါသည်။",
+        "changed": "လှည်းပြောင်းသွားတယ်။",
+        "items_changed": "တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အရာများ ပြောင်းလဲသွားပါပြီ။",
+        "product_sold_out": "ထုတ်ကုန် '%{name}' သည် ရောင်းကုန်သွားပါပြီ။",
+        "variant_not_found": "မူကွဲကို ရှာမတွေ့ပါ။",
+        "variant_requires_selling_plan": "မူကွဲကို အရောင်းအစီအစဉ်ဖြင့်သာ ဝယ်ယူနိုင်သည်။",
+        "selling_plan_not_available_for_company_locations": "B2B အမှာစာများအတွက် တစ်ကြိမ်သာ ဝယ်ယူနိုင်ပါပြီ။",
+        "digital_product_not_available_for_company_locations": "ဤအရာကို B2B မှာယူမှုသို့ ထည့်၍မရပါ။",
+        "selling_plan_not_applicable": "အမျိုးအစားသို့ ရောင်းချခြင်းအစီအစဉ်ကို အသုံးပြု၍မရပါ။",
+        "shipping_address_not_required": "ဤလှည်းသည် ပို့ဆောင်ရန် မလိုအပ်ပါ။",
+        "shipping_address_invalid": "သင့်ပို့ဆောင်ခနှုန်းထားများကို တွက်ချက်ရာတွင် ပြဿနာရှိနေသည်။ သင့်မှာယူမှုကို အပြီးသတ်ခြင်းမပြုမီ ပို့ဆောင်ခနှုန်းထားကို ရွေးချယ်ရန် ငွေရှင်းရန် ဆက်လက်လုပ်ဆောင်ပါ။",
+        "bundle_requires_components": "အစုအစည်းထုတ်ကုန် '%{name}' ကို လှည်းသို့ ထည့်၍မရပါ။",
+        "gift_card_with_components_not_supported": "အစုအဝေးထုတ်ကုန် '%{name}' ကို လှည်းသို့ ထည့်၍မရပါ။",
+        "gift_card_price_must_be_greater_than_zero": "အစုအစည်းထုတ်ကုန် '%{name}' ကို လှည်းသို့ ထည့်၍မရပါ။"
+      },
+      "storefront": {
+        "invalid_password": "စကားဝှက် မမှန်ပါ၊ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ။"
+      },
+      "tags": {
+        "add_articles": "တဂ် %{tag} ပါရှိသော ဆောင်းပါးများတွင် ရှာဖွေမှု ကျဉ်းမြောင်းသည်",
+        "add_products": "တဂ် %{tag} နှင့် ကိုက်ညီသော ထုတ်ကုန်များအတွက် ရွေးချယ်မှု ကျဉ်းမြောင်းသည်",
+        "remove_articles": "တဂ်မထားသော %{tag} ဆောင်းပါးများကို ကျယ်ပြန့်စွာ ရှာဖွေပါ",
+        "remove_products": "တဂ် %{tag} ကို ဖယ်ရှားပါ"
+      },
+      "customer": {
+        "password_reset_error": "စကားဝှက် ပြန်လည်သတ်မှတ်မှု အမှားအယွင်း",
+        "no_account_found": "ထိုအီးမေးလ်ဖြင့် အကောင့်မတွေ့ပါ။",
+        "invalid_credentials": "အီးမေးလ် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ။",
+        "denylisted_reset_password": "လက်ရှိစကားဝှက်သည် မလုံခြုံသောကြောင့် သင့်အကောင့်ကို ဝင်ရောက်၍မရပါ။ သင့်စကားဝှက်ကို အပ်ဒိတ်လုပ်ရန် အီးမေးလ်တစ်စောင် လက်ခံရရှိပါမည်။",
+        "signup_disabled": "သုံးစွဲသူအကောင့်ဖန်တီးခြင်းကို ပိတ်ထားသည်။"
+      },
+      "address": {
+        "updated": "လိပ်စာကို အောင်မြင်စွာ အပ်ဒိတ်လုပ်ထားသည်။",
+        "error_updating": "လိပ်စာကို အပ်ဒိတ်လုပ်ရာတွင် အမှားအယွင်းရှိသည်။",
+        "created": "လိပ်စာကို အောင်မြင်စွာ ဖန်တီးခဲ့သည်။",
+        "error_creating": "လိပ်စာဖန်တီးရာတွင် အမှားအယွင်းရှိသည်။",
+        "deleted": "လိပ်စာကို အောင်မြင်စွာ ဖျက်လိုက်ပါပြီ။",
+        "error_deleting": "လိပ်စာကို ဖျက်ရာတွင် အမှားအယွင်းရှိနေသည်။"
+      },
+      "line_item": {
+        "item_status": {
+          "add_variant": "%{delta} ကို ထည့်ထားသည်",
+          "increment_item": "%{delta} ကို ထည့်ထားသည်",
+          "decrement_item": "%{total} ၏ %{delta} ကို ဖယ်ရှားခဲ့သည်",
+          "decrement_fulfilled_line_item": "%{total} ၏ %{delta} ကို ပြန်ပေးသည်",
+          "decrement_return_line_item": "%{delta} ကို ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။"
+        }
+      },
+      "order": {
+        "not_available": "ဤအမိန့်ကို မရရှိနိုင်ပါ။",
+        "financial_status": {
+          "authorized": "လုပ်ပိုင်ခွင့်",
+          "pending": "ဆိုင်းငံ့ထားသည်။",
+          "paid": "အခကြေးငွေ",
+          "unpaid": "အခကြေးငွေမယူရသေး",
+          "voided": "ပျက်ပြယ်သွားတယ်။",
+          "partially_paid": "တစ်စိတ်တစ်ပိုင်း ပေးဆောင်ခဲ့သည်။",
+          "partially_refunded": "တစ်စိတ်တစ်ပိုင်း ပြန်အမ်းပေးသည်။",
+          "refunded": "ပြန်အမ်းသည်။",
+          "expired": "သက်တမ်းကုန်သွားပြီ"
+        },
+        "fulfillment_status": {
+          "fulfilled": "ပြည့်စုံတယ်။",
+          "complete": "ပြီးအောင်",
+          "partial": "တပိုင်းတစ",
+          "unfulfilled": "မပြည့်စုံ",
+          "restocked": "ပြန်တင်ထားသည်။"
+        },
+        "transaction_status": {
+          "success": "အောင်မြင်မှု",
+          "pending": "ဆိုင်းငံ့ထားသည်။",
+          "failure": "ပျက်ကွက်ခြင်း။",
+          "error": "အမှား"
+        },
+        "cancel_reason": {
+          "declined": "ငွေပေးချေမှုကို ငြင်းပယ်ခဲ့သည်။",
+          "inventory": "ပစ္စည်းများ မရရှိနိုင်ပါ။",
+          "fraud": "မသမာသောအမိန့်",
+          "customer": "ဝယ်ယူသူသည် အမှာစာပြောင်း/ပယ်ဖျက်သည်။",
+          "staff": "ဝန်ထမ်းအမှား",
+          "other": "တခြား"
+        },
+        "cash_on_delivery": "ပစ္စည်းရောက်ငွေချေ (COD)"
+      }
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "ကျွန်ုပ်တို့၏စာပို့စာရင်းကို စာရင်းသွင်းသည့်အတွက် ကျေးဇူးတင်ပါသည်။",
+        "disclaimer": "စာရင်းသွင်းမှုကို အချိန်မရွေး ဖြုတ်နိုင်သည်။",
+        "unsubscribe": "စာရင်းမှဖြုတ်ပါ။"
+      },
+      "unsubscribed": {
+        "confirmation": "သင်သည် ကျွန်ုပ်တို့၏စာပို့စာရင်းမှ စာရင်းသွင်းမှုကို ရပ်ဆိုင်းလိုက်ပါပြီ။",
+        "disclaimer": "သင်သည် ကျွန်ုပ်တို့ထံမှ နောက်ထပ် စျေးကွက်ရှာဖွေရေး အပ်ဒိတ်များကို ရရှိတော့မည် မဟုတ်ပါ။ အချိန်မရွေး ထပ်မံစာရင်းသွင်းနိုင်ပါသည်။",
+        "preview": "စာရင်းသွင်းမှုဖြုတ်လိုက်သောအခါတွင် သင်သည် ဝယ်ယူသူများမြင်ရမည့်အရာကို အစမ်းကြည့်နေသည်။"
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "<b>အီးမေးလ်ဖွင့်ခြေရာခံခြင်းသို့ သင်ရွေးချယ်ပြီးဖြစ်သည်။</b>",
+          "visibility": "အီးမေးလ်ဖွင့်နှုန်းများကို အမည်မသိ အစီရင်ခံပါမည်။ ပေါင်းစည်းထားသော အီးမေးလ်ဖွင့်နှုန်း၏ တစ်စိတ်တစ်ပိုင်းအနေဖြင့် အီးမေးလ်တစ်စောင်ကို သင်ဖွင့်ထားခြင်းရှိမရှိကို ကျွန်ုပ်တို့ မြင်တွေ့ရပါမည်။",
+          "opt_out_html": "ဤအချက်အလက်ကို မမျှဝေလိုပါက အီးမေးလ်ဖွင့်ခြေရာခံခြင်းမှ <a style=\"text-decoration:underline;\" href=\"%{link}\">ဖယ်ထုတ်</a> နိုင်သည်။",
+          "preview_bar": "အီးမေးလ်ဖွင့်သည့် ခြေရာခံခြင်းသို့ ဝင်ရောက်သည့်အခါ သုံးစွဲသူများ မြင်တွေ့ရမည့်အရာကို သင် အစမ်းကြည့်ရှုနေပါသည်။"
+        },
+        "opt_out": {
+          "opted_out_html": "<b>သင်သည် အီးမေးလ်ဖွင့်ခြေရာခံခြင်းမှ ဖယ်လိုက်ပါသည်။</b>",
+          "visibility": "ကျွန်ုပ်တို့၏အီးမေးလ်များကို သင်ဖွင့်ထားခြင်းရှိမရှိ ကျွန်ုပ်တို့ တွေ့ရမည်မဟုတ်ပါ။",
+          "opt_in_html": "အီးမေးလ်ဖွင့်ခြေရာခံခြင်းသို့ <a style=\"text-decoration:underline;\" href=\"%{link}\">ဝင်ပါ</a> ။",
+          "preview_bar": "အီးမေးလ်ဖွင့်သည့် ခြေရာခံခြင်းမှ ထွက်လိုက်သောအခါ သုံးစွဲသူများ မြင်တွေ့ရမည့်အရာကို သင် အစမ်းကြည့်ရှုနေပါသည်။"
+        },
+        "no_longer_track": {
+          "status_html": "<b>မည်သည့်အီးမေးလ်ကိုမျှ ခြေရာခံတော့မည်မဟုတ်ပါ။</b>",
+          "privacy_policy": "ဤအီးမေးလ်ကို ပို့ပြီးနောက်၊ ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏ ကိုယ်ရေးကိုယ်တာမူဝါဒကို အပ်ဒိတ်လုပ်ပြီး ဖွင့်မှုများကို ခြေရာခံတော့မည်မဟုတ်ပါ။"
+        },
+        "track": {
+          "status_html": "<b>အီးမေးလ်ဖွင့်ခြင်းကို ခြေရာခံကြောင်း ဖော်ပြသည်။</b>",
+          "visibility": "စုစုပေါင်းအီးမေးလ်ဖွင့်နှုန်း၏တစ်စိတ်တစ်ပိုင်းအနေဖြင့် သင်သည် အီးမေးလ်ကိုဖွင့်ထားခြင်းရှိမရှိကို ကျွန်ုပ်တို့ကြည့်ရှုပါမည်။"
+        },
+        "updated_policy": {
+          "status_html": "<b>အီးမေးလ်ဖွင့်ခြင်းကို ခြေရာခံကြောင်း ဖော်ပြသည်။</b>",
+          "visibility": "ကျွန်ုပ်တို့သည် ကျွန်ုပ်တို့၏မူဝါဒကို အပ်ဒိတ်လုပ်ထားပြီး ယခုဖွင့်ထားသော အီးမေးလ်များကို ခြေရာခံပါ။ အီးမေးလ်ဖွင့်နှုန်းများကို အမည်မသိ အစီရင်ခံပါမည်။ စုစုပေါင်းအီးမေးလ်ဖွင့်နှုန်း၏ တစ်စိတ်တစ်ပိုင်းအနေဖြင့် သင်သည် အီးမေးလ်တစ်စောင်ကို ဖွင့်လှစ်ထားခြင်းရှိမရှိကို ကျွန်ုပ်တို့ မြင်တွေ့ရပါမည်။",
+          "opt_out_html": "ဤအချက်အလက်ကို မမျှဝေလိုပါက <a style=\"text-decoration:underline;\" href=\"%{link}\">စာရင်းသွင်းမှုမှ ပယ်ဖျက်နိုင်ပါသည်။</a>"
+        }
+      }
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "ကုန်ပစ္စည်းလက်ဝယ်ရှိ",
+          "out_of_stock": "ပစ္စည်းပြတ်တောက်နေသည်"
+        }
+      },
+      "boolean": {
+        "true_label": "ဟုတ်ကဲ့",
+        "false_label": "မရှိ"
+      }
+    },
+    "search": {
+      "error": "သင့်ရှာဖွေမှုရလဒ်များကို တင်ရာတွင် ပြဿနာရှိနေသည်။ ကျေးဇူးပြု၍ စာမျက်နှာကို ပြန်လည်စတင်ပါ သို့မဟုတ် နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+      "sorting": {
+        "relevance": "ဆက်စပ်မှု",
+        "price_ascending": "စျေးနှုန်း၊ အနိမ့်မှအမြင့်",
+        "price_descending": "စျေးနှုန်း၊ အမြင့်မှအနိမ့်"
+      }
+    },
+    "page_titles": {
+      "blog_or_article_with_error": "အမှား- %{title}",
+      "products": "ထုတ်ကုန်များ",
+      "shopping_cart": "သင်၏စျေးဝယ်လှည်း",
+      "account": "အကောင့်",
+      "create_account": "အကောင့်ပြုလုပ်ပါ",
+      "reset_account": "အကောင့်ကို ပြန်လည်သတ်မှတ်ပါ။",
+      "addresses": "လိပ်စာများ",
+      "order": "မှာယူရန် %{name}",
+      "search": "ရှာရန်",
+      "search_results": {
+        "one": "ရှာဖွေမှု- \"%{terms}\" အတွက် ရလဒ် %{count} ခု တွေ့ရှိသည်",
+        "other": "ရှာဖွေမှု- \"%{terms}\" အတွက် ရလဒ် %{count} ခု တွေ့ရှိသည်"
+      },
+      "collections": "စုစည်းမှုများ",
+      "not_found": "404 မတွေ့ပါ။",
+      "challenge": "စိန်ခေါ်မှု",
+      "checkpoint": "စစ်ဆေးရေးဂိတ်"
+    },
+    "cart": {
+      "discounts_with_count": "လျှော့စျေး %{count} ခုကို အသုံးပြုထားသည်။"
+    },
+    "challenge": {
+      "message": "ရှေ့ဆက်ရန်၊ သင်သည် စက်ရုပ်မဟုတ်ကြောင်း ကျွန်ုပ်တို့အား အသိပေးပါ။",
+      "error": "သင့်အဖြေ မမှန်ပါ၊ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ။",
+      "submit_button_text": "တင်ပြပါ။"
+    },
+    "forms_captcha": {
+      "badge_text": "hCaptcha မှကာကွယ်ထားသည်။",
+      "terms_link_text": "စည်းမျဥ်း",
+      "privacy_link_text": "ကိုယ်ရေးကိုယ်တာ"
+    },
+    "checkpoint": {
+      "message": "ရှေ့ဆက်ရန် Captcha ကိုဖြေရှင်းပါ။",
+      "error": "Captcha အတည်ပြုခြင်း မအောင်မြင်ပါ။",
+      "submit_button_text": "တင်ပြပါ။"
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "one_hour": "များသောအားဖြင့် 1 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "two_hours": "များသောအားဖြင့် 2 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "four_hours": "အများအားဖြင့် 4 နာရီအတွင်းအဆင်သင့်",
+        "twenty_four_hours": "များသောအားဖြင့် 24 နာရီအတွင်းအဆင်သင့်",
+        "two_to_four_days": "များသောအားဖြင့် 2-4 ရက်အတွင်းအဆင်သင့်ဖြစ်နိုင်သည်။",
+        "five_or_more_days": "များသောအားဖြင့် 5+ ရက်အတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "zero_to_two_hours": "များသောအားဖြင့် 2 နာရီအတွင်း အဆင်သင့်ဖြစ်တတ်သည်။",
+        "two_to_four_hours": "အများအားဖြင့် 4 နာရီအတွင်းအဆင်သင့်",
+        "immediately": "လာယူရန် အဆင်သင့်ဖြစ်နေပါပြီ။",
+        "next_day": "နောက်နေ့ လာယူဖို့ အဆင်သင့်ဖြစ်နေပြီ။"
+      }
+    },
+    "subscriptions": {
+      "buyer_consent_product": "ဤအရာသည် ထပ်တလဲလဲ သို့မဟုတ် ရွှေ့ဆိုင်းထားသော ဝယ်ယူမှုဖြစ်သည်။ ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ ကျွန်ုပ်သည် %{cancellationPolicyLink} ကို သဘောတူပြီး ကျွန်ုပ်၏မှာယူမှု မပြီးမချင်း သို့မဟုတ် ခွင့်ပြုပါက ပယ်ဖျက်သည်အထိ ဤစာမျက်နှာပေါ်ရှိ စျေးနှုန်းများ၊ အကြိမ်ရေနှင့် ရက်စွဲများဖြင့် ကျွန်ုပ်၏ငွေပေးချေနည်းလမ်းကို ကောက်ခံရန် သင့်အား ခွင့်ပြုပါသည်။",
+      "buyer_consent_cart": "သင့်လှည်းရှိ ပစ္စည်းတစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အရာများသည် ထပ်တလဲလဲ သို့မဟုတ် ရွှေ့ဆိုင်းထားသော ဝယ်ယူမှုဖြစ်သည်။ ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ ကျွန်ုပ်သည် %{cancellationPolicyLink} ကို သဘောတူပြီး ကျွန်ုပ်၏မှာယူမှု မပြီးမချင်း သို့မဟုတ် ခွင့်ပြုပါက ပယ်ဖျက်သည်အထိ ဤစာမျက်နှာပေါ်ရှိ စျေးနှုန်းများ၊ အကြိမ်ရေနှင့် ရက်စွဲများဖြင့် ကျွန်ုပ်၏ငွေပေးချေနည်းလမ်းကို ကောက်ခံရန် သင့်အား ခွင့်ပြုပါသည်။",
+      "cancellation_policy": "ပယ်ဖျက်ခြင်းမူဝါဒ"
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "sort": {
+          "order_number": {
+            "ascending": "မှာယူမှုနံပါတ် (အနိမ့်မှ အမြင့်)",
+            "descending": "အော်ဒါနံပါတ် (မြင့်မှနိမ့်)"
+          },
+          "order_total": {
+            "ascending": "မှာယူမှု စုစုပေါင်း (အနိမ့်မှ အမြင့်)",
+            "descending": "စုစုပေါင်းမှာယူမှု (မြင့်မှနိမ့်)"
+          },
+          "date": {
+            "newest": "အသစ်ဆုံးမှအဟောင်းဆုံး",
+            "oldest": "အဟောင်းဆုံးမှ အသစ်ဆုံး"
+          },
+          "location": {
+            "ascending": "တည်နေရာ (AZ)",
+            "descending": "တည်နေရာ (ZA)"
+          }
+        },
+        "filter_title": "ဇကာ",
+        "filter": {
+          "clear_section": "အပိုင်းကို ရှင်းလင်းပါ။",
+          "clear_all": "အားလုံးကိုရှင်းပါ။",
+          "apply": "လျှောက်ထားပါ။",
+          "date": {
+            "start_date": "စတင်သည့်ရက်စွဲ",
+            "end_date": "ကုန်ဆုံးရက်",
+            "title": "အမိန့်ရက်စွဲ",
+            "today": "ဒီနေ့",
+            "last_7_days": "လွန်ခဲ့သော 7 ရက်",
+            "last_30_days": "လွန်ခဲ့သော ရက် 30",
+            "last_90_days": "လွန်ခဲ့သော ရက် 90",
+            "last_365_days": "လွန်ခဲ့သော 12 လ",
+            "custom": "စိတ်ကြိုက်"
+          }
+        },
+        "table_view": "ဇယားမြင်ကွင်းကိုပြသပါ။",
+        "show_order_actions_accessibility_label": "မှာယူမှု {{name}} အတွက် မှာယူမှု လုပ်ဆောင်ချက်များကို ပြပါ",
+        "column_headers": {
+          "order": "အော်",
+          "items": "ပစ္စည်းများ",
+          "total": "စုစုပေါင်း"
+        },
+        "delivered": "ပေးပို့ခဲ့သည် {{date}}",
+        "empty_state_order_source_description": "{{email}} မှ မှာယူထားသော မှာယူမှုများသာ ဤနေရာတွင် ပြပါမည်။",
+        "empty_state_subtitle": "အော်ဒါတင်ရန် စတိုးဆိုင်သို့သွားပါ။",
+        "empty_state_title": "အမိန့်မရှိသေးပါ။",
+        "empty_state_title_for_pending_orders": "ဆိုင်းငံ့ထားသော အမိန့်များမရှိပါ။",
+        "estimated_shortform": "အီးအက်စ်တီ။ {{date}}",
+        "estimated_delivery": "မျှော်လင့်ထားသည့် {{date}}",
+        "one_images_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ပါဝင်သည်",
+        "two_images_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ၊ {{lineItemName2}} ပါဝင်သည်",
+        "three_images_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ၊ {{lineItemName2}} ၊ {{lineItemName3}} ပါဝင်သည်။",
+        "four_images_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} , {{lineItemName2}} , {{lineItemName3}} , {{lineItemName4}} ပါဝင်သည်။",
+        "more_than_three_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ၊ {{lineItemName2}} နှင့် နောက်ထပ်ထုတ်ကုန် {{numberOfAdditionalProducts}} တို့ ပါဝင်သည်",
+        "more_than_four_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ၊ {{lineItemName2}} ၊ {{lineItemName3}} နှင့် နောက်ထပ်ထုတ်ကုန် {{numberOfAdditionalProducts}} တို့ ပါဝင်သည်",
+        "plus_more": "+ {{numberOfAdditionalProducts}}",
+        "plus_more_products": "+ {{numberOfAdditionalProducts}} ထုတ်ကုန်များ",
+        "carousel": {
+          "one_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} အရေအတွက် {{lineItemQuantity1}} ပါဝင်သည်",
+          "two_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ပမာဏ {{lineItemQuantity1}} ၊ {{lineItemName2}} အရေအတွက် {{lineItemQuantity2}}",
+          "three_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} အရေအတွက် {{lineItemQuantity1}} ၊ {{lineItemName2}} အရေအတွက် {{lineItemQuantity2}} , {{lineItemName3}} ပမာဏ {{lineItemQuantity3}}",
+          "four_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} ပမာဏ {{lineItemQuantity1}} {{lineItemName2}} ပမာဏ {{lineItemQuantity2}} , {{lineItemName3}} ပမာဏ {{lineItemQuantity3}} , {{lineItemName4}} {{lineItemQuantity4}}",
+          "five_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} အရေအတွက် {{lineItemQuantity1}} {{lineItemName2}} {lineItemName2}} အရေအတွက် {{lineItemQuantity2}} , {{lineItemName3}} ပမာဏ {{lineItemQuantity3}} , {{lineItemName4}} , {{ {{lineItemQuantity4}} အရေအတွက်၊ {{lineItemName5}} အရေအတွက် {{lineItemQuantity5}}",
+          "six_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} အရေအတွက် {{lineItemQuantity1}} {{lineItemName2}} {lineItemName2}} အရေအတွက် {{lineItemQuantity2}} , {{lineItemName3}} ပမာဏ {{lineItemQuantity3}} , {{lineItemName4}} , {{ {{lineItemQuantity4}} အရေအတွက်၊ {{lineItemName5}} ပမာဏ {{lineItemQuantity5}} ၊ {{lineItemName6}} ပမာဏ {{lineItemQuantity6}}",
+          "six_and_more_products_accessibility_label": "မှာယူမှုတွင် {{lineItemName1}} အရေအတွက် {{lineItemQuantity1}} {{lineItemName2}} {lineItemName2}} အရေအတွက် {{lineItemQuantity2}} , {{lineItemName3}} ပမာဏ {{lineItemQuantity3}} , {{lineItemName4}} , {{ {{lineItemQuantity4}} အရေအတွက်၊ {{lineItemName5}} ပမာဏ {{lineItemQuantity5}} ၊ {{lineItemName6}} ပမာဏ {{lineItemQuantity6}} နှင့် အခြားအရာများ",
+          "view_order_details": "မှာယူမှုအသေးစိတ်ကို ကြည့်ပါ။",
+          "previous": "အရင်",
+          "next": "နောက်တစ်ခု"
+        },
+        "items": {
+          "one": "ပစ္စည်း {{count}} ခု",
+          "other": "ပစ္စည်း {{count}} ခု"
+        },
+        "list_view": "စာရင်းအမြင်ကိုပြသပါ။",
+        "no_filtered_results_description": "သင့်မှာယူမှုများကို ကြည့်ရှုရန် စစ်ထုတ်မှုများကို ဖယ်ရှားပါ သို့မဟုတ် ချိန်ညှိပါ။",
+        "no_filtered_results_title": "စစ်ထုတ်ထားသောရလဒ်များမရှိပါ။",
+        "order_link": "မှာယူမှုကို ကြည့်ပါ {{name}}",
+        "order_number": "မှာယူမှု {{name}}",
+        "orders_title": "အတည်ပြုခဲ့သည်။",
+        "pagination": {
+          "nav_accessibility_label": "လမ်းညွှန်ခလုတ်များကို မှာကြားသည်။",
+          "next": "နောက်တစ်ခု",
+          "next_accessibility_label": "နောက်တစ်ခုက အမိန့်ပေးတယ်။",
+          "previous": "အကြို",
+          "previous_accessibility_label": "ယခင်အမိန့်များ",
+          "load_more": "ပိုတင်ပါ။",
+          "load_more_accessibility_label": "အမှာစာများများတင်ပါ။"
+        },
+        "order_status_message": {
+          "list_view": {
+            "view_order_for_details": "အသေးစိတ်အတွက် မှာယူမှုကို ကြည့်ပါ။",
+            "estimated_delivery": "မျှော်လင့်ထားသည့် {{date}}",
+            "last_updated": "နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသော {{date}}"
+          },
+          "table_view": {
+            "estimated_delivery": "အီးအက်စ်တီ။ ကုန်ပို့ {{date}}"
+          }
+        },
+        "payment_status": {
+          "list_view": {
+            "overdue": "ငွေပေးချေမှု နောက်ကျနေပါသည်။",
+            "due": "ပေးချေရမည့်ရက် {{date}}",
+            "due_today": "ဒီနေ့ ပေးချေရမှာ",
+            "due_without_date": "ပေးချေရမည့်အချိန်",
+            "due_on_fulfillment": "ပြည့်စုံစွာပေးချေခြင်း။",
+            "pay_to_confirm": "အတည်ပြုရန် ငွေပေးချေပါ။",
+            "payment_not_due": "ငွေပေးချေမှု မပြီးသေးပါ။"
+          },
+          "table_view": {
+            "overdue": "ရက်လွန်ပြီ။",
+            "due": "သတ်မှတ် {{date}}",
+            "due_today": "ဒီ​နေ့​ရောက်​​တော့",
+            "paid": "အခကြေးငွေ",
+            "due_without_date": "စူးစူးရဲ",
+            "due_on_fulfillment": "ဖြည့်ဆည်းပေးရသည်။",
+            "pay_to_confirm": "အတည်ပြုရန် ငွေပေးချေပါ။",
+            "payment_not_due": "မပြီးသေးဘူး။"
+          }
+        },
+        "sort_by": "စီရန်- {{option}}",
+        "sort_hide_options_accessibility_label": "အတည်ပြုထားသော အမှာစာများအတွက် အမျိုးအစားခွဲရွေးချယ်စရာများကို ဝှက်ထားပါ။",
+        "sort_show_options_accessibility_label": "အတည်ပြုထားသော အမှာစာများအတွက် အမျိုးအစားခွဲရွေးချယ်မှုများကို ပြပါ။",
+        "sort_currently_sorted_by_accessibility_label": "လောလောဆယ် စီထားသည်- {{option}}",
+        "sort_title": "မျိုးတူစု"
+      },
+      "order_status": {
+        "attempted_delivery_label": "ပေးပို့ရန် ကြိုးစားခဲ့သည်။",
+        "attempted_delivery_description": "ပေးပို့ရန် ကြိုးပမ်းမှု မအောင်မြင်ခဲ့ပါ။",
+        "attempted_to_deliver_label": "ပေးပို့ရန် ကြိုးပမ်းခဲ့သည်။",
+        "confirmed_description": "သင့်အမိန့်ကို ကျွန်ုပ်တို့ လက်ခံရရှိပြီးဖြစ်သည်။",
+        "on_its_way_description": "ဤပို့ဆောင်မှုသည် လာနေပြီဖြစ်သည်။",
+        "out_for_delivery_description": "ဤပို့ကုန်သည် ပို့ဆောင်ရန် ထွက်သွားပြီဖြစ်သည်။",
+        "preparing_for_shipping_label": "ပို့ဆောင်ရန် ပြင်ဆင်နေပါသည်။",
+        "preparing_for_shipping_description": "ဤပစ္စည်းများကို ပို့ဆောင်ရန် ပြင်ဆင်နေပါသည်။",
+        "ready_for_pickup_label": "လာယူရန် အဆင်သင့်ဖြစ်ပါပြီ။",
+        "ready_for_pickup_description": "ဤပစ္စည်းများ လာယူရန် အသင့်ဖြစ်ပါပြီ။ ကျေးဇူးပြု၍ သင်၏မှာယူမှုကို လက်ခံသောအခါတွင် သင်၏အမိန့်အတည်ပြုချက်ကို ယူဆောင်လာပါ။",
+        "ready_for_pickup_location": "သင့်မှာယူမှုကို တည်နေရာတွင် လာယူရန် အသင့်ဖြစ်နေပါပြီ။",
+        "picked_up_label": "ကောက်ကိုင်သည်",
+        "picked_up_description": "ဒီပစ္စည်းတွေကို ကောက်ယူပြီးပါပြီ။",
+        "canceled_description": "သင့်မှာယူမှုကို {{date}} တွင် ပယ်ဖျက်ခဲ့သည်။",
+        "canceled_label": "ဖျက်သိမ်းလိုက်သည်။",
+        "canceled_title": "သင့်မှာယူမှုကို ပယ်ဖျက်လိုက်ပါပြီ။",
+        "come_back": "သင်၏ ပို့ဆောင်မှု အခြေအနေ အပ်ဒိတ်များအတွက် ဤစာမျက်နှာသို့ ပြန်လာပါ။",
+        "company_tracking_number": "{{company}} ခြေရာခံ နံပါတ်-",
+        "confirmed_label": "အတည်ပြုခဲ့သည်။",
+        "confirmed_title": "သင်၏အမိန့်ကို အတည်ပြုပြီးဖြစ်သည်။",
+        "confirmed_description_pickup": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သောအခါ အီးမေးလ်တစ်စောင် လက်ခံရရှိပါမည်။",
+        "confirmed_description_digital": "သင့်မှာယူမှုအဆင်သင့်ဖြစ်သောအခါတွင် အီးမေးလ်တစ်စောင်လက်ခံရရှိပါမည်။",
+        "confirmed_description_gift_card_text": "သင့်မှာယူမှု အဆင်သင့်ဖြစ်သောအခါတွင် စာတိုတစ်စောင် လက်ခံရရှိပါမည်။",
+        "delivered_description": "ဤပို့ဆောင်မှုကို ပေးပို့ပြီးဖြစ်သည်။",
+        "complete_label": "ပြီးအောင်",
+        "delivered_label": "ပေးပို့ခဲ့သည်။",
+        "delivered_title": "သင်၏ပို့ဆောင်မှုကို ပို့ဆောင်ပြီးဖြစ်သည်။",
+        "delivered_description_digital": {
+          "one": "ဤအရာ ပြီးပါပြီ။",
+          "other": "ဤအရာများ ပြည့်စုံပါသည်။"
+        },
+        "delivered_description_gift_card": {
+          "one": "လက်ဆောင်ကတ်ကို အီးမေးလ်ဖြင့် ပေးပို့ခဲ့သည်။",
+          "other": "လက်ဆောင်ကတ်များကို အီးမေးလ်ဖြင့် ပေးပို့ခဲ့သည်။"
+        },
+        "delivered_description_gift_card_text": {
+          "one": "လက်ဆောင်ကတ်ကို စာတိုပေးပို့ခဲ့သည်။",
+          "other": "လက်ဆောင်ကတ်များကို စာတိုပေးပို့ခဲ့သည်။"
+        },
+        "gift_card_label": {
+          "one": "လက်ဆောင်ကတ်",
+          "other": "လက်ဆောင်ကတ်များ"
+        },
+        "gift_card_resend": {
+          "one": "အီးမေးလ်ပြန်ပို့ပါ။",
+          "other": "အီးမေးလ်များ ပြန်ပို့ပါ။"
+        },
+        "gift_card_resend_text": {
+          "one": "စာသားပြန်ပို့ပါ။",
+          "other": "စာများပြန်ပို့ပါ။"
+        },
+        "gift_resend_success": {
+          "one": "လက်ဆောင်ကတ်လေး ရပြီလား",
+          "other": "လက်ဆောင်ကတ်တွေ ပြန်ရပြီ။"
+        },
+        "gift_resend_failure": {
+          "one": "သင့်လက်ဆောင်ကတ်ကို ပြန်ပို့ရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။",
+          "other": "သင့်လက်ဆောင်ကတ်များကို ပြန်ပို့ရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။"
+        },
+        "gift_card_resend_description": {
+          "one": "မရရှိပါက အီးမေးလ်ပြန်ပို့ပါ သို့မဟုတ်",
+          "other": "မရရှိပါက အီးမေးလ်များကို ပြန်လည်ပေးပို့ပါ သို့မဟုတ်"
+        },
+        "gift_card_resend_description_text": {
+          "one": "မရရှိပါက စာသားကို ပြန်လည်ပေးပို့ပါ သို့မဟုတ်",
+          "other": "မရရှိပါက စာတိုများပြန်ပို့ပါ။"
+        },
+        "confirmed_gift_card_additional_description": {
+          "one": "လက်ဆောင်ကတ်ကို သီးခြားအီးမေးလ်ဖြင့် ပေးပို့ပါမည်။",
+          "other": "လက်ဆောင်ကတ်တစ်ခုစီကို သီးခြားအီးမေးလ်ဖြင့် ပေးပို့ပါမည်။"
+        },
+        "confirmed_gift_card_additional_description_text": {
+          "one": "လက်ဆောင်ကတ်ကို သီးခြားစာသားဖြင့် ပေးပို့ပါမည်။",
+          "other": "လက်ဆောင်ကတ်တစ်ခုစီကို သီးခြားစာသားဖြင့် ပေးပို့ပါမည်။"
+        },
+        "status_timestamp": "အပ်ဒိတ်လုပ်ထားသော {{date}}",
+        "estimated_delivery": "မျှော်လင့်ထားသည့် {{date}}",
+        "delivered": "{{date}} ရောက်ရှိလာသည်",
+        "buy_with_prime_logo_accessibility_label": "Prime လိုဂိုဖြင့် Amazon ဝယ်ပါ။",
+        "in_review_description": "ကျွန်ုပ်တို့ နောက်ထပ်အချက်အလက်များ လိုအပ်ပါက သို့မဟုတ် သင့်မှာယူမှုကို အတည်ပြုသည့်အခါတွင် သင့်အား အသိပေးပါမည်။",
+        "in_review_label": "သုံးသပ်ချက်",
+        "in_review_title": "သင့်မှာယူမှုကို ပြန်လည်သုံးသပ်နေပါသည်။",
+        "last_updated": "နောက်ဆုံး အပ်ဒိတ်လုပ်ထားသော {{date}}",
+        "multiple_shipments_label": "အများအပြားတင်ပို့မှု",
+        "multiple_statuses_label": "မှာယူမှုအခြေအနေများစွာ",
+        "no_tracking_number": "ဤပို့ဆောင်မှုအတွက် ခြေရာခံနံပါတ်မရှိပါ။",
+        "on_its_way_label": "လာနေပြီ။",
+        "on_its_way_title": "သင်၏ ပို့ဆောင်မှုမှာ လမ်းကြောင်းပေါ်တွင် ရှိနေပါသည်။",
+        "out_for_delivery_label": "ပေးပို့ရန် ထွက်လာသည်။",
+        "out_for_delivery_title": "သင်၏ ပို့ဆောင်မှုမှာ ပို့ဆောင်ရန် ကုန်သွားပါပြီ။",
+        "resume_tracking": "ခြေရာခံခြင်းကို ပြန်လည်စတင်ပါ။",
+        "submitted_label": "တင်ပြလိုက်ပါသည်။",
+        "submitted_description": "မှာယူမှုနှင့် ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို ပြန်လည်သုံးသပ်ပါ။",
+        "there_was_a_problem_label": "ပြဿနာတစ်ခုရှိခဲ့သည်။",
+        "track_shipment": "ပို့ဆောင်မှုကို ခြေရာခံပါ။",
+        "request_return": "ပြန်တောင်းပါ။",
+        "view_order_for_details": "အသေးစိတ်အတွက် မှာယူမှုကို ကြည့်ပါ။",
+        "external_promise_manage_button_label": {
+          "buy_with_prime": "Amazon တွင် စီမံခန့်ခွဲပါ။"
+        },
+        "amazon_buy_with_prime": {
+          "order_tracking_link": {
+            "text": "Amazon ဖြင့် စီမံပါ။",
+            "new_window_disclaimer": "(ဝင်းဒိုးအသစ်တစ်ခုဖွင့်ပါ)"
+          }
+        },
+        "delivery_promise": {
+          "promise_line": {
+            "single_brand_label": "ပံ့ပိုးပေးသော ပို့ဆောင်မှု",
+            "mixed_brands_label": "Delivery အာမခံပါသည်။",
+            "not_delivered_by_label": "{{date}} တွင် မပေးပို့ပါ",
+            "modal_accessibility_button_label": "Delivery ကတိအသေးစိတ်"
+          },
+          "claim_shop_cash_cta": {
+            "has_shop_app_label": "သင်၏ Shop Cash ကို တောင်းဆိုပါ။"
+          }
+        }
+      },
+      "list_layout_accessibility_label": "အပြင်အဆင် ရွေးချယ်မှုများ",
+      "list_title": "အော်"
+    },
+    "navigation_and_structure": {
+      "nav_label_accessibility_label": "ပင်မလမ်းကြောင်း",
+      "navigation_accessibility_message": "သင်သည် {{sectionName}} သို့ လမ်းညွှန်ခဲ့သည်",
+      "open_menu_accessibility_label": "ပင်မအညွှန်းကိုဖွင့်ပါ။",
+      "orders_link_label": "အော်",
+      "shop_logo_accessibility_label": "{{shopName}} လိုဂို",
+      "subscriptions_link_label": "စာရင်းသွင်းမှုများ",
+      "settings_link": "ဆက်တင်များ",
+      "account_menu": {
+        "hide_accessibility_label": "အကောင့်မီနူးကို ဝှက်ပါ။",
+        "label": "အကောင့်",
+        "show_accessibility_label": "အကောင့်မီနူးကိုပြပါ။",
+        "nav_accessibility_label": "အကောင့်လမ်းညွှန်",
+        "open_menu_accessibility_label": "အကောင့်လမ်းညွှန်မှုဖွင့်ပါ။",
+        "close_menu_accessibility_label": "အကောင့်လမ်းညွှန်မှုကို ပိတ်ပါ။",
+        "loading_message": "အကောင့်အညွှန်းကို ဖွင့်နေသည်။"
+      },
+      "action_menu_accessibility_label": "လုပ်ဆောင်ချက်တွေ ပိုများတယ်။",
+      "close_menu_accessibility_label": "ပင်မလမ်းကြောင်းကို ပိတ်ပါ။",
+      "contact_email_subject": "{{shopName}} အွန်လိုင်းစတိုးမှ ဆက်သွယ်ပါ။",
+      "contact_link": "ဆက်သွယ်ရန်အချက်အလက်များ",
+      "delete_confirmation": {
+        "cancel": "မလုပ်တော့",
+        "delete": "ဖျက်ပါ။"
+      },
+      "dismiss_toast": "ပယ်ရန်",
+      "document_title": "{{sectionName}} - {{shopName}} - အကောင့်",
+      "go_to_store_link": "စတိုးဆိုင်ကိုသွားပါ။",
+      "loading_message": "ဒိန်း",
+      "log_out_link": "ထွက်လိုက်ပါ။",
+      "logout_overlay_label": "မင်းကို log out..."
+    },
+    "account_information": {
+      "loading_accessibility_message": "အကောင့်အချက်အလက်ကို ဖွင့်နေသည်။",
+      "loading_finished_accessibility_message": "အကောင့်အချက်အလက်ကို တင်ပြီးပါပြီ။",
+      "profile_card": {
+        "cancel": "မလုပ်တော့",
+        "cancel_accessibility_label": "ပရိုဖိုင်တည်းဖြတ်ခြင်းကို ပယ်ဖျက်ပါ။",
+        "edit": "တည်းဖြတ်ပါ။",
+        "edit_accessibility_label": "ပရိုဖိုင်ကို တည်းဖြတ်ပါ။",
+        "email_help_text": "အကောင့်ဝင်ရန်အတွက်သုံးသောအီးမေးလ်ကို ပြောင်းလဲ၍မရပါ။",
+        "first_name": "နာမည်",
+        "last_name": "မျိုးနွယ်အမည်",
+        "no_name_provided_accessibility_label": "နာမည်ထည့်မထားပါ။",
+        "phone_number_help_text": "အကောင့်ဝင်ရန်အသုံးပြုသည့်ဖုန်းနံပါတ်ကို ပြောင်းလဲ၍မရပါ။",
+        "save": "သိမ်းဆည်းပါ။",
+        "save_accessibility_label": "သိမ်းဆည်းပါနော်။",
+        "title": "ကိုယ်ရေးအကျဉ်း"
+      },
+      "profile_update_confirmation_message": "ပရိုဖိုင်ကို အပ်ဒိတ်လုပ်ထားသည်။",
+      "title": "ကိုယ်ရေးအကျဉ်း",
+      "people": {
+        "pagination": {
+          "load_more": "ပိုတင်ပါ။",
+          "load_more_accessibility_label": "လူများများတင်ပါ။",
+          "loading_accessibility_label": "လူတွေကို တင်နေပါတယ်။"
+        }
+      },
+      "add_button": "ထည့်ပါ။"
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "one": "{{count}} မိနစ်က",
+          "other": "လွန်ခဲ့သော {{count}} မိနစ်က"
+        },
+        "lessThanOneMinuteAgo": "အခုပဲ",
+        "yesterday": "မနေ့က {{time}}",
+        "today": "ယနေ့ {{time}} တွင်",
+        "tomorrow": "မနက်ဖြန် {{time}}"
+      }
+    },
+    "enable_javascript": "သင့်အကောင့်ကိုကြည့်ရှုရန်၊ သင့်ဘရောက်ဆာဆက်တင်များတွင် JavaScript ကိုဖွင့်ပါ သို့မဟုတ် အခြားဘရောက်ဆာဖြင့်ဝင်ရောက်ပါ။",
+    "payment_method_brands": {
+      "visaelectron": "ဗီဇာ အီလက်ထရွန်",
+      "maestro": "ဆရာတော်",
+      "laser": "လေဆာ",
+      "storecredit": "အကြွေးဝယ်",
+      "visa": "ဗီဇာ",
+      "mastercard": "မာစတာကတ်",
+      "discover": "ရှာဖွေပါ။"
+    },
+    "shop_policies": {
+      "legal_notice": "ဥပဒေသတိပေးချက်",
+      "privacy_policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+      "refund_policy": "ပြန်အမ်းငွေမူဝါဒ",
+      "shipping_policy": "သင်္ဘောမူဝါဒ",
+      "subscription_policy": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+      "terms_of_sale": "ရောင်းချခြင်းဆိုင်ရာ စည်းကမ်းချက်များ",
+      "terms_of_service": "ဝန်ဆောင်မှုစည်းမျဉ်းများ"
+    },
+    "ui_components": {
+      "closeNotification": "ပိတ်လိုက်",
+      "expandNotification": "ပိုမိုကြည့်ရှုပါ။",
+      "closeModal": "ပိတ်လိုက်",
+      "submit": "တင်ပြပါ။",
+      "processing": "လုပ်ဆောင်နေသည်...",
+      "increase": "{{type}} တိုးရန်",
+      "decrease": "{{type}} ကို လျှော့ပါ",
+      "minimumReached": "အနည်းဆုံး {{value}} ရောက်ပါပြီ။",
+      "maximumReached": "အများဆုံး {{value}} ကို ရောက်ပါပြီ။",
+      "january": "ဇန်နဝါရီလ",
+      "february": "ဖေဖော်ဝါရီ",
+      "march": "မတ်လ",
+      "april": "ဧပြီလ",
+      "may": "မေ",
+      "june": "ဇွန်လ",
+      "july": "ဇူလိုင်လ",
+      "august": "သြဂုတ်လ",
+      "september": "စက်တင်ဘာ",
+      "october": "အောက်တိုဘာလ",
+      "november": "နိုဝင်ဘာလ",
+      "december": "ဒီဇင်ဘာ",
+      "monday": "တနင်္လာနေ့",
+      "tuesday": "အင်္ဂါ",
+      "wednesday": "ဗုဒ္ဓဟူးနေ့",
+      "thursday": "ကြာသပတေးနေ့",
+      "friday": "သောကြာ",
+      "saturday": "စနေနေ့",
+      "sunday": "တနင်္ဂနွေ",
+      "mondayAbbreviation": "မို",
+      "wednesdayAbbreviation": "ကျွန်တော်တို",
+      "sundayAbbreviation": "စု",
+      "showNextMonth": "နောက်လတွင် ပြရန်၊ {{month}} {{year}}",
+      "showPreviousMonth": "ယခင်လ၊ {{month}} {{year}} ကို ပြပါ",
+      "rangeStart": "အပိုင်းအစ",
+      "inRange": "အပိုင်းအခြား",
+      "rangeEnd": "အပိုင်းအခြား",
+      "autocompleteOptionsAvailable": {
+        "one": "ပစ္စည်း {{count}} ခု ရနိုင်ပါသည်။",
+        "other": "ပစ္စည်း {{count}} ခု ရနိုင်ပါသည်။"
+      },
+      "removeItem": "{{label}} ကို ဖယ်ရှားရန်",
+      "removeTag": "တက်ဂ်ကို ဖယ်ရှားပါ။",
+      "month": {
+        "one": "လ",
+        "other": "လ"
+      },
+      "mapClusterTitle": {
+        "one": "{{number}} အမှတ်အသား အစုအဝေး",
+        "other": "အမှတ်အသား {{number}} အစုအဝေး"
+      },
+      "expandSheet": "ချဲ့ထွင်ပါ။",
+      "qrCode": "QR ကုဒ်",
+      "addFile": "ဖိုင်ထည့်ပါ။",
+      "dropzoneInvalidFileType": "ဖိုင်အမျိုးအစားကို မပံ့ပိုးပါ။",
+      "dropzoneDraggedOver": "အပ်လုဒ်လုပ်ရန် ဖိုင်ကို ချလိုက်ပါ။"
+    },
+    "profile_preview_bar": {
+      "customize_button": "စိတ်ကြိုက်လုပ်ပါ။",
+      "hide_bar": "ဘားဝှက်",
+      "navigate_to_admin": "စီမံခန့်ခွဲသူထံသွားပါ။",
+      "close_preview": "အစမ်းကြည့်ရှုမှုကို ပိတ်ပါ။",
+      "previewing": "သင်သည် အစမ်းကြည့်နေသည်-",
+      "saved_at": "{{time}} တွင် {{date}} ကို သိမ်းဆည်းခဲ့သည်",
+      "viewing": "သင်ကြည့်ရှုနေသည်-",
+      "not_available": "ပရိုဖိုင်ဒေတာ မရရှိနိုင်ပါ။",
+      "actions_button": "လုပ်ဆောင်ချက်များ"
+    },
+    "active_inspector": {
+      "extension": {
+        "select": "{{extensionName}} အမည်ရှိ နောက်ဆက်တွဲကို ရွေးပါ",
+        "unselect": "{{extensionName}} အမည်ရှိ နောက်ဆက်တွဲကို ရွေးဖြုတ်ပါ",
+        "move_down": "တိုးချဲ့မှုကို နောက်ရာထူးသို့ ရွှေ့ပါ။",
+        "move_up": "တိုးချဲ့မှုကို ယခင်အနေအထားသို့ ရွှေ့ပါ။",
+        "remove": "တိုးချဲ့မှုကို ဖယ်ရှားပါ။",
+        "move_down_tooltip": "နောက်ရာထူးသို့ ရွှေ့ပါ။",
+        "move_up_tooltip": "ယခင်အနေအထားသို့ ရွှေ့ပါ။",
+        "remove_tooltip": "ဖယ်ရှားပါ။"
+      }
+    },
+    "settings": {
+      "title": "ဆက်တင်များ",
+      "loading_accessibility_message": "ဆက်တင်များ စာမျက်နှာကို ဖွင့်နေသည်။",
+      "log_out_everywhere": {
+        "title": "နေရာတိုင်းကို ထွက်ပါ။",
+        "description": "စက်ပစ္စည်းတစ်ခု ပျောက်ဆုံးသွားပါက သို့မဟုတ် လုံခြုံရေးဆိုင်ရာ စိုးရိမ်မှုများရှိပါက၊ သင့်အကောင့်၏ လုံခြုံရေးကို သေချာစေရန် နေရာတိုင်းမှ ထွက်ပါ။",
+        "button": "နေရာတိုင်းကို ထွက်ပါ။",
+        "warning_message": "သင်သည် ဤစက်ပစ္စည်းပေါ်တွင်လည်း ထွက်ပါမည်။"
+      }
+    },
+    "B2B": {
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "description_due_on_fulfillment": "ဤအမှာစာပါအရာအားလုံးပြည့်စုံပြီးသည်နှင့်ငွေပေးချေရပါမည်။",
+            "description_due_on_fulfillment_partially_paid": "ဤအမှာစာသည် တစ်စိတ်တစ်ပိုင်းပေးချေခဲ့သည်။ သင့်တွင် လက်ကျန်ငွေ ရှိသည်။ ဤအမှာစာပါအရာအားလုံးပြည့်စုံပြီးသည်နှင့်ငွေပေးချေရပါမည်။",
+            "banner_overdue": {
+              "one": "သင့်ငွေပေးချေမှုသည် {{count}} ရက် ကျော်လွန်နေပါသည်။",
+              "other": "သင့်ငွေပေးချေမှုသည် {{count}} ရက် ကျော်လွန်နေပါသည်။"
+            },
+            "banner_due": {
+              "one": "သင့်ငွေပေးချေမှုသည် {{count}} ရက်အတွင်း ကုန်ဆုံးမည်ဖြစ်သည်။",
+              "other": "သင့်ငွေပေးချေမှုသည် {{count}} ရက်အတွင်း ကုန်ဆုံးမည်ဖြစ်သည်။"
+            },
+            "banner_due_today": "မင်းရဲ့ငွေပေးချေမှုဟာ ဒီနေ့ ကျရောက်ပါတယ်။",
+            "title": "ပေးချေရမည့်အချိန်",
+            "title_with_date": "ပေးချေရမည့်ရက် {{date}}",
+            "title_due_on_receipt": "ပေးချေမှု မပြီးသေးပါ။",
+            "title_due_on_fulfillment": "ပြည့်စုံစွာပေးဆောင်ရမည်ဖြစ်ပါသည်။",
+            "description_overdue": "သင့်ငွေပေးချေမှု နောက်ကျနေပါသည်။",
+            "description_partially_paid": "ဤအမှာစာသည် တစ်စိတ်တစ်ပိုင်းပေးချေခဲ့သည်။ သင့်တွင် လက်ကျန်ငွေ ရှိသည်။",
+            "description_authorized": "သင်၏ငွေပေးချေမှုနည်းလမ်းကို သတ်မှတ်ရက်တွင် ကောက်ခံသွားမည် သို့မဟုတ် ယခုပေးချေနိုင်ပါသည်။",
+            "description_waiting_for_manual_payment": "ဤမှာယူမှုတွင် ဆိုင်းငံ့ပေးချေမှုတစ်ခုရှိသည်။ ငွေပေးချေမှုကို လက်ခံရရှိသည့်အခါ လက်ကျန်ငွေကို အပ်ဒိတ်လုပ်ပါမည်။",
+            "description_due_on_receipt": "ငွေပေးချေရမည့်အချိန်၌ ပြေစာတစ်စောင် လက်ခံရရှိပါမည်။",
+            "description_due_on_receipt_partially_paid": "ဤအမှာစာသည် တစ်စိတ်တစ်ပိုင်းပေးချေခဲ့သည်။ သင့်တွင် လက်ကျန်ငွေ ရှိသည်။ ငွေပေးချေရမည့်အချိန်၌ ပြေစာတစ်စောင် လက်ခံရရှိပါမည်။"
+          },
+          "draft": {
+            "description": "မှာယူမှုကို အတည်ပြုသည့်အခါ ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို ဆုံးဖြတ်ပါသည်။",
+            "title": "ငွေပေးချေမှု မပြီးသေးပါ။",
+            "in_review": {
+              "description": "မှာယူမှုကို အတည်ပြုသည့်အခါ ငွေပေးချေမှုအသေးစိတ်အချက်အလက်များကို ဆုံးဖြတ်ပါသည်။",
+              "title": "ငွေပေးချေမှု မပြီးသေးပါ။"
+            },
+            "submitted": {
+              "description": "ဤမှာယူမှုကို အတည်ပြုရန် ငွေပေးချေမှုကို တင်သွင်းပါ။",
+              "title": "အတည်ပြုရန် ငွေပေးချေပါ။",
+              "deposit": {
+                "title": "ငွေပေးချေမှု ပြီးပါပြီ။",
+                "due_later": "လက်ကျန်ငွေသည် {{translatedName}} စည်းမျဉ်းများအတိုင်းဖြစ်ပြီး {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။",
+                "due_on_fulfillment": "ဤအမှာစာပါအရာအားလုံး ပြည့်စုံပြီးသည်နှင့် လက်ကျန်ငွေကို ပေးဆောင်ရမည်ဖြစ်သည်။",
+                "due_on_receipt": "ကျန်လက်ကျန်ငွေအတွက် ပြေစာတစ်စောင်ကို လက်ခံရရှိပါမည်။",
+                "due_on_date": "လက်ကျန်ငွေသည် {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။"
+              }
+            },
+            "deposit": {
+              "due_later": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ လက်ကျန်ငွေသည် {{translatedName}} စည်းမျဉ်းများအတိုင်း ဖြစ်လိမ့်မည်။",
+              "due_on_fulfillment": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ မှာယူမှု ပြည့်စုံသည့်အခါ လက်ကျန်ငွေကို ပေးဆောင်ရပါမည်။",
+              "due_on_receipt": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ လက်ကျန်ငွေသည် နောက်ပိုင်းတွင် ပေးချေမည်ဖြစ်သည်။",
+              "due_on_date": "သင်၏ မှာယူမှုကို အတည်ပြုပြီးသောအခါ {{depositAmount}} ပေးချေရပါမည်။ လက်ကျန်ငွေသည် {{dueDate}} တွင် ကုန်ဆုံးမည်ဖြစ်သည်။"
+            }
+          },
+          "paid": {
+            "title": "အခကြေးငွေ",
+            "title_with_date": "{{date}} ပေးချေသည်",
+            "description": "သင့်မှာယူမှုကို အပြည့်အဝပေးချေပါသည်။"
+          },
+          "refund": {
+            "title": "ပြန်အမ်းသည်။",
+            "title_with_date": "ပြန်အမ်းငွေ {{date}}",
+            "description_full_refund": "ဤအမှာစာအတွက် သင် အပြည့်အ၀ ပြန်အမ်းငွေ ရရှိထားပါသည်။",
+            "description_single_refund": "ဤအမှာစာအတွက် တစ်စိတ်တစ်ပိုင်း ပြန်အမ်းငွေကို သင်သည် လက်ခံရရှိခဲ့သည်။",
+            "description_multiple_refunds": "ဤအမှာစာအတွက် တစ်စိတ်တစ်ပိုင်း ပြန်အမ်းငွေများ သင်လက်ခံရရှိထားပါသည်။"
+          },
+          "canceled": {
+            "title": "ငွေပေးချေမှုကို ပယ်ဖျက်လိုက်ပါပြီ။",
+            "description": "မင်းကို စွဲချက်မတင်ဘူး။"
+          },
+          "pay_now": "ယခုပေးချေပါ။",
+          "pay_now_accessibility_label": "မှာယူမှု {{orderName}} အတွက် ယခုပေးချေပါ",
+          "title": "ငွေပေးချေမှုအခြေအနေ"
+        },
+        "order_timeline": {
+          "expand_events_label": "အသေးစိတ်ကိုပြပါ။",
+          "expand_events_accessibility_label": "အမှာစာမူကြမ်းအသေးစိတ်ပြပါ။",
+          "hide_events_label": "အသေးစိတ်ကို ဖျောက်ပါ။",
+          "hide_events_accessibility_label": "အမှာစာမူကြမ်း အသေးစိတ်ကို ဝှက်ထားပါ။"
+        },
+        "subtitle": "တင်သွင်းခဲ့သည် {{date}}",
+        "title": "မှာယူမှု {{name}}",
+        "draft_order_subtitle": "မှာယူမှု {{draftOrderName}} မှ {{date}} အတည်ပြုခဲ့သည်",
+        "loading": "မှာယူမှုအသေးစိတ်များကို တင်နေပါသည်။",
+        "loading_finished_accessibility_message": "မှာယူမှုအသေးစိတ်ကို တင်ပြီးပါပြီ။"
+      },
+      "payment_methods": {
+        "payment_delete": {
+          "description_without_replacement": "ဤငွေပေးချေမှုနည်းလမ်းသည် ဤနေရာမှ နောင်တွင် ဝယ်ယူမှုများအတွက် မရနိုင်တော့ပါ။",
+          "description_with_replacement": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းသည် ဤတည်နေရာအတွက် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများကို အကျိုးသက်ရောက်စေမည်ဖြစ်သည်။ လာမည့်အမှာစာများကို ဆက်လက်လက်ခံရရှိရန် ၎င်းကို အခြားငွေပေးချေမှုနည်းလမ်းဖြင့် အစားထိုးပါ။"
+        },
+        "payment_details": {
+          "order_label": "မှာယူမှု {{name}}",
+          "draft_label": "အမှာစာမူကြမ်း {{name}}"
+        }
+      },
+      "purchase_order_number": {
+        "add_accessibility_label": "စာတိုက်နံပါတ်ထည့်ပါ။",
+        "add_modal_title": "စာတိုက်နံပါတ်ထည့်ပါ။",
+        "cancel": "မလုပ်တော့",
+        "close_modal_accessibility_label": "PO နံပါတ် မော်ဒယ်ကို ပိတ်ပါ။",
+        "discard": "ပစ်ပယ်",
+        "discard_changes_modal_title": "ပြောင်းလဲမှုများကို ဖယ်ပစ်မလား။",
+        "edit_accessibility_label": "စာတိုက်နံပါတ်ကို တည်းဖြတ်ပါ။",
+        "edit_modal_title": "စာတိုက်နံပါတ်ကို တည်းဖြတ်ပါ။",
+        "empty_state": "စာတိုက်နံပါတ်မရှိပါ။",
+        "modal_po_number_input_label": "စာတိုက်နံပါတ်",
+        "modal_po_number_input_max_length_error": "စာတိုက်နံပါတ်များတွင် အများဆုံးစာလုံး {{maxLength}} လုံးရှိသည်။",
+        "save": "သိမ်းဆည်းပါ။",
+        "title": "စာတိုက် # {{poNumber}}"
+      },
+      "account_information": {
+        "company_card_name_label": "ကုမ္ပဏီအမည်",
+        "company_card_section_accessibility_label": "ကုမ္ပဏီ"
+      },
+      "locations": {
+        "contact_email": "အီးမေးလ်",
+        "contact_list_title": "လူတွေ",
+        "contact_name": "နာမည်",
+        "contact_permissions": "ခွင့်ပြုချက်များ",
+        "contact_phone_number": "ဖုန်းနံပါတ်",
+        "location_picker_label": "တည်နေရာအမည်",
+        "location_picker_accessibility_label": "တည်နေရာအမည်- {{locationName}}",
+        "net_payment_terms_description": "{{name}} : {{numberOfDays}} ရက်အတွင်း ငွေပေးချေမှုများ",
+        "deposit_percentage": "အပ်ငွေ {{percentage}}",
+        "own_role_contact_name": "မင်း",
+        "pagination": {
+          "load_more": "ပိုတင်ပါ။",
+          "load_more_accessibility_label": "နောက်ထပ်တည်နေရာများကို တင်ပါ။"
+        },
+        "payment_details_title": "ငွေပေးချေမှုအသေးစိတ်",
+        "payment_terms": "ငွေပေးချေမှုစည်းကမ်းချက်များ",
+        "permissions_label": "သင်၏ခွင့်ပြုချက်များ",
+        "permissions_title": "ခွင့်ပြုချက်များ",
+        "section_title": "တည်နေရာ",
+        "shipping_address_required": "မှာယူမှုစတင်ရန် ဤနေရာသို့ ပို့ဆောင်ရေးလိပ်စာတစ်ခု ထည့်ပါ။",
+        "staff_and_permissions_title": "ဝန်ထမ်းများနှင့် ခွင့်ပြုချက်",
+        "tax_details_title": "အခွန်အသေးစိတ်",
+        "tax_id": "အခွန် ID",
+        "tax_exemptions": "အခွန်ကင်းလွတ်ခွင့်",
+        "multiple_tax_exemptions": "နောက်ထပ် {{taxExemptionsCount}}",
+        "multiple_tax_exemptions_and": "နှင့်",
+        "tax_exemptions_modal_close": "ပိတ်လိုက်",
+        "taxes_none": "တစ်ခုမှ",
+        "tax_exemption_not_applicable": "မရှိ",
+        "tax_exemptions_modal_button_accessibility_label": "အခွန်ကင်းလွတ်ခွင့်အားလုံးကို ကြည့်ရှုပါ။"
+      },
+      "location_selection": {
+        "continue_to_store": "ဆက်လက်သိမ်းဆည်းပါ။",
+        "description": "သင့်တွန်းလှည်းတွင် ပစ္စည်းရှိပြီးသားဖြစ်ပါက၊ နေရာပြောင်းခြင်းသည် လှည်းစျေးနှုန်းနှင့် အရေအတွက်အပေါ် သက်ရောက်မှုရှိနိုင်သည်။",
+        "list_accessibility_label": "နေရာများစာရင်း",
+        "list_item_without_address_accessibility_label": "{{name}} : လိပ်စာမရှိပါ။",
+        "list_loading_accessibility_message": "တည်နေရာစာရင်းကို တင်နေသည်။",
+        "list_loading_address_accessibility_message": "{{locationName}} အတွက် လိပ်စာကို ဖွင့်နေသည်",
+        "list_loading_finished_accessibility_message": "တည်နေရာစာရင်းကို တင်ပြီးပါပြီ။",
+        "loading_store_accessibility_message": "ဆိုင်သွားမယ်။",
+        "no_location_title": "ကိုယ်ရေးကိုယ်တာ အမိန့်များသာ",
+        "no_location_description": "သင့်တွင် {{company}} အတွက် အမှာစာများပြုလုပ်ရန် ခွင့်ပြုချက်မရှိတော့ပါ။ သင်သည် ကိုယ်ရေးကိုယ်တာ မှာယူမှုများ ပြုလုပ်နိုင်သေးသည်။",
+        "no_locations_found": "တည်နေရာမတွေ့ပါ။",
+        "search": "တည်နေရာကိုရှာဖွေပါ။",
+        "search_location_title": "တည်နေရာကို ရွေးပါ။",
+        "selection_cancel_button": "မလုပ်တော့",
+        "selection_confirmation_button": "တည်နေရာကိုရွေးချယ်ပါ။",
+        "title": "ဘယ်​​နေရာအတွက်​ ဝယ်​​နေတာလဲ",
+        "clear_search": "ရှာဖွေမှုကို ရှင်းလင်းပါ။",
+        "try_new_search": "ရှာဖွေမှုအသစ်တစ်ခုကို စမ်းကြည့်ပါ။"
+      },
+      "addresses": {
+        "add_billing_address_button": "ငွေတောင်းခံလွှာလိပ်စာထည့်ပါ။",
+        "add_billing_address_section_accessibility_label": "ငွေတောင်းခံလွှာလိပ်စာထည့်ပါ။",
+        "add_shipping_address_button": "ပို့ဆောင်ရေးလိပ်စာထည့်ပါ။",
+        "add_shipping_address_section_accessibility_label": "ပို့ဆောင်ရေးလိပ်စာထည့်ပါ။",
+        "billing_address_card_title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "cancel_adding_billing_address_accessibility_label": "ငွေတောင်းခံလွှာထည့်ခြင်းလိပ်စာကို ပယ်ဖျက်ပါ။",
+        "cancel_adding_shipping_address_accessibility_label": "သင်္ဘောလိပ်စာထည့်ခြင်းကို ပယ်ဖျက်ပါ။",
+        "save_new_billing_address_accessibility_label": "ငွေတောင်းခံလွှာလိပ်စာကို သိမ်းဆည်းပါ။",
+        "save_new_shipping_address_accessibility_label": "ပို့ဆောင်ရေးလိပ်စာကို သိမ်းဆည်းပါ။",
+        "shipping_address_card_title": "ကုန်ပစ္စည်းပို့ဆောင်ရမည့်လိပ်စာ"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all": "အားလုံးကို ဝှက်ထားပါ။",
+          "show_all": "အားလုံးပြပါ။",
+          "hide_all_accessibility_label": "သုံးသပ်ချက်တွင် အမိန့်အားလုံးကို ဝှက်ထားသည်။",
+          "show_all_accessibility_label": "မှာယူမှုအားလုံးကို စစ်ဆေးပြီး ပြပါ။",
+          "show_all_orders_in_review": "မှာယူမှုအားလုံးကို စစ်ဆေးပြီး ပြပါ။",
+          "show_less_orders_in_review": "သုံးသပ်ချက်တွင် အမှာစာများကို လျှော့ပြပါ။",
+          "title": "ဆိုင်းငံ့ထားသည်။",
+          "pending_tab_accessibility_label": {
+            "no_pending_orders": "သင့်တွင် ဆိုင်းငံ့ထားသော အမှာစာများ မရှိပါ။",
+            "pending_orders": {
+              "one": "သင့်တွင် ဆိုင်းငံ့အော်ဒါ {{count}} ရှိပါသည်။",
+              "other": "သင့်တွင် ဆိုင်းငံ့ထားသော အမှာစာ {{count}} ရှိပါသည်။"
+            },
+            "more_than_pagination_length": "သင့်တွင် ဆိုင်းငံ့ထားသော အမှာစာ {{count}} ထက် ပိုပါသည်။"
+          },
+          "pending_orders_count_more_than_pagination_length": "{{count}} +",
+          "pagination": {
+            "nav_accessibility_label": "လမ်းညွှန်မှုခလုတ်များကို ပြန်လည်သုံးသပ်ရန်အတွက် မှာယူမှုများ"
+          }
+        },
+        "order_list_column_headers_location": "တည်နေရာ",
+        "order_list_column_headers_contact": "ဆက်သွယ်ရန်",
+        "removed_company_contact_tooltip": "ကုမ္ပဏီမှ ဖယ်ရှားခဲ့သည်။"
+      }
+    },
+    "errors": {
+      "address_deletion_error": {
+        "description": "ဤလိပ်စာကို ဖျက်ရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် စာမျက်နှာကို ပြန်လည်စတင်ပါ။"
+      },
+      "addresses_loading_issue": {
+        "description": "ချိတ်ဆက်မှု အမှားအယွင်း သင့်အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။"
+      },
+      "banner_title": {
+        "one": "အမှားအယွင်း {{count}} ရှိပါသည်။",
+        "other": "အမှားအယွင်း {{count}} ခု ရှိပါသည်။"
+      },
+      "failed_address_creation": {
+        "description": "သင့်လိပ်စာကို ဖန်တီးရာတွင် ပြဿနာရှိနေသည်။ ဤစာမျက်နှာကို ပြန်လည်စတင်ကြည့်ပါ သို့မဟုတ် သင်၏အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးကြည့်ပါ။"
+      },
+      "failed_address_update": {
+        "description": "သင့်လိပ်စာကို အပ်ဒိတ်လုပ်ရာတွင် ပြဿနာရှိနေသည်။ ဤစာမျက်နှာကို ပြန်လည်စတင်ကြည့်ပါ သို့မဟုတ် သင်၏အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးကြည့်ပါ။"
+      },
+      "load_orders_error": {
+        "title": "မှာယူမှုများကို တင်၍မရပါ။",
+        "description": "ထပ်စမ်းကြည့်ပါ သို့မဟုတ် နောက်မှပြန်လာပါ။",
+        "retry_button": "ပြန်ကြိုးစားပါ။"
+      },
+      "load_paypal_error": {
+        "description": "PayPal ကိုဖွင့်ရာတွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ။"
+      },
+      "logout_everywhere": {
+        "description": "အကောင့်ထွက်နေစဉ် တစ်ခုခုမှားသွားသည်။ ထပ်စမ်းကြည့်ပါ။"
+      },
+      "no_access_to_locations": {
+        "description": "သင့်တွင် မည်သည့်နေရာမှ ဝင်သုံးခွင့်မရှိပါ။"
+      },
+      "not_found": {
+        "description": "URL ကိုစစ်ဆေးပါ သို့မဟုတ် မိနစ်အနည်းငယ်အကြာတွင် ထပ်စမ်းကြည့်ပါ။",
+        "title": "ဤစာမျက်နှာကို တင်ရာတွင် ပြဿနာရှိနေသည်။"
+      },
+      "order_not_found": {
+        "description": "ဤအမှာစာမရှိပါ သို့မဟုတ် ၎င်းကိုကြည့်ရှုရန် သင့်တွင်ခွင့်ပြုချက်မရှိပါ။",
+        "title": "အမိန့်မတွေ့ပါ။"
+      },
+      "profile_update_error": {
+        "description": "သင့်ပရိုဖိုင်ကို အပ်ဒိတ်လုပ်ရာတွင် ပြဿနာရှိနေသည်။ ဤစာမျက်နှာကို ပြန်လည်စတင်ကြည့်ပါ သို့မဟုတ် သင်၏အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးကြည့်ပါ။"
+      },
+      "retry_action_label": "ပြန်ကြိုးစားပါ။",
+      "load_extension_error": {
+        "title": "အမှား",
+        "description": "ဤစာမျက်နှာကို ပြန်လည်စတင်ပါ သို့မဟုတ် မိနစ်အနည်းငယ်အကြာတွင် ထပ်စမ်းကြည့်ပါ။",
+        "refresh_button": "စာမျက်နှာကို ပြန်လည်စတင်ပါ။"
+      }
+    },
+    "payment_methods": {
+      "title": "ငွေပေးချေမှုနည်းလမ်းများ",
+      "add_payment_method_button": "ငွေပေးချေမှုနည်းလမ်းကို ထည့်ပါ။",
+      "add_payment_method_banner": "ပိုမြန်သော ငွေရှင်းခြင်း သို့မဟုတ် ကြိုတင်ခွင့်ပြုထားသည့် ဝန်ဆောင်မှုများအတွက် ငွေပေးချေနည်းလမ်းကို ထည့်ပါ။",
+      "no_payment_methods_banner": "ငွေပေးချေမှုနည်းလမ်းများ ထည့်မထားပါ။",
+      "edit_payment_method_button_accessibility_label": "{{lastDigits}} ဖြင့်အဆုံးသတ်သော {{paymentMethodName}} ကိုတည်းဖြတ်ပါ",
+      "edit_payment_method_brand_button_accessibility_label": "{{paymentMethodName}} ကို တည်းဖြတ်ပါ",
+      "delete_payment_method_button": "ဖျက်ပါ။",
+      "delete_payment_method_button_accessibility_label": "{{paymentMethodName}} ကိုဖျက်ပါ",
+      "back_button": "ကျော",
+      "back_button_accessibility_label": "{{paymentMethodStepTitle}} သို့ ပြန်သွားရန်",
+      "default": "ပုံသေ",
+      "generic_card": "ကတ်",
+      "expiration_warning_button_accessibility_label": "{{lastDigits}} ဖြင့်အဆုံးသတ်ထားသော {{paymentMethodName}} အတွက် သက်တမ်းကုန်ဆုံးမှုသတိပေးချက်ကို ပြပါ",
+      "expires_soon": "ဤကတ်သည် မကြာမီ သက်တမ်းကုန်ဆုံးတော့မည်ဖြစ်သည်။",
+      "expired": "ဒီကတ်ကသက်တမ်းကုန်ဆုံးနေပါပြီ",
+      "card_update_consent": "ဤငွေပေးချေမှုနည်းလမ်းကို နောင်ဝယ်ယူမှုများအတွက် သိမ်းဆည်းပါမည်။",
+      "digital_wallet_title": "ဒစ်ဂျစ်တယ်ပိုက်ဆံအိတ်",
+      "credit_or_debit_card_title": "ခရက်ဒစ် သို့မဟုတ် ဒက်ဘစ်ကတ်",
+      "google_pay": {
+        "loading": "Google Pay ကို ဖွင့်နေသည်။",
+        "errors": {
+          "generic": "Google Pay တွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် အခြားငွေပေးချေမှုနည်းလမ်းကို အသုံးပြုပါ။",
+          "missing_billing_address": "Google Pay သည် ငွေတောင်းခံလွှာလိပ်စာတစ်ခု လိုအပ်ပါသည်။ ကျေးဇူးပြု၍ သင့်အကောင့်ထဲသို့ တစ်ခုထည့်ပါ။"
+        }
+      },
+      "apple_pay": {
+        "loading": "Apple Pay ကို ဖွင့်နေသည်။",
+        "errors": {
+          "generic": "Apple Pay တွင် ပြဿနာရှိနေသည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် အခြားငွေပေးချေမှုနည်းလမ်းကို အသုံးပြုပါ။",
+          "not_available": "Apple Pay ကို ဤစက်ပစ္စည်းတွင် မရရှိနိုင်ပါ။",
+          "missing_billing_address": "Apple Pay သည် ငွေတောင်းခံလွှာလိပ်စာတစ်ခု လိုအပ်သည်။ ကျေးဇူးပြု၍ သင့်အကောင့်ထဲသို့ တစ်ခုထည့်ပါ။"
+        }
+      },
+      "store_credit": {
+        "label": "အကြွေးဝယ်",
+        "accesibility_label": "စတိုးဆိုင်ခရက်ဒစ် - {{formattedBalance}}",
+        "expirable_amounts_button": "သက်တမ်းကုန်ဆုံးနိုင်သောပမာဏများကိုကြည့်ပါ။",
+        "expirable_amounts_label": "သက်တမ်းကုန်ဆုံးနိုင်သော ပမာဏများ",
+        "details_modal": {
+          "title": "သက်တမ်းကုန်ဆုံးနိုင်သော စတိုးဆိုင်ခရက်ဒစ်",
+          "balance_label": "လက်ကျန်",
+          "expiration_date_label": "သက်တမ်းကုန်ဆုံးရက်",
+          "amount_label": "ပမာဏ",
+          "date_label": "ရက်စွဲ",
+          "expirable_balance_info": "သင့်လက်ကျန်ငွေအချို့သည် အနာဂတ်ရက်စွဲတွင် သက်တမ်းကုန်ဆုံးမည်ဖြစ်သည်။",
+          "expirable_amount_label": "စုစုပေါင်းသက်တမ်းကုန်ဆုံးနိုင်သောပမာဏ",
+          "expirable_amounts_info": "မကြာမီ သက်တမ်းကုန်ဆုံးမည့် ပမာဏများကို ငွေရှင်းချိန်တွင် ဦးစွာ အသုံးပြုပါသည်။",
+          "expirable_amounts_button": "အမြင်",
+          "expired_amounts_button": "သက်တမ်းကုန်ဆုံးနေသောပမာဏများကိုကြည့်ပါ။",
+          "pagination": {
+            "load_more_label": "ပိုတင်ပါ။",
+            "load_more_accessibility_label": "သက်တမ်းကုန်ဆုံးနိုင်သော ပမာဏပိုများကို တင်ပါ။"
+          }
+        }
+      },
+      "payment_details": {
+        "title": "ငွေပေးချေမှုနည်းလမ်းအသေးစိတ်",
+        "credit_card_details_accessibility_label": "{{lastDigits}} ဖြင့် အဆုံးသတ်သည်",
+        "billing_title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "card_info_title": "ကတ်အချက်အလက်",
+        "payment_method_expiring_on": "{{expiryDate}} တွင် သက်တမ်းကုန်မည်",
+        "payment_method_expired_on": "{{expiryDate}} တွင် သက်တမ်းကုန်သည်",
+        "preauthorized_payments": "ကြိုတင်ခွင့်ပြုငွေများ",
+        "close_payment_modal": "ပိတ်လိုက်",
+        "close_payment_modal_accessibility_label": "ငွေပေးချေမှုနည်းလမ်းအသေးစိတ်ပုံစံကို ပိတ်ပါ။",
+        "payment_method_not_found_error": "ငွေပေးချေမှုနည်းလမ်းကို ရှာမတွေ့ပါ။",
+        "payment_details_loading": "ငွေပေးချေနည်းလမ်းအသေးစိတ်အချက်အလက်များကို တင်နေပါသည်။",
+        "pre_authorized_payments": "ကြိုတင်ခွင့်ပြုငွေများ",
+        "total_amount_of_subscription_line_items_left": "နှင့် နောက်ထပ် {{total}}",
+        "total_amount_of_subscription_line_items_left_accessibility_label": "စုစုပေါင်းပစ္စည်း {{totalItems}} ခု၊ {{totalItemsToDisplay}} ဖိုင်များကို ပြသထားသည်။",
+        "next_payment_due": "နောက်ထပ်ပေးချေရမည့်ငွေ {{dueDateInMonthDayYear}}",
+        "edit_payment_method_button": "တည်းဖြတ်ပါ။",
+        "edit_payment_method_button_accessibility_label": "{{lastDigits}} ဖြင့်အဆုံးသတ်သော ငွေပေးချေနည်းလမ်းကို တည်းဖြတ်ပါ",
+        "loading_shop_pay": "Shop Pay ကိုဖွင့်ခြင်း။",
+        "invalid_payment_method": "မမှန်ကန်သော ငွေပေးချေမှုနည်းလမ်း",
+        "invalid_payment_method_message": "လာမည့်အမှာစာများကို ဆက်လက်လက်ခံရန် ခရက်ဒစ်ကတ်အသစ်ကို အသုံးပြုပါ။",
+        "replace_payment_method": "ငွေပေးချေမှုနည်းလမ်းကို အစားထိုးပါ။",
+        "checkout_card_banner": "ဤငွေပေးချေမှုနည်းလမ်းကို ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအတွက်သာ အသုံးပြုနိုင်ပါသည်။ ဤစတိုးသို့ သင်ဝင်ရောက်ပါက ငွေရှင်းချိန်တွင် ၎င်းသည် ပေါ်လာမည်မဟုတ်ပါ။",
+        "default_checkbox": "ပုံသေအဖြစ် သတ်မှတ်ပါ။",
+        "default_checkbox_accessibility_label": "ဤငွေပေးချေမှုနည်းလမ်းကို မူရင်းအဖြစ် သတ်မှတ်ပါ။"
+      },
+      "edit_payment_method": {
+        "title": "ငွေပေးချေမှုနည်းလမ်းကို တည်းဖြတ်ပါ။",
+        "save_payment_method_button": "သိမ်းဆည်းပါ။",
+        "cancel_edit_payment_method_button": "မလုပ်တော့",
+        "payment_method_updated_toast": "ငွေပေးချေမှုနည်းလမ်းကို အပ်ဒိတ်လုပ်ထားသည်။",
+        "billing_address": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+        "billing_address_add_new": "အသစ်ထည့်ပါ။",
+        "billing_address_choose_from_list": "စာရင်းမှရွေးချယ်ပါ။",
+        "future_purchases_notice": "ဤငွေပေးချေမှုနည်းလမ်းကို နောင်ဝယ်ယူမှုများအတွက် သိမ်းဆည်းပါမည်။",
+        "generic_error": "အပ်ဒိတ်လုပ်ရာတွင် ပြဿနာရှိခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။"
+      },
+      "card_fields": {
+        "card_number_label": "ကတ်နံပါတ်",
+        "card_number_placeholder": "ကတ်နံပါတ်",
+        "name_on_card_label": "ကဒ်ပေါ်တွင်အမည်",
+        "name_on_card_placeholder": "ကဒ်ပေါ်တွင်အမည်",
+        "card_expiry_label": "သက်တမ်းကုန်ဆုံးရက် (MM / YY)",
+        "card_expiry_placeholder": "သက်တမ်းကုန်ဆုံးရက် (MM / YY)",
+        "card_verification_value_label": "လုံခြုံရေးကုဒ်နံပါတ်",
+        "card_verification_value_placeholder": "လုံခြုံရေးကုဒ်နံပါတ်",
+        "card_start_label": "ထုတ်ဝေသည့်ရက်စွဲ (MM / YY)",
+        "card_start_placeholder": "ထုတ်ဝေသည့်ရက်စွဲ (MM / YY)",
+        "tooltip": {
+          "tooltip_accessibility_label": "အချက်အလက်ပို",
+          "card_verification_value_explanation_amex": "သင့်ကတ်ရှေ့တွင် ဂဏန်း 4 လုံး လုံခြုံရေးကုဒ်",
+          "card_verification_value_explanation_other": "သင့်ကတ်နောက်ကျောတွင် ဂဏန်း ၃ လုံး လုံခြုံရေးကုဒ်",
+          "card_verification_value_explanation": "ဂဏန်း ၃ လုံး လုံခြုံရေးကုဒ်ကို သင့်ကတ်၏နောက်ကျောတွင် အများအားဖြင့် တွေ့ရပါသည်။ American Express ကတ်များတွင် ရှေ့တွင် ဂဏန်း 4 လုံးပါသော ကုဒ်ရှိသည်။",
+          "card_security_notice": "ငွေပေးငွေယူအားလုံးသည် လုံခြုံပြီး ကုဒ်ဝှက်ထားသည်။"
+        },
+        "field_errors": {
+          "credit_card_name_invalid": "သင့်ကတ်ပေါ်တွင် ရေးထားသည့်အတိုင်း သင့်အမည်ကို အတိအကျထည့်ပါ။",
+          "credit_card_number_invalid": "တရားဝင်ကတ်နံပါတ်ကို ထည့်ပါ။",
+          "credit_card_expiry_invalid": "တရားဝင်ကတ် သက်တမ်းကုန်ဆုံးရက်ကို ထည့်ပါ။",
+          "credit_card_verification_value_blank": "သင့်ကတ်တွင် CVV သို့မဟုတ် လုံခြုံရေးကုဒ်ကို ထည့်ပါ။"
+        }
+      },
+      "payment_delete": {
+        "title": "ငွေပေးချေမှုနည်းလမ်းကို ဖျက်ပါ။",
+        "description_without_replacement": "ဤငွေပေးချေမှုနည်းလမ်းသည် နောင်ဝယ်ယူမှုများအတွက် မရနိုင်တော့ပါ။",
+        "description_with_replacement": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအပေါ် သက်ရောက်မှုရှိသည်။ လာမည့်အမှာစာများကို ဆက်လက်လက်ခံရရှိရန် ၎င်းကို အခြားငွေပေးချေနည်းလမ်းဖြင့် အစားထိုးနိုင်ပါသည်။",
+        "warning_message_with_replacement": {
+          "with_pending_orders_and_subscriptions": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအပေါ် သက်ရောက်မှုရှိသည်။ အခြားငွေပေးချေမှုနည်းလမ်းကို သင်ရွေးချယ်မထားပါက၊ လက်ရှိမှာယူမှုများအတွက် ကျန်ရှိနေသော လက်ကျန်ငွေများအတွက် ဤငွေပေးချေမှုနည်းလမ်းကို ကောက်ခံသွားမည်ဖြစ်သည်။ အခြားငွေပေးချေမှုနည်းလမ်းကို ရွေးချယ်ခြင်းသည် အနှောင့်အယှက်မရှိဘဲ လာမည့်စာရင်းသွင်းမှာယူမှုများကို လက်ခံရရှိစေမည်ဖြစ်သည်။",
+          "with_pending_orders": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ၎င်းကို သင့်အကောင့်မှ ဖယ်ရှားမည်ဖြစ်ပြီး နောင်တွင် ဝယ်ယူမှုများအတွက် မရနိုင်တော့ပါ။ အခြားငွေပေးချေမှုနည်းလမ်းကို သင်ရွေးချယ်မထားပါက လက်ရှိမှာယူမှုများအတွက် ကျန်ရှိနေသော လက်ကျန်ငွေများကို ကောက်ခံသွားမည်ဖြစ်သည်။",
+          "with_subscriptions": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအပေါ် သက်ရောက်မှုရှိသည်။ လာမည့်အမှာစာများကို ဆက်လက်လက်ခံရရှိရန် ၎င်းကို အခြားငွေပေးချေမှုနည်းလမ်းဖြင့် အစားထိုးပါ။"
+        },
+        "warning_message_without_replacement": {
+          "with_pending_orders_and_subscriptions": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအပေါ် သက်ရောက်မှုရှိသည်။ ဤငွေပေးချေမှုနည်းလမ်းသည် လက်ရှိအမှာစာများအတွက် ကျန်ရှိနေသော လက်ကျန်ငွေများအတွက် ကောက်ခံနေဆဲဖြစ်သော်လည်း လာမည့်စာရင်းသွင်းမှာယူမှုများတွင် သင်လက်ခံရရှိမည်မဟုတ်ပါ။ စာရင်းသွင်းမှာယူမှုများ ဆက်လက်လက်ခံရန် အခြားငွေပေးချေမှုနည်းလမ်းကို ထည့်ပါ။",
+          "with_pending_orders": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ၎င်းကို သင့်အကောင့်မှ ဖယ်ရှားမည်ဖြစ်ပြီး နောင်တွင် ဝယ်ယူမှုများအတွက် မရနိုင်တော့ပါ။ လက်ရှိ မှာယူမှုများတွင် ကျန်ရှိနေသော လက်ကျန်များအတွက် ၎င်းကို ကောက်ခံသွားမည်ဖြစ်သည်။",
+          "with_subscriptions": "ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်ခြင်းဖြင့် ကြိုတင်ခွင့်ပြုထားသည့် ငွေပေးချေမှုများအပေါ် သက်ရောက်မှုရှိသည်။ လာမည့်အမှာစာများကို ဆက်လက်လက်ခံရန် အခြားငွေပေးချေမှုနည်းလမ်းကို ထည့်ပါ။"
+        },
+        "payment_method_selector_placeholder": "အစားထိုးငွေပေးချေနည်းလမ်းကို ရွေးပါ (ချန်လှပ်ထားနိုင်သည်)",
+        "payment_method_selector_no_alternative_payment": "အစားထိုးနည်းလမ်းမရှိပါ။",
+        "replace_method_with_new_method_description": "သင်၏ {{currentPaymentMethodName}} ဖျက်ပြီး သင်၏ {{newPaymentMethodName}} ဖြင့် အစားထိုးပါမည်။",
+        "error_when_deleting": "ကျွန်ုပ်တို့ တောင်းပန်သော်လည်း တစ်စုံတစ်ခု မှားယွင်းသွားသည့်အတွက် ဤငွေပေးချေမှုနည်းလမ်းကို ဖျက်၍မရပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် စာမျက်နှာကို ပြန်လည်စတင်ပါ။",
+        "delete_and_replace_button": "ဖျက်ပြီး အစားထိုးပါ။",
+        "delete_and_replace_button_accessibility_label": "{{currentPaymentMethodName}} ကိုဖျက်ပြီး {{newPaymentMethodName}} ဖြင့် အစားထိုးပါ။",
+        "deleted_successfully": "ငွေပေးချေမှုနည်းလမ်းကို အောင်မြင်စွာ ဖျက်လိုက်ပါပြီ။",
+        "loading_available_payment_methods_accessibility_label": "ရရှိနိုင်သော ငွေပေးချေမှုနည်းလမ်းများကို တင်နေသည်။"
+      },
+      "add_payment_method": {
+        "title": "ငွေပေးချေမှုနည်းလမ်းကို ထည့်ပါ။",
+        "payment_method_added_confirmation": "ငွေပေးချေမှုနည်းလမ်းကို ထည့်သွင်းထားသည်။",
+        "billing_address": {
+          "title": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+          "add_billing_address_button": "အသစ်ထည့်ပါ။",
+          "add_billing_address_button_accessibility_label": "ငွေတောင်းခံလွှာလိပ်စာအသစ်ကို ထည့်ပါ။",
+          "choose_billing_address_from_list_button": "စာရင်းမှရွေးချယ်ပါ။",
+          "choose_billing_address_from_list_button_accessibility_label": "စာရင်းထဲမှ ငွေပေးချေရမည့်လိပ်စာကို ရွေးပါ။",
+          "missing_billing_address_error_message": "ငွေပေးချေရမည့်လိပ်စာကို သတ်မှတ်ပေးပါ။",
+          "default_checkbox": "မူရင်းငွေပေးချေမှုနည်းလမ်းအဖြစ် သတ်မှတ်ပါ။"
+        }
+      }
+    },
+    "order_details": {
+      "shipping": {
+        "free": "အခမဲ့",
+        "free_shipping_discount": "အခမဲ့ပို့ဆောင်ပေးခြင်း",
+        "one_time": "တစ်ကြိမ်တည်း ပို့ဆောင်ခြင်း။",
+        "subscription": "စာရင်းသွင်း ပို့ဆောင်ခြင်း။"
+      },
+      "pickup": {
+        "pickup": "ကောက်ကိုင်လိုက်သည်",
+        "pickup_location": "လာယူမည့်နေရာ",
+        "pickup_point": "ထုတ်ယူရန်အချက်"
+      },
+      "show_items": "ပစ္စည်းများကို ပြပါ။",
+      "show_order_summary": "မှာယူမှု အနှစ်ချုပ်ကို ပြပါ။",
+      "hide_order_summary": "မှာယူမှုအကျဉ်းချုပ်ကို ဝှက်ပါ။",
+      "subtitle": "အတည်ပြုခဲ့သည် {{date}}",
+      "subtotal": "စုစုပေါင်း",
+      "summary_list_title_accessibility_label": "ပစ္စည်းများကိုမှာယူပါ။",
+      "summary_title": "အမိန့်အကျဉ်းချုပ်",
+      "summary_totals_title_accessibility_label": "အော်ဒါစုစုပေါင်း",
+      "shop_order_tracking": {
+        "download_shop_to_track": "ပက်ကေ့ဂျ်ကို ခြေရာခံရန် ဆိုင်ကို ဒေါင်းလုဒ်လုပ်ပါ။",
+        "track_order_with_shop": "ဆိုင်နှင့်အတူ မှာယူမှုကို ခြေရာခံပါ။",
+        "title_header": "သင့်ဖုန်းဖြင့် စကင်န်ဖတ်ပါ။",
+        "real_time_delivery_updates": "သင့်မှာယူမှုကို ပို့ဆောင်ပြီးသည်နှင့် ဆိုင်သည် သင့်အား အချိန်နှင့်တစ်ပြေးညီ ပို့ဆောင်မှုအပ်ဒိတ်များကို ပေးပို့ပါမည်။"
+      },
+      "edit_summary": {
+        "added": "ထပ်ပြောပါသည်။",
+        "added_with_quantity": "ထည့်ထားသည် {{quantity}}",
+        "removed": "ဖယ်ရှားခဲ့သည်။",
+        "removed_with_quantity": "{{quantity}} ကို ဖယ်ရှားခဲ့သည်",
+        "updated_at": "သင့်မှာယူမှုကို {{date}} တွင် အပ်ဒိတ်လုပ်ခဲ့သည်",
+        "returned": "ပြန်လာခဲ့သည်။",
+        "returned_with_quantities": "{{total}} ၏ {{delta}} ကို ပြန်ပို့သည်",
+        "removed_with_quantities": "{{total}} ၏ {{delta}} ကို ဖယ်ရှားခဲ့သည်",
+        "return_line_item_removed": "ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။",
+        "return_line_item_removed_with_quantities": "{{delta}} ပြန်ခြင်းမှ ဖယ်ရှားခဲ့သည်။"
+      },
+      "shop_pay": {
+        "order_completed_with": "အမှာစာဖြင့် ပြီးပါပြီ။",
+        "learn_more": "ပိုမိုသိရှိရန်"
+      },
+      "taxes": "အခွန်အခများ",
+      "taxes_included": "အခွန်များတွင် {{amount}} ပါဝင်သည်။",
+      "duties_and_taxes_included": "စုစုပေါင်း အခွန်နှင့် အခွန်များ ပါဝင်သည်။ ပို့ဆောင်မှုတွင် အပိုအခကြေးငွေ မရှိပါ။",
+      "duties": "တာဝန်များ",
+      "ok_duties_tooltip": "ဤအမှာစာအား အခြားနိုင်ငံမှ ပို့ဆောင်နေသောကြောင့် သင်၏မှာယူမှုစုစုပေါင်းတွင် တာဝန်များကို ထည့်သွင်းထားပါသည်။",
+      "error_duties_tooltip": "ဤအမှာစာသည် အခြားနိုင်ငံမှ တင်ပို့နေသောကြောင့် ပို့ဆောင်မှုတွင် အခွန်နှင့် အခွန်များ ကောက်ခံနိုင်ပါသည်။",
+      "zero_duties_tooltip": "ဤအမှာစာသည် အခြားနိုင်ငံမှ တင်ပို့နေပါသည်။ ဤတန်ဖိုး၏ မှာယူမှုများအတွက် တာဝန်များကို ကောက်ခံမည်မဟုတ်ပါ။",
+      "tip": "ထိပ်ဖျား",
+      "title": "မှာယူမှု {{name}}",
+      "total": "စုစုပေါင်း",
+      "unit_price": "{{price}} /ea",
+      "pagination": {
+        "load_more": "ပိုတင်ပါ။",
+        "load_more_accessibility_label": "နောက်ထပ်အရာများကို တင်ပါ။",
+        "loading_accessibility_label": "ပစ္စည်းများကို တင်နေသည်။"
+      },
+      "login_to_view_all_order_details": "မှာယူမှုအသေးစိတ်အားလုံးကို ကြည့်ရှုရန် အကောင့်ဝင်ပါ။",
+      "log_in": "လော့ဂ်အင်",
+      "logged_in_account_no_permission_to_order": "သင်သည် {{email}} အဖြစ် အကောင့်ဝင်ထားသည်။ ဤအမှာစာအား စီမံခန့်ခွဲရန် ဤအကောင့်တွင် ခွင့်ပြုချက်မရှိပါ။",
+      "log_in_to_a_different_account": "အခြားအကောင့်တစ်ခုသို့ အကောင့်ဝင်ပါ။",
+      "fees": {
+        "restocking_fee": "ပြန်လည်ကောက်ခံခြင်း။",
+        "return_shipping_fee": "ပြန်လည်ပို့ဆောင်ခြင်း။"
+      },
+      "vat_invoices": {
+        "title": "VAT ပြေစာများ"
+      }
+    },
+    "addresses": {
+      "add_button": "လိပ်စာထည့်ပါ။",
+      "add_button_text": "ထည့်ပါ။",
+      "add_button_accessibility_label": "လိပ်စာထည့်ပါ။",
+      "back_button": "ကျော",
+      "back_button_accessibility_label": "တည်းဖြတ်လိပ်စာ {{address}} သို့ ပြန်သွားရန်",
+      "add_address_banner": "ငွေရှင်းရာတွင် အသုံးပြုရန် လိပ်စာများကို ထည့်ပါ။",
+      "no_addresses_banner": "လိပ်စာများကို ထည့်မထားပါ။",
+      "address_deleted_notification": "လိပ်စာကို ဖျက်လိုက်ပါပြီ။",
+      "cancel_adding_address_accessibility_label": "လိပ်စာထည့်ခြင်းကို ပယ်ဖျက်ပါ။",
+      "cancel_deletion_button": "မလုပ်တော့",
+      "cancel_deletion_button_accessibility_label": "{{address}} ကို ဖျက်ခြင်းအား ပယ်ဖျက်ခြင်း",
+      "default_address": {
+        "title": "မူရင်းလိပ်စာ",
+        "title_accessibility_label": "မူရင်းလိပ်စာ- {{address}}"
+      },
+      "delete_button": "ဖျက်ပါ။",
+      "delete_button_accessibility_label": "{{address}} ကို ဖျက်ရန်",
+      "delete_confirmation_button": "လိပ်စာကို ဖျက်ပါ။",
+      "delete_confirmation_button_accessibility_label": "{{address}} ကို ဖျက်ရန်",
+      "delete_confirmation_message": "လိပ်စာကို ဖျက်မလား။ လက်ရှိအော်ဒါများကို မထိခိုက်စေပါ။",
+      "delete_confirmation_title": "လိပ်စာကို ဖျက်မလား။",
+      "delete_confirmation_description": "လက်ရှိအော်ဒါများကို မထိခိုက်စေပါ။",
+      "edit_button": "တည်းဖြတ်ပါ။",
+      "edit_button_accessibility_label": "{{address}} တည်းဖြတ်ပါ",
+      "edit_section_accessibility_label": "{{address}} တည်းဖြတ်ပါ",
+      "edit_modal_title": {
+        "default": "လိပ်စာကို တည်းဖြတ်ပါ။",
+        "billing": "ငွေတောင်းခံလွှာလိပ်စာကို တည်းဖြတ်ပါ။",
+        "shipping": "ပို့ဆောင်ရေးလိပ်စာကို တည်းဖြတ်ပါ။"
+      },
+      "loading_accessibility_message": "လိပ်စာကို ဖွင့်နေသည်။",
+      "loading_addresses_accessibility_message": "လိပ်စာများကို ဖွင့်နေသည်။",
+      "loading_billing_accessibility_message": "ငွေတောင်းခံလွှာလိပ်စာကို ဖွင့်နေသည်။",
+      "loading_finished_accessibility_message": "လိပ်စာများ၏ စာမျက်နှာအသစ်ကို တင်လိုက်ပါပြီ။",
+      "loading_shipping_accessibility_message": "ပို့ဆောင်ရေးလိပ်စာကို ဖွင့်နေသည်။",
+      "pagination": {
+        "load_more": "ပိုတင်ပါ။",
+        "load_more_accessibility_label": "နောက်ထပ်လိပ်စာများကို တင်ပါ။"
+      },
+      "save_new_address_accessibility_label": "လိပ်စာသိမ်းဆည်းပါ။",
+      "title": "လိပ်စာများ",
+      "billing_address_dropdown_placeholder": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ"
+    },
+    "address_form": {
+      "attention": "အာရုံ",
+      "attention_company": "ကုမ္ပဏီ / အာရုံစိုက်",
+      "attention_help_text": "လူတစ်ဦး သို့မဟုတ် ဌာနတစ်ခု၏အမည်",
+      "auto_complete_close_accessibility_label": "အကြံပြုချက်များကို ပိတ်ပါ။",
+      "auto_complete_title": "အကြံပြုချက်များ",
+      "billing_address": "ငွေတောင်းခံလွှာလိပ်စာအဖြစ် အသုံးပြုပါ။",
+      "cancel": "မလုပ်တော့",
+      "cancel_accessibility_label": "တည်းဖြတ်လိပ်စာ {{address}} ကို ပယ်ဖျက်ပါ",
+      "creation_success_notification": "လိပ်စာထည့်ထားသည်။",
+      "default_address": "ဤသည်မှာ ကျွန်ုပ်၏ မူရင်းလိပ်စာဖြစ်ပါသည်။",
+      "default_address_creation_success_notification": "မူရင်းလိပ်စာကို ထည့်ထားသည်။",
+      "default_address_update_success_notification": "မူရင်းလိပ်စာကို အပ်ဒိတ်လုပ်ထားသည်။",
+      "loading_add_form_accessibility_message": "လိပ်စာဖောင်အသစ်ကို ဖွင့်နေသည်။",
+      "loading_edit_form_accessibility_message": "တည်းဖြတ်လိပ်စာဖောင်ကို တင်နေသည်။",
+      "loading_form_accessibility_message": "လိပ်စာဖောင်ကို ဖွင့်နေသည်။",
+      "loading_finished_accessibility_message": "လိပ်စာဖောင်တင်ပြီးပါပြီ။",
+      "save": "သိမ်းဆည်းပါ။",
+      "save_accessibility_label": "လိပ်စာ {{address}} ကို သိမ်းဆည်းပါ",
+      "section_title_accessibility_label": "လိပ်စာထည့်ပါ။",
+      "update_success_notification": "လိပ်စာ အပ်ဒိတ်လုပ်ထားသည်။"
+    }
+  },
+  "customer": {
+    "login_page": {
+      "sign_in": "ဆိုင်းအင်လုပ်ခြင်း",
+      "submit": "တင်ပြပါ။",
+      "alternate_provider_separator": "သို့မဟုတ်",
+      "cancel": "မလုပ်တော့",
+      "create_account": "အကောင့်ပြုလုပ်ပါ",
+      "email": "အီးမေးလ်",
+      "forgot_password": "သင့်စကားဝှက်ကိုမေ့နေပါသလား?",
+      "guest_continue": "ဆက်ရန်",
+      "guest_title": "ဧည့်သည်အဖြစ် ဆက်သွားပါ။",
+      "password": "စကားဝှက်",
+      "title": "လော့ဂ်အင်"
+    },
+    "order": {
+      "title": "မှာယူမှု {{ name }}",
+      "date_html": "{{ date }}",
+      "cancelled_html": "{{ date }} တွင် မှာယူမှုကို ပယ်ဖျက်လိုက်သည်",
+      "cancelled_reason": "အကြောင်းရင်း- {{ reason }}",
+      "billing_address": "ကျသင့်ငွေတောင်းခံလွှာပေးပို့မည့်လိပ်စာ",
+      "payment_status": "ငွေပေးချေမှုအခြေအနေ",
+      "shipping_address": "ကုန်ပစ္စည်းပို့ဆောင်ရမည့်လိပ်စာ",
+      "fulfillment_status": "ပြည့်စုံမှုအခြေအနေ",
+      "discount": "လျှော့စျေး",
+      "shipping": "သင်္ဘောဖြင့်ကုန်ပစ္စည်းပို့ခြင်း",
+      "tax": "ခွန်",
+      "product": "ထုတ်ကုန်",
+      "price": "စျေးနှုန်း",
+      "quantity": "ပမာဏ",
+      "total": "စုစုပေါင်း",
+      "total_refunded": "ပြန်အမ်းသည်။",
+      "fulfilled_at_html": "ပြည့်စုံမှု {{ date }}",
+      "track_shipment": "ပို့ဆောင်မှုကို ခြေရာခံပါ။",
+      "tracking_url": "ခြေရာခံလင့်ခ်",
+      "tracking_company": "သယ်ဆောင်သူ",
+      "tracking_number": "ခြေရာကောက်နိုင်မည့်နံပါတ်",
+      "subtotal": "စုစုပေါင်း",
+      "total_duties": "တာဝန်များ"
+    },
+    "orders": {
+      "title": "အော်ဒါမှတ်တမ်း",
+      "order_number": "အော်",
+      "order_number_link": "မှာယူမှု နံပါတ် {{ number }}",
+      "date": "ရက်စွဲ",
+      "payment_status": "ငွေပေးချေမှုအခြေအနေ",
+      "fulfillment_status": "ပြည့်စုံမှုအခြေအနေ",
+      "total": "စုစုပေါင်း",
+      "none": "သင်သည် မည်သည့်အမိန့်စာမျှ မတင်ရသေးပါ။"
+    },
+    "recover_password": {
+      "title": "သင့်စကားဝှက်ကို ပြန်လည်သတ်မှတ်ပါ။",
+      "subtext": "သင့်စကားဝှက်ကို ပြန်လည်သတ်မှတ်ရန် သင့်ထံ အီးမေးလ်တစ်စောင် ပေးပို့ပါမည်။",
+      "success": "သင့်စကားဝှက်ကို အပ်ဒိတ်လုပ်ရန် လင့်ခ်တစ်ခုပါရှိသည့် အီးမေးလ်တစ်စောင် သင့်ထံ ပေးပို့ထားပါသည်။"
+    },
+    "register": {
+      "title": "အကောင့်ပြုလုပ်ပါ",
+      "first_name": "နာမည်",
+      "last_name": "မျိုးနွယ်အမည်",
+      "email": "အီးမေးလ်",
+      "password": "စကားဝှက်",
+      "submit": "ဖန်တီးပါ။"
+    },
+    "reset_password": {
+      "title": "အကောင့်စကားဝှက်ကို ပြန်လည်သတ်မှတ်ပါ။",
+      "subtext": "စကားဝှက်အသစ်ထည့်ပါ။",
+      "password": "စကားဝှက်",
+      "password_confirm": "စကားဝှက်အတည်ပြုခြင်း",
+      "submit": "စကားဝှက်ကို ပြန်လည်သတ်မှတ်ပါ။"
+    },
+    "account": {
+      "title": "အကောင့်",
+      "details": "အကောင့်အသေးစိတ်",
+      "view_addresses": "လိပ်စာများကို ကြည့်ရှုပါ။",
+      "return": "အကောင့်အသေးစိတ်သို့ ပြန်သွားရန်"
+    },
+    "account_fallback": "အကောင့်",
+    "activate_account": {
+      "title": "အကောင့်ကို အသက်သွင်းပါ။",
+      "subtext": "သင့်အကောင့်ကို အသက်သွင်းရန် သင့်စကားဝှက်ကို ဖန်တီးပါ။",
+      "password": "စကားဝှက်",
+      "password_confirm": "စကားဝှက်အတည်ပြုခြင်း",
+      "submit": "အကောင့်ကို အသက်သွင်းပါ။",
+      "cancel": "ဖိတ်ကြားချက်ကို ငြင်းပယ်ပါ။"
+    },
+    "addresses": {
+      "title": "လိပ်စာများ",
+      "default": "ပုံသေ",
+      "add_new": "လိပ်စာအသစ်တစ်ခုထည့်ပါ။",
+      "edit_address": "လိပ်စာကို တည်းဖြတ်ပါ။",
+      "first_name": "နာမည်",
+      "last_name": "မျိုးနွယ်အမည်",
+      "company": "ကုမ္ပဏီ",
+      "address1": "လိပ်စာ ၁",
+      "address2": "လိပ်စာ ၂",
+      "city": "မြို",
+      "country": "နိုင်ငံ/ဒေသ",
+      "province": "ပြည်နယ်",
+      "zip": "စာတိုက်/စာတိုက်ကုဒ်",
+      "phone": "ဖုန်း",
+      "set_default": "မူရင်းလိပ်စာအဖြစ် သတ်မှတ်ပါ။",
+      "add": "လိပ်စာထည့်ပါ။",
+      "update": "လိပ်စာကို အပ်ဒိတ်လုပ်ပါ။",
+      "cancel": "မလုပ်တော့",
+      "edit": "တည်းဖြတ်ပါ။",
+      "delete": "ဖျက်ပါ။",
+      "delete_confirm": "ဤလိပ်စာကို ဖျက်လိုသည်မှာ သေချာပါသလား။"
+    },
+    "log_in": "လော့ဂ်အင်",
+    "log_out": "ထွက်လိုက်ပါ။"
+  },
+  "gift_cards": {
+    "issued": {
+      "how_to_use_gift_card": "လက်ဆောင်ကတ်ကုဒ်ကို အွန်လိုင်း သို့မဟုတ် စတိုးဆိုင်တွင် QR ကုဒ်ကို အသုံးပြုပါ။",
+      "title": "ဒါက {{ shop }} {{ value }} လက်ဆောင်ကတ် လက်ကျန်ငွေ !",
+      "subtext": "မင်းရဲ့လက်ဆောင်ကတ်",
+      "gift_card_code": "လက်ဆောင်ကတ်ကုဒ်",
+      "shop_link": "အွန်လိုင်းစတိုးကိုသွားပါ။",
+      "add_to_apple_wallet": "Apple Wallet သို့ထည့်ပါ။",
+      "qr_image_alt": "QR ကုဒ် — လက်ဆောင်ကတ်ကို ထုတ်ယူရန် စကင်န်ဖတ်ပါ။",
+      "copy_code": "လက်ဆောင်ကတ်ကုဒ်ကို ကူးယူပါ။",
+      "expiration_date": "သက်တမ်းကုန်ဆုံးသည် {{ expires_on }}",
+      "copy_code_success": "ကုဒ်ကို အောင်မြင်စွာ ကူးယူလိုက်ပါပြီ။",
+      "expired": "သက်တမ်းကုန်သွားပြီ"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "ဒါကို လက်ဆောင်အဖြစ် ပို့ပေးချင်ပါတယ်။",
+      "expanded": "လက်ဆောင်ကတ် လက်ခံသူပုံစံကို တိုးချဲ့ထားသည်။",
+      "collapsed": "လက်ဆောင်ကတ် လက်ခံသူ ဖောင်ကို ဖျက်ထားသည်။",
+      "email_label": "လက်ခံသူအီးမေးလ်",
+      "email_label_optional_for_no_js_behavior": "လက်ခံသူအီးမေးလ် (ချန်လှပ်ထားနိုင်သည်)",
+      "email": "အီးမေးလ်",
+      "name_label": "လက်ခံသူအမည် (ချန်လှပ်ထားနိုင်သည်)",
+      "name": "နာမည်",
+      "message_label": "မက်ဆေ့ချ် (ချန်လှပ်ထားနိုင်သည်)",
+      "message": "မက်ဆေ့ချ်",
+      "max_characters": "{{ max_chars }} စာလုံး အမြင့်ဆုံး",
+      "send_on_label": "ပို့ရန် (ချန်လှပ်ထားနိုင်သည်)"
+    }
+  },
+  "sections": {
+    "header": {
+      "announcement": "ကြေငြာချက်",
+      "menu": "မီနူး",
+      "cart_count": {
+        "one": "{{ count }} အကြောင်းအရာ",
+        "other": "{{ count }} ပစ္စည်းများ"
+      }
+    },
+    "cart": {
+      "title": "သင်၏လှည်း",
+      "caption": "လှည်းပစ္စည်းများ",
+      "remove_title": "{{ title }} ကို ဖယ်ရှားပါ",
+      "estimated_total": "စုစုပေါင်းခန့်မှန်း",
+      "new_estimated_total": "စုစုပေါင်း ခန့်မှန်းခြေအသစ်",
+      "note": "အထူးညွှန်ကြားချက်များ မှာယူပါ။",
+      "checkout": "ထွက်ခွာသည်",
+      "empty": "သင့်လှည်းသည် ဗလာဖြစ်နေသည်။",
+      "cart_error": "သင့်စျေးဝယ်လှည်းကို အပ်ဒိတ်လုပ်နေစဉ် အမှားအယွင်းရှိနေပါသည်။ ထပ်စမ်းကြည့်ပါ။",
+      "cart_quantity_error_html": "သင်သည် ဤပစ္စည်း၏ {{ quantity }} ကိုသာ သင့်လှည်းထဲသို့ ထည့်နိုင်သည်။",
+      "duties_and_taxes_included_shipping_at_checkout_with_policy_html": "တာဝန်နှင့် အခွန်များ ပါဝင်သည်။ လျှော့စျေးနှင့် <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">ပို့ဆောင်ခကို</a> ငွေရှင်းချိန်တွင် တွက်ချက်သည်။",
+      "duties_and_taxes_included_shipping_at_checkout_without_policy": "တာဝန်နှင့် အခွန်များ ပါဝင်သည်။ လျှော့စျေးနှင့် ပို့ဆောင်ခကို ငွေရှင်းချိန်တွင် တွက်ချက်သည်။",
+      "taxes_included_shipping_at_checkout_with_policy_html": "အခွန်များပါဝင်ပါသည်။ လျှော့စျေးနှင့် <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">ပို့ဆောင်ခကို</a> ငွေရှင်းချိန်တွင် တွက်ချက်သည်။",
+      "taxes_included_shipping_at_checkout_without_policy": "အခွန်များပါဝင်ပါသည်။ လျှော့စျေးနှင့် ပို့ဆောင်ခကို ငွေရှင်းချိန်တွင် တွက်ချက်သည်။",
+      "duties_included_taxes_at_checkout_shipping_at_checkout_with_policy_html": "တာဝန်များပါဝင်ပါသည်။ ငွေရှင်းချိန်တွင် အခွန်၊ လျှော့စျေးနှင့် <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">ပို့ဆောင်ခများ</a> တွက်ချက်သည်။",
+      "duties_included_taxes_at_checkout_shipping_at_checkout_without_policy": "တာဝန်များပါဝင်ပါသည်။ ငွေရှင်းချိန်တွင် အခွန်၊ လျှော့စျေးနှင့် ပို့ဆောင်ခများ တွက်ချက်သည်။",
+      "taxes_at_checkout_shipping_at_checkout_with_policy_html": "ငွေရှင်းချိန်တွင် အခွန်၊ လျှော့စျေးနှင့် <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">ပို့ဆောင်ခများ</a> တွက်ချက်သည်။",
+      "taxes_at_checkout_shipping_at_checkout_without_policy": "ငွေရှင်းချိန်တွင် အခွန်၊ လျှော့စျေးနှင့် ပို့ဆောင်ခများ တွက်ချက်သည်။",
+      "headings": {
+        "product": "ထုတ်ကုန်",
+        "price": "စျေးနှုန်း",
+        "total": "စုစုပေါင်း",
+        "quantity": "ပမာဏ",
+        "image": "ထုတ်ကုန်ပုံ"
+      },
+      "update": "အပ်ဒိတ်",
+      "login": {
+        "title": "အကောင့်ရှိလား။",
+        "paragraph_html": "ပိုမိုမြန်ဆန်စွာ ထုတ်ယူရန် <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\" class=\"link underlined-link\">အကောင့်ဝင်ပါ</a> ။"
+      }
+    },
+    "footer": {
+      "payment": "ငွေပေးချေမှုနည်းလမ်းများ"
+    },
+    "featured_blog": {
+      "view_all": "အားလုံးကိုကြည့်ရှုပါ။",
+      "onboarding_title": "ဘလော့ပို့စ်",
+      "onboarding_content": "သင့်ဖောက်သည်များအား သင့်ဘလော့ဂ်ပို့စ်၏ အကျဉ်းချုပ်ကို ပေးပါ။"
+    },
+    "featured_collection": {
+      "view_all": "အားလုံးကိုကြည့်ရှုပါ။",
+      "view_all_label": "{{ collection_name }} collection ရှိ ထုတ်ကုန်အားလုံးကို ကြည့်ပါ။"
+    },
+    "collection_list": {
+      "view_all": "အားလုံးကိုကြည့်ရှုပါ။"
+    },
+    "collection_template": {
+      "empty": "ထုတ်ကုန်မတွေ့ပါ။",
+      "title": "စုစည်းမှု",
+      "use_fewer_filters_html": "စစ်ထုတ်မှုများကို လျှော့သုံးပါ သို့မဟုတ် <a class=\"&lt;span class='notranslate'&gt;{{ class }}&lt;/span&gt;\" href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">အားလုံးကို ဖယ်ရှားပါ။</a>"
+    },
+    "video": {
+      "load_video": "ဗီဒီယိုကို တင်ပါ- {{ description }}"
+    },
+    "slideshow": {
+      "load_slide": "လျှောတင်ပါ။",
+      "previous_slideshow": "ယခင်လျှော",
+      "next_slideshow": "နောက်တစ်ခုလျှော",
+      "pause_slideshow": "ဆလိုက်ရှိုးကို ခဏရပ်ပါ။",
+      "play_slideshow": "ဆလိုက်ရှိုးကစားပါ။",
+      "carousel": "ဝိုင်းလေး",
+      "slide": "လျှော"
+    },
+    "page": {
+      "title": "စာမျက်နှာခေါင်းစဉ်"
+    },
+    "quick_order_list": {
+      "product_total": "ထုတ်ကုန်စုစုပေါင်း",
+      "view_cart": "လှည်းကြည့်",
+      "each": "{{ money }} /ea",
+      "product": "ထုတ်ကုန်",
+      "variant": "မူကွဲ",
+      "variant_total": "စုစုပေါင်း မူကွဲ",
+      "items_added": {
+        "one": "ပစ္စည်း {{ quantity }} ကို ထည့်ထားသည်။",
+        "other": "ပစ္စည်းများ {{ quantity }} ကို ထည့်ထားသည်။"
+      },
+      "items_removed": {
+        "one": "ပစ္စည်း {{ quantity }} ကို ဖယ်ရှားလိုက်ပါပြီ။",
+        "other": "ပစ္စည်းများ {{ quantity }} ကို ဖယ်ရှားခဲ့သည်။"
+      },
+      "product_variants": "ထုတ်ကုန်မျိုးကွဲများ",
+      "total_items": "စုစုပေါင်းပစ္စည်းများ",
+      "remove_all_single_item_confirmation": "သင့်စျေးဝယ်လှည်းမှ ပစ္စည်း 1 ခုကို ဖယ်ရှားမလား။",
+      "remove_all_items_confirmation": "သင့်လှည်းမှ ပစ္စည်းများ {{ quantity }} အားလုံးကို ဖယ်ရှားမလား။",
+      "remove_all": "အားလုံးကို ဖယ်ရှားပါ။",
+      "cancel": "မလုပ်တော့",
+      "min_error": "ဤအရာသည် အနည်းဆုံး {{ min }} ရှိသည်",
+      "max_error": "ဤအရာသည် အများဆုံး {{ max }} ဖြစ်သည်",
+      "step_error": "သင်သည် ဤအရာကို {{ step }} ၏ တိုး၍သာထည့်နိုင်သည်။"
+    },
+    "announcements": {
+      "previous_announcement": "ယခင်ကြေငြာချက်",
+      "next_announcement": "နောက်ကြေငြာချက်",
+      "carousel": "ဝိုင်းလေး",
+      "announcement": "ကြေငြာချက်",
+      "announcement_bar": "ကြေငြာဘား"
+    }
+  },
+  "general": {
+    "password_page": {
+      "login_form_heading": "စကားဝှက်သုံးပြီး စတိုးကို ဝင်ပါ-",
+      "login_password_button": "စကားဝှက်ကို အသုံးပြု၍ ရိုက်ထည့်ပါ။",
+      "login_form_password_label": "စကားဝှက်",
+      "login_form_password_placeholder": "သင့်စကားဝှက်",
+      "login_form_error": "စကားဝှက်မှား။",
+      "login_form_submit": "ဝင်ပါ။",
+      "admin_link_html": "မင်းက စတိုးဆိုင်ပိုင်ရှင်လား။ <a href=\"/admin\" class=\"link underlined-link\">ဤနေရာတွင် ဝင်ရောက်ပါ။</a>",
+      "powered_by_shopify_html": "ဤဆိုင်ကို {{ shopify }} မှ ပံ့ပိုးပေးမည်"
+    },
+    "social": {
+      "alt_text": {
+        "share_on_facebook": "Facebook တွင်မျှဝေပါ။",
+        "share_on_twitter": "X တွင်မျှဝေပါ။",
+        "share_on_pinterest": "Pinterest တွင် ပင်ထိုးပါ။"
+      },
+      "links": {
+        "instagram": "အင်စတာဂရမ်"
+      }
+    },
+    "continue_shopping": "ဆက်လက်စျေးဝယ်ပါ။",
+    "pagination": {
+      "page": "စာမျက်နှာ {{ number }}",
+      "next": "နောက်စာမျက်နှာ",
+      "previous": "ယခင်စာမျက်နှာ"
+    },
+    "search": {
+      "search": "ရှာရန်",
+      "reset": "ရှာဖွေမှုအသုံးအနှုန်းကို ရှင်းလင်းပါ။"
+    },
+    "cart": {
+      "view": "လှည်းကြည့်ရန် ( {{ count }} )",
+      "view_empty_cart": "လှည်းကြည့်",
+      "item_added": "ပစ္စည်းကို သင့်စျေးဝယ်လှည်းသို့ ထည့်ပြီးပါပြီ။"
+    },
+    "share": {
+      "close": "အနီးကပ်မျှဝေသည်။",
+      "copy_to_clipboard": "လင့်ခ်ကို ကူးယူပါ။"
+    }
+  },
+  "products": {
+    "modal": {
+      "label": "မီဒီယာပြခန်း"
+    },
+    "facets": {
+      "filter_and_operator_subtitle": "အားလုံးကို ယှဉ်ပါ။",
+      "apply": "လျှောက်ထားပါ။",
+      "clear": "ရှင်းပါတယ်။",
+      "clear_all": "အားလုံးကို ဖယ်ရှားပါ။",
+      "from": "ထံမှ",
+      "filter_and_sort": "စစ်ထုတ်ပြီး အမျိုးအစားခွဲပါ။",
+      "filter_by_label": "စစ်ထုတ်ခြင်း-",
+      "filter_button": "ဇကာ",
+      "filters_selected": {
+        "one": "{{ count }} ကို ရွေးထားသည်။",
+        "other": "{{ count }} ကို ရွေးထားသည်။"
+      },
+      "filter_selected_accessibility": "{{ type }} ( {{ count }} စစ်ထုတ်မှုများကို ရွေးထားသည်)",
+      "show_more": "ပိုပြပါ။",
+      "show_less": "လျှော့ပြပါ။",
+      "max_price": "အမြင့်ဆုံးစျေးနှုန်းမှာ {{ price }}",
+      "product_count": {
+        "one": "ထုတ်ကုန် {{ count }} } ၏ {{ product_count }}",
+        "other": "ထုတ်ကုန် {{ count }} ၏ {{ product_count }}"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} ထုတ်ကုန်",
+        "other": "{{ count }} ထုတ်ကုန်များ"
+      },
+      "reset": "ပြန်လည်သတ်မှတ်ပါ။",
+      "sort_button": "မျိုးတူစု",
+      "sort_by_label": "အလိုက်စဥ်သည်:",
+      "to": "ရန်",
+      "clear_filter": "စစ်ထုတ်မှုကို ဖယ်ရှားပါ။"
+    }
+  },
+  "templates": {
+    "search": {
+      "no_results": "“ {{ terms }} ” အတွက် ရလဒ်များ မတွေ့ပါ။ စာလုံးပေါင်းကို စစ်ဆေးပါ သို့မဟုတ် မတူညီသော စကားလုံး သို့မဟုတ် စကားစုကို အသုံးပြုပါ။",
+      "page": "စာမျက်နှာ",
+      "products": "ထုတ်ကုန်များ",
+      "results_pages_with_count": {
+        "one": "{{ count }} စာမျက်နှာ",
+        "other": "{{ count }} စာမျက်နှာ"
+      },
+      "results_suggestions_with_count": {
+        "one": "{{ count }} အကြံပြုချက်",
+        "other": "အကြံပြုချက် {{ count }}"
+      },
+      "results_products_with_count": {
+        "one": "{{ count }} ထုတ်ကုန်",
+        "other": "{{ count }} ထုတ်ကုန်များ"
+      },
+      "results_with_count": {
+        "one": "{{ count }} ရလဒ်",
+        "other": "{{ count }} ရလဒ်များ"
+      },
+      "results_with_count_and_term": {
+        "one": "“ {{ terms }} ” အတွက် ရလဒ် {{ count }} တွေ့ရှိပါသည်",
+        "other": "“ {{ terms }} ” အတွက် {{ count }} ရလဒ်များ တွေ့ရှိသည်"
+      },
+      "title": "ရှာဖွေမှုရလဒ်များ",
+      "search_for": "“ {{ terms }} ” ကို ရှာပါ",
+      "suggestions": "အကြံပြုချက်များ",
+      "pages": "စာမျက်နှာများ"
+    },
+    "cart": {
+      "cart": "လှည်း"
+    },
+    "contact": {
+      "form": {
+        "title": "ဆက်သွယ်ရန်ပုံစံ",
+        "name": "နာမည်",
+        "email": "အီးမေးလ်",
+        "phone": "ဖုန်းနံပါတ်",
+        "comment": "မှတ်ချက်",
+        "send": "ပို့ပါ။",
+        "post_success": "ကျွန်ုပ်တို့ကို ဆက်သွယ်သည့်အတွက် ကျေးဇူးတင်ပါသည်။ ကျွန်ုပ်တို့သည် သင့်ထံ အမြန်ဆုံးပြန်လည်ရောက်ရှိပါမည်။",
+        "error_heading": "အောက်ပါတို့ကို ချိန်ညှိပါ-"
+      }
+    },
+    "404": {
+      "title": "စာမျက်နှာကို ရှာမတွေ့ပါ။"
+    }
+  },
+  "localization": {
+    "country_label": "နိုင်ငံ/ဒေသ",
+    "language_label": "ဘာသာစကား",
+    "update_language": "ဘာသာစကားကို အပ်ဒိတ်လုပ်ပါ။",
+    "update_country": "နိုင်ငံ/ဒေသကို အပ်ဒိတ်လုပ်ပါ။",
+    "search": "ရှာရန်",
+    "popular_countries_regions": "လူကြိုက်များသော နိုင်ငံ/ဒေသများ",
+    "country_results_count": "{{ count }} နိုင်ငံ/ဒေသများကို တွေ့ရှိခဲ့သည်။"
+  }
+}
